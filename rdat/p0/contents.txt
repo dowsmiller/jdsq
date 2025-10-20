@@ -1,0 +1,3 @@
+This corpus contains all the texts in BnF fr. 24432 which have not been attributed to Jehan, with the exception of the manuscript's fragmentary poetic texts, namely:
+
+16-Patrenostre.txt52-LaiAmour1.txt60-TMTV2.txt

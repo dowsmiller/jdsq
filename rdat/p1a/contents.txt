@@ -1,0 +1,3 @@
+This corpus contains all the poetic texts in BnF fr. 24432 which have not been attributed to Jehan and which are written in monorhyme alexandrine quatrains, namely:
+
+01-GdA.txt24-BibleNostreDame.txt26-PoinesEnfer.txt29-VieMonde.txt44-Mais.txt54-RobertDeable.txt56-Menage.txt

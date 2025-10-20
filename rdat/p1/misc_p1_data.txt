@@ -1,0 +1,29 @@
+Guillaume: P36 E0
+Bible: P4 E4
+Vision: P8 E5
+Vie du Monde: P0 E4
+Mais: P4 E4
+Robert: P15 E1
+Menage: P2 E1 (although incorporated because dialogue)
+
+
+
+palette
+j = "#006493"
+f = "#444e86"
+l = "#955196"
+r = "#dd5182"
+b = "#ff6e54"
+p = "#ffa600"
+
+GdA
+21: aaaaaaaaaaaaaaaaaaaaa
+3:  bbb
+82: cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+0:
+
+Rob
+20: aaaaaaaaaaaaaaaaaaaa
+9:  bbbbbbbbb
+68: cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+2:  dd

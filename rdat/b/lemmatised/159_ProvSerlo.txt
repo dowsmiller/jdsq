@@ -1,0 +1,886 @@
+Pur	PRE	pour
+suffreite	NOMcom	souffrète
+de	PRE	de
+prud	ADJqua	preux
+hume	NOMcom	homme
+met	VERcjg	metre
+lum	DETpos	lon
+fol	ADJqua	fol
+en	PRE	en
+banc	NOMcom	banc
+.	PONfrt	.
+
+Si	ADVgen	si
+fert	VERcjg	férir
+ki	PROrel	qui
+ne	ADVneg	ne
+ueit	VERcjg	voir
+.	PONfrt	.
+
+Meulz	ADVgen	mieux
+ualt	VERcjg	vouloir
+paille	NOMcom	paille
+en	PRE	en
+dent	NOMcom	dent
+que	CONsub	que
+nient	ADVgen	néant
+.	PONfrt	.
+
+Ki	PROrel	qui
+meuz	VERppe	mouvoir
+ne	ADVneg	ne
+pot	VERcjg	pöoir
+a	PRE	a
+sa	DETpos	son
+ueille	NOMcom	veille
+se	PROper	soi
+dort	VERcjg	dormir
+.	PONfrt	.
+
+Ki	PROrel	qui
+ne	ADVneg	ne
+feit	VERcjg	faire
+quant	CONsub	cant
+il	PROper	il
+poet	VERcjg	pouvoir
+,	PONfbl	,
+ne	ADVneg	ne
+fert	VERcjg	férir
+quent	CONsub	quand
+il	PROper	il
+uolt	VERcjg	vouloir
+.	PONfrt	.
+
+Al	PRE.DETdef	à.le
+uespre	NOMcom	vêpre
+deit	VERcjg	devoir
+lum	PROper	le
+loer	VERinf	löer
+le	DETdef	le
+ior	NOMcom	jour
+.	PONfrt	.
+
+“	PONpga	“
+Dehez	NOMcom	dehé
+eient	VERcjg	être
+tanz	ADVgen	tant
+meistres,”dist	VERcjg	mettre
+le	DETdef	le
+crapod	NOMcom	crapot
+al	PRE.DETdef	à.le
+herce	NOMcom	herce
+.	PONfrt	.
+
+meulzuaut	VERcjg	mouloir
+nature	NOMcom	nature
+que	CONsub	que
+nourreture	NOMcom	nourreture
+.	PONfrt	.
+
+Bunte	NOMcom	bonte
+altre	DETind	autre
+requertuardeé	VERppe	requertarder
+colée	VERppe	coler
+sa	DETpos	son
+per	NOMcom	pair
+.	PONfrt	.
+
+Un	DETndf	un
+iur	NOMcom	jeur
+porte	VERcjg	porter
+que	CONsub	que
+tut	DETind	tout
+lan	PROind	lon
+ne	ADVneg	ne
+pot	VERcjg	pöoir
+.	PONfrt	.
+
+Bel	ADJqua	beau
+pramettre	VERinf	promettre
+é	VERcjg	ez
+nient	ADVgen	néant
+doner	VERinf	doner
+fait	VERcjg	faire
+fol	ADJqua	fol
+conforter	VERinf	conforter
+.	PONfrt	.
+
+Ceo	PROdem	ce
+que	PROrel	que
+oill	NOMcom	oeil
+ne	ADVneg	ne
+ueit	VERcjg	voir
+quer	NOMcom	cœur
+ne	ADVneg	ne
+dout	VERcjg	devoir
+.	PONfrt	.
+
+Ki	PROrel	qui
+uedue	VERppe	voir
+u	CONcoo	ou
+enfant	NOMcom	enfant
+sert	VERcjg	servir
+,	PONfbl	,
+tut	DETind	tout
+sun	DETpos	son
+seruise	NOMcom	service
+pert	VERcjg	perdre
+.	PONfrt	.
+
+A	PRE	a
+tel	DETind	tel
+marche	NOMcom	marche
+tel	DETind	tel
+uente	NOMcom	vente
+.	PONfrt	.
+
+Ki	PROrel	qui
+en	PRE	en
+ieu	NOMcom	jeu
+entre	VERcjg	entrer
+,	PONfbl	,
+ieu	PROper	je
+consente	VERcjg	consentir
+.	PONfrt	.
+
+Ki	PROrel	qui
+feit	VERcjg	faire
+e	CONcoo	et
+nent	PROind	nant
+ne	ADVneg	ne
+parfeit	VERcjg	parfaire
+,	PONfbl	,
+nent	PROind	nant
+ne	ADVneg	ne
+desert	VERcjg	desservir
+.	PONfrt	.
+
+Ki	PROrel	qui
+tart	ADVgen	tart
+se	PROper	soi
+herberge	VERcjg	herbergier
+,	PONfbl	,
+tost	ADVgen	tost
+se	PROper	soi
+curuce	VERcjg	courroucer
+.	PONfrt	.
+
+De	PRE	de
+autri	DETind	autre
+quir	NOMcom	cuir
+large	ADJqua	large
+coraie	NOMcom	coraie
+.	PONfrt	.
+
+U	PROrel	où
+fu	VERcjg	estre
+nest	ADJqua	naist
+,	PONfbl	,
+nest	VERcjg	naistre
+fumee	VERppe	fumer
+.	PONfrt	.
+
+Chascun	DETind	chascun
+prestre	NOMcom	prêtre
+loe	VERcjg	löer
+ses	DETpos	son
+reliques	NOMcom	relique
+.	PONfrt	.
+
+Mal	NOMcom	mal
+atent	VERcjg	attendre
+ki	PROrel	qui
+pent	VERcjg	pendre
+.	PONfrt	.
+
+Ki	PROrel	qui
+bien	ADVgen	bien
+atent	VERcjg	attendre
+ne	ADVneg	ne
+suratent	VERcjg	surater
+.	PONfrt	.
+
+Sun	DETpos	son
+tens	NOMcom	temps
+pert	VERcjg	perdre
+ki	PROrel	qui
+felun	ADJqua	félon
+sert	VERcjg	servir
+.	PONfrt	.
+
+Ki	PROrel	qui
+crapoud	VERppe	crapir
+aime	VERcjg	amer
+lune	NOMcom	lune
+li	PROper	il
+semble	VERcjg	sembler
+.	PONfrt	.
+
+Force	NOMcom	force
+paist	VERcjg	paître
+le	DETdef	le
+pre	NOMcom	pre
+.	PONfrt	.
+
+Meulz	ADVgen	mieux
+ualt	VERcjg	vouloir
+un	DETcar	un
+“	PONpga	“
+tens	NOMcom	temps
+”	PONpdr	”
+que	CONsub	que
+doux	PROcar	deux
+“	PONpga	“
+tu	PROper	tu
+laueras	VERcjg	laver
+”	PONpdr	”
+.	PONfrt	.
+
+Cuuenant	VERppa	convenir
+lai	NOMcom	lai
+ueint	VERcjg	venir
+.	PONfrt	.
+
+Pur	PRE	pour
+bien	ADVgen	bien
+fait	VERcjg	faire
+col	NOMcom	col
+freint	VERppe	fraindre
+.	PONfrt	.
+
+Ki	PROrel	qui
+ne	ADVneg	ne
+dune	VERcjg	donner
+que	PROrel	que
+il	PROper	il
+aime	VERcjg	amer
+ne	CONcoo	ne
+prent	VERcjg	prendre
+quo	CONsub	que
+desire	VERcjg	descirier
+.	PONfrt	.
+
+Bysuinne	NOMpro	Bisuse
+fait	VERcjg	faire
+ueille	NOMcom	veille
+trotter	VERinf	troter
+.	PONfrt	.
+
+Meuz	ADVgen	moux
+ualt	ADJqua	val
+pume	NOMcom	pomme
+dune	VERcjg	donner
+que	PROrel	que
+mange	VERcjg	mangier
+.	PONfrt	.
+
+Li	PROper	il
+chat	VERcjg	choir
+set	DETcar	sept
+ben	ADVgen	bien
+ki	PROrel	qui
+barbe	NOMcom	barbe
+illecche	VERcjg	illuechier
+.	PONfrt	.
+
+Chiens	NOMcom	chien
+en	PRE	en
+cuisine	NOMcom	cuisine
+son	DETpos	son
+per	NOMcom	pair
+n'	ADVneg	ne
+i	PROadv	i
+desirre	VERcjg	desirrer
+.	PONfrt	.
+
+Laues	ADJqua	lave
+chien	NOMcom	chien
+,	PONfbl	,
+peinez	VERcjg	peiner
+chien	NOMcom	chien
+,	PONfbl	,
+tuteveis	ADVgen	toutevois
+est	VERcjg	estre
+chen	ADJqua	chien
+chen	NOMcom	chien
+.	PONfrt	.
+
+Que	CONsub	que
+oil	NOMcom	oeil
+ne	ADVneg	ne
+ueit	VERcjg	voir
+quor	NOMcom	coeur
+ne	ADVneg	ne
+desiret	VERcjg	désirer
+.	PONfrt	.
+
+Ceo	PROdem	ce
+est	VERcjg	estre
+dreit	NOMcom	droit
+que	PROrel	que
+bele	ADJqua	bel
+femme	NOMcom	femme
+puite	NOMcom	puite
+fait	VERcjg	faire
+.	PONfrt	.
+
+Male	ADJqua	mal
+buche	NOMcom	bouche
+deit	VERcjg	devoir
+lum	DETpos	lon
+luer	NOMcom	loyer
+.	PONfrt	.
+
+Ki	PROrel	qui
+bien	ADVgen	bien
+eimet	VERcjg	aimer
+tart	ADVgen	tart
+le	DETdef	le
+ublie	NOMcom	oublie
+.	PONfrt	.
+
+Main	NOMcom	main
+u	CONcoo	ou
+dout	VERcjg	devoir
+oill	NOMcom	oeil
+u	CONcoo	ou
+uout	VERcjg	vouloir
+.	PONfrt	.
+
+Ki	PROrel	qui
+tut	PROind	tout
+me	PROper	je
+pramet	VERcjg	promettre
+,	PONfbl	,
+ne	ADVneg	ne
+me	PROper	je
+pramet	VERcjg	promettre
+.	PONfrt	.
+
+Ne	CONcoo	ne
+mal	NOMcom	mal
+feire	VERinf	faire
+ne	CONcoo	ne
+creire	VERinf	croire
+.	PONfrt	.
+
+Ki	PROrel	qui
+de	PRE	de
+luinz	ADVgen	loin
+ueit	VERcjg	voir
+que	CONsub	que
+aimet	VERcjg	aimer
+de	PRE	de
+pres	ADVgen	près
+se	PROper	soi
+eioist	VERcjg	aidier
+.	PONfrt	.
+
+Ki	PROrel	qui
+est	VERcjg	estre
+garniz	VERppe	garnir
+nest	VERcjg	naistre
+pas	ADVneg	pas
+huniz	VERppe	honnir
+.	PONfrt	.
+
+Forte	ADJqua	fort
+chose	NOMcom	chose
+a	VERcjg	avoir
+en	PRE	en
+“	PONpga	“
+faire	VERinf	faire
+lestet	VERcjg	lester
+.	PONfbl	.
+”	PONpdr	”
+Meulz	ADVgen	mieux
+ualt	VERcjg	vouloir
+un	DETndf	un
+bon	ADJqua	bon
+atente	NOMcom	attente
+que	CONsub	que
+malueise	ADJqua	mauvais
+haste	VERcjg	haster
+.	PONfrt	.
+
+Si	ADVgen	si
+halt	ADJqua	haut
+si	ADVgen	si
+bas	ADJqua	bas
+.	PONfrt	.
+
+Pur	PRE	pour
+nentuadcunseil	NOMcom	nentadiconteau
+ki	PROrel	qui
+nul	PROind	nul
+ne	ADVneg	ne
+creit	VERcjg	croire
+.	PONfrt	.
+
+Desuz	PRE	dessous
+bon	ADJqua	bon
+seignur	NOMcom	seigneur
+prent	VERcjg	prendre
+hume	NOMcom	homme
+grant	ADJqua	grant
+colee	NOMcom	colee
+.	PONfrt	.
+
+Bel	ADJqua	beau
+seruisa	VERcjg	servicier
+trait	VERppe	traire
+pain	NOMcom	pain
+de	PRE	de
+main	NOMcom	main
+.	PONfrt	.
+
+Asurement	ADVgen	assurement
+beit	VERcjg	boire
+ki	PROrel	qui
+sun	DETpos	son
+li	PROper	il
+ueit	VERcjg	voir
+.	PONfrt	.
+
+Cum	CONsub	comme
+pot	VERcjg	pöoir
+si	ADVgen	si
+prenget	VERcjg	prendre
+.	PONfrt	.
+
+Priue	ADJqua	pri
+seignur	NOMcom	seigneur
+fait	VERcjg	faire
+fol	ADJqua	fol
+garcun	NOMcom	garcon
+.	PONfrt	.
+
+Uncore	ADVgen	encore
+nest	VERcjg	naistre
+lespurun	NOMcom	lépouron
+fait	VERppe	faire
+é	CONcoo	et
+ia	ADVgen	jà
+se	PROper	soi
+testent	VERcjg	tétir
+le	DETdef	le
+.	PONfrt	.
+
+En	PRE	en
+iuer	NOMcom	jeuer
+plot	VERcjg	plaire
+quant	CONsub	cant
+pot	VERcjg	pöoir
+,	PONfbl	,
+en	PROadv	en
+este	VERcjg	estre
+quant	CONsub	cant
+Du	PRE.DETdef	de.le
+uout	NOMcom	vout
+.	PONfrt	.
+
+Nest	VERcjg	naistre
+hume	NOMcom	homme
+ki	PROrel	qui
+ne	ADVneg	ne
+prent	VERcjg	prendre
+sumne	NOMcom	somme
+.	PONfrt	.
+
+Qui	PROrel	que
+contre	PRE	contre
+aguillion	NOMcom	aiguillon
+rebelle	VERcjg	rebeller
+deus	DETcar	deux
+fois	NOMcom	fois
+se	PROper	soi
+point	VERcjg	poindre
+.	PONfrt	.
+
+Ne	CONcoo	ne
+hui	ADVgen	ui
+que	CONsub	que
+her	ADVgen	hier
+.	PONfrt	.
+
+Len	PROind	le
+n'	ADVneg	ne
+a	VERcjg	avoir
+nul	DETind	nul
+demain	ADVgen	demain
+.	PONfrt	.
+
+Entre	PRE	entre
+faire	VERinf	faire
+et	CONcoo	et
+dire	VERinf	dire
+a	PRE	a
+moult	ADVgen	moult
+.	PONfrt	.
+
+Passe	VERcjg	passer
+chen	NOMcom	chien
+en	PRE	en
+batel	NOMcom	batel
+,	PONfbl	,
+si	ADVgen	si
+te	PROper	tu
+abaira	VERcjg	abair
+quant	CONsub	cant
+vendra	VERcjg	venir
+a	PRE	a
+riue	NOMcom	rive
+.	PONfrt	.
+
+Mere	NOMcom	mere
+que	CONcoo	que
+mere	NOMcom	mere
+.	PONfrt	.
+
+Lunges	ADVgen	longues
+atent	VERcjg	attendre
+ke	CONsub	que
+primes	ADVgen	prim
+apient	VERcjg	appendre
+.	PONfrt	.
+
+Solone	ADJqua	solon
+tens	NOMcom	temps
+temprure	VERcjg	temprurer
+.	PONfrt	.
+
+Meuz	ADVgen	moux
+ualt	VERcjg	vouloir
+pres	ADVgen	près
+iunchere	NOMcom	ionchere
+ke	CONsub	que
+lung	ADJqua	long
+praere	NOMcom	präere
+.	PONfrt	.
+
+Fol	ADJqua	fol
+ne	ADVneg	ne
+creit	VERcjg	croire
+ne	CONcoo	ne
+mais	ADVgen	mais
+ceo	PROdem	ce
+quil	PROrel.PROper	qui.le
+ueit	VERcjg	voir
+.	PONfrt	.
+
+Vyaunde	NOMcom	viaune
+preste	ADJqua	prêt
+,	PONfbl	,
+levre	NOMcom	levre
+en	PRE	en
+geneste	NOMcom	geneste
+.	PONfrt	.
+
+Mens	NOMcom	mens
+ouis	NOMcom	ouis
+et	CONcoo	et
+linumsuper	VERinf	linomsuper
+ostrum	VERcjg	oster
+corque	NOMcom	corque
+lupinum	ETR	Lupin
+.	PONfrt	.
+
+“	PONpga	“
+El	PROper	il
+ad	VERcjg	avoir
+en	PRE	en
+tine,dit	NOMcom	tendit
+le	DETdef	le
+suriz	NOMcom	surit
+,	PONfbl	,
+que	CONsub	que
+farine	NOMcom	farine
+.	PONfbl	.
+”	PONpdr	”
+Qui	PROint	que
+te	PROper	tu
+formidat,passer	VERinf	formidasser
+,	PONfbl	,
+miluumne	NOMcom	melomame
+strui	VERcjg	struire
+dat	NOMcom	dat
+?	PONfrt	?
+
+Len	PROper	le
+dit	VERcjg	dire
+en	PRE	en
+reproueir	VERinf	réprouver
+que	CONsub	que
+toziourz	NOMcom	tostior
+aime	VERcjg	amer
+amis	NOMcom	ami
+.	PONfrt	.
+
+Meuz	ADVgen	moux
+ualt	VERcjg	vouloir
+honuree	VERppe	honorer
+ke	CONsub	que
+uentree	VERppe	vaincrer
+.	PONfrt	.
+
+Si	ADVgen	si
+fet	VERcjg	faire
+ki	PROrel	qui
+pot	VERcjg	pöoir
+.	PONfrt	.
+
+Hume	NOMcom	homme
+ne	ADVneg	ne
+set	VERcjg	savoir
+quil	PROrel.PROper	qui.le
+ad	VERcjg	avoir
+,	PONfbl	,
+tresquil	PROind	tresquel
+ne	ADVneg	ne
+nad	VERcjg	naître
+.	PONfrt	.
+
+“	PONpga	“
+Chescun	PROind	chacun
+pur	ADJqua	pur
+sei,”dist	VERcjg	soivre
+le	DETdef	le
+pucin	NOMcom	poucin
+.	PONfrt	.
+
+Ki	PROrel	qui
+fol	ADJqua	fol
+enuoit	VERcjg	envoyer
+a	PRE	a
+mere	NOMcom	mere
+,	PONfbl	,
+ne	CONcoo	ne
+poisson	NOMcom	poisson
+ne	CONcoo	ne
+el	PROper	il
+.	PONfrt	.
+
+Il	PROper	il
+ne	ADVneg	ne
+vait	VERcjg	aller
+pas	ADVneg	pas
+dou	PRE.DETdef	de.le
+tout	PROind	tout
+a	PRE	a
+honte	NOMcom	honte
+qui	PROrel	que
+de	PRE	de
+mivoie	NOMcom	mivoie
+se	PROper	soi
+retorne	VERcjg	retorner
+.	PONfrt	.
+
+Bele	ADJqua	bel
+la	PROper	il
+me	PROper	je
+fai	VERcjg	faire
+,	PONfbl	,
+bele	ADJqua	bel
+la	ADVgen	là
+te	PROper	tu
+ferai	VERcjg	faire
+.	PONfrt	.
+
+Par	PRE	par
+petit	ADJqua	petit
+pertruiz	NOMcom	pertruiz
+voit	VERcjg	vëoir
+on	PROind	on
+son	DETpos	son
+ami	NOMcom	ami
+.	PONfrt	.
+
+Apres	PRE	après
+le	DETdef	le
+rei	NOMcom	roi
+uait	VERcjg	voyer
+la	DETdef	le
+lei	NOMcom	loi
+.	PONfrt	.
+
+Aise	NOMpro	Aise
+fet	VERcjg	faire
+larron	NOMcom	larron
+.	PONfrt	.
+
+Plus	ADVgen	plus
+couent	VERcjg	conter
+al	PRE.DETdef	à.le
+cheual	NOMcom	cheval
+ke	CONsub	que
+lesperun	NOMcom	léperon
+.	PONfrt	.
+
+Co	PROdem	ce
+quide	VERcjg	cuider
+le	DETdef	le
+lere	NOMcom	larron
+ke	CONsub	que
+tuz	PROind	tous
+scient	VERcjg	scier
+sis	DETpos	son
+frers	NOMcom	frer
+.	PONfrt	.
+
+Poure	ADJqua	pauvre
+home	NOMcom	ome
+nad	VERcjg	naître
+lei	NOMcom	loi
+.	PONfrt	.
+
+Meuz	VERppe	mouvoir
+ualt	VERcjg	vouloir
+a	PRE	a
+cur	NOMcom	cour
+nestre	VERinf	naistre
+ke	CONsub	que
+de	PRE	de
+bons	ADJqua	bon
+estre	VERinf	estre
+.	PONfrt	.
+
+Ne	ADVneg	ne
+a	VERcjg	avoir
+fur	NOMcom	fur
+baer	VERinf	bëer
+na	CONcoo	na
+fol	ADJqua	fol
+tencer	VERinf	tancer
+.	PONfrt	.
+
+En	PRE	en
+plein	ADJqua	plein
+mine	NOMcom	mine
+de	PRE	de
+cuider	VERinf	cuidier
+ne	ADVneg	ne
+ad	VERcjg	avoir
+plein	ADJqua	plein
+puin	NOMcom	poing
+de	PRE	de
+sauer	VERinf	savoir
+.	PONfrt	.
+
+Mai	CONcoo	mai
+ne	ADVneg	ne
+uait	VERcjg	voyer
+ke	CONsub	que
+ne	ADVneg	ne
+reuenge	VERcjg	revenir
+.	PONfrt	.
+
+Suef	ADVgen	souef
+se	PROper	soi
+chastie	VERcjg	chastiier
+ki	PROrel	qui
+par	PRE	par
+altre	PROind	autre
+se	PROper	soi
+chastie	VERcjg	chastiier
+.	PONfrt	.
+
+Veil	ADJqua	vieux
+peche	NOMcom	pèche
+fat	VERcjg	faire
+nouele	ADJqua	nouveau
+hunte	NOMcom	honte
+.	PONfrt	.
+
+Ne	ADVneg	ne
+let	VERcjg	laiier
+naut	ADVgen	naut
+bin	ADVgen	bin
+olde	NOMcom	oude
+frende	VERcjg	frandre
+for	PRE	fors
+be	ADJqua	be
+newe	NOMcom	neveu
+.	PONfrt	.
+
+Pur	PRE	pour
+manger	VERinf	manger
+deuez	VERcjg	devoir
+cumbatir	VERinf	combattre
+,	PONfbl	,
+pur	PRE	pour
+femme	NOMcom	femme
+tencer	VERinf	tancer
+.	PONfrt	.
+
+De	PRE	de
+poi	ADVgen	peu
+petit	ADJqua	petit
+.	PONfrt	.
+
+Des	PRE.DETdef	de
+cotes	NOMcom	cote
+rit	VERcjg	rire
+qui	PROrel	que
+sun	DETpos	son
+domage	NOMcom	damage
+voit	VERcjg	vëoir
+.	PONfrt	.
+
+Tout	ADVgen	tout
+est	VERcjg	estre
+ale	ADJqua	al
+quamqueBertafile	NOMcom	camquertafle
+.	PONfrt	.
+
+A	PRE	a
+voyde	ADJqua	vide
+mayn	NOMcom	main
+voyde	ADJqua	vide
+priere	NOMcom	prière
+.	PONfrt	.
+
+Voyde	ADJqua	voix
+chaumbre	NOMcom	chaumbre
+fet	VERcjg	faire
+fole	ADJqua	fol
+dame	NOMcom	dame
+.	PONfrt	.
+
+De	PRE	de
+dous	DETcar	deux
+mals	NOMcom	mal
+le	DETdef	le
+meins	ADVgen	moins
+mal	NOMcom	mal
+.	PONfrt	.
+
+De	PRE	de
+hoste	NOMcom	hôte
+e	CONcoo	et
+de	PRE	de
+pluie	NOMcom	pluie
+apres	ADVgen	après
+tert	VERcjg	terdre
+iur	NOMcom	jeur
+ennuie	NOMcom	enpuie
+.	PONfrt	.
+
+L'	DETdef	le
+heuredespuruue	NOMcom	heurépureu
+semble	VERcjg	sembler
+beste	NOMcom	beste
+cornue	VERppe	corner
+.	PONfrt	.
+
+Apres	PRE	après
+la	DETdef	le
+feste	NOMcom	fête
+Saint	ADJqua	saint
+Thomas	NOMpro	Tomas
+bele	ADJqua	bel
+fille	NOMcom	fille
+tuche	VERcjg	tuchier
+la	DETdef	le
+sarz	NOMcom	sart
+.	PONfrt	.
+

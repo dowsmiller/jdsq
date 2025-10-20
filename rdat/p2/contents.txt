@@ -1,0 +1,3 @@
+This corpus contains all the prose texts in BnF fr. 24432, namely:
+
+21-Aristote.txt25-SeptDormant.txt27-TrenteJours.txt71-Songes.txt77-SpeculumEcclesiae.txt78-Lucidaires.txt89-Proverbes.txt90-Misere.txt

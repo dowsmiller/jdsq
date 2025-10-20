@@ -1,0 +1,573 @@
+Chi	PROrel	qui
+certe	ADJqua	cert
+cose	NOMcom	chose
+deit	VERcjg	devoir
+enquerre	VERinf	enquérir
+,	PONfbl	,
+ses	DETpos	son
+iunies	NOMcom	jeûne
+deit	VERcjg	devoir
+faire	VERinf	faire
+e	CONcoo	et
+ses	DETpos	son
+elemosinas	NOMcom	ellomine
+e	CONcoo	et
+ne	ADVneg	ne
+deit	VERcjg	devoir
+estre	VERinf	estre
+e	CONcoo	et
+missa	VERcjg	misser
+et	CONcoo	et
+matinas	NOMcom	matines
+deit	VERcjg	devoir
+orer	VERinf	orer
+e	CONcoo	et
+ses	DETpos	son
+septem	ADJord	septe
+psalmes	NOMcom	psaume
+e	CONcoo	et
+sa	DETpos	son
+letania	NOMcom	leitanie
+e	CONcoo	et
+ses	DETpos	son
+oratiuns	NOMcom	oration
+et	CONcoo	et
+aqua	ADVgen	aca
+benedicta	NOMcom	bénéicté
+.	PONfrt	.
+
+Antiphona	NOMpro	Antiphone
+.	PONfrt	.
+
+Nos	PROper	nos
+autem	ETR	autem
+gloriari	VERcjg	glorire
+.	PONfrt	.
+
+Psalmus	NOMcom	psalmous
+.	PONfrt	.
+
+Deus	NOMpro	Dieu
+misereatur	NOMcom	miséreat
+.	PONfrt	.
+
+Oratio	NOMcom	oratio
+.	PONfrt	.
+
+Deus	NOMpro	Dieu
+qui	PROrel	que
+in	PROadv	en
+praeclara	VERcjg	préclarer
+.	PONfrt	.
+
+Epistola	NOMcom	espistole
+.	PONfrt	.
+
+Fratres	NOMcom	frate
+confido	ADJqua	confide
+in	PRE	en
+vobis	NOMcom	vois
+.	PONfrt	.
+
+Alleluia	NOMcom	alleude
+.	PONfrt	.
+
+Nos	PROper	nos
+autem	VERcjg	auter
+.	PONfrt	.
+
+Alleluia	NOMcom	alleude
+.	PONfrt	.
+
+Dulce	ADJqua	doux
+lignum	NOMcom	lignum
+.	PONfrt	.
+
+Evangelium	NOMcom	evangelion
+.	PONfrt	.
+
+Erat	VERcjg	être
+homo	NOMcom	homme
+ex	PRE.DETdef	en.le
+phariseis	NOMcom	parisais
+.	PONfrt	.
+
+Offertorium	NOMcom	ofretorie
+.	PONfrt	.
+
+Protege	NOMcom	protege
+Domine	NOMcom	domine
+.	PONfrt	.
+
+Secreta	NOMcom	secret
+.	PONfrt	.
+
+Sacrifitium	VERcjg	sacrifichier
+Domine	NOMcom	domine
+.	PONfrt	.
+
+Agnus	NOMcom	agneu
+Dei	NOMpro	Dieu
+.	PONfrt	.
+
+Agnus	NOMcom	agneu
+Dei	NOMpro	Dieu
+.	PONfrt	.
+
+Ore	ADVgen	or
+preiuns	VERcjg	prier
+devine	ADJqua	divin
+misericordie	NOMcom	miséricordie
+e	CONcoo	et
+ma	DETpos	mon
+damne	NOMcom	dame
+sancta	ADJqua	saint
+Maria	NOMpro	Marie
+e	CONcoo	et
+ma	DETpos	mon
+damne	NOMcom	dame
+sainte	ADJqua	saint
+Cruiz	NOMcom	croix
+et	CONcoo	et
+ma	DETpos	mon
+damne	NOMcom	dame
+sancta	ADJqua	saint
+Elena	NOMpro	Elana
+et	CONcoo	et
+toz	DETind	tot
+sainz	NOMcom	saint
+et	CONcoo	et
+totes	DETind	tot
+saintes	ADJqua	saint
+et	CONcoo	et
+toz	DETind	tot
+les	DETdef	le
+fedelz	ADJqua	fidèle
+damine	NOMcom	damine
+Deu	NOMpro	Dieu
+,	PONfbl	,
+qui	PROrel	que
+trinus	ADJqua	trinus
+est	VERcjg	estre
+in	PRE	en
+numero	NOMcom	nommer
+et	CONcoo	et
+unus	ADJqua	uneux
+est	VERcjg	estre
+in	PRE	en
+homine	NOMcom	homine
+,	PONfbl	,
+que	CONsub	que
+il	PROper	il
+tot	PROind	tot
+preient	VERcjg	prier
+damine	NOMcom	damine
+Deu	NOMpro	Dieu
+,	PONfbl	,
+que	CONsub	que
+il	PROper	il
+declarast	VERcjg	déclarer
+et	CONcoo	et
+il	PROper	il
+demonstrast	VERcjg	démontrer
+ceste	DETdem	cest
+cose	NOMcom	chose
+,	PONfbl	,
+que	CONsub	que
+nuls	DETind	nul
+uem	NOMcom	homme
+ne	ADVneg	ne
+puscet	VERcjg	pouscher
+estre	VERinf	estre
+encolpet	VERppe	encouper
+si	CONsub	si
+cil	PROdem	cel
+non	ADVneg	non
+chi	PROrel	qui
+dreit	NOMcom	droit
+i	PROadv	i
+ad	VERcjg	avoir
+.	PONfrt	.
+
+Ore	ADVgen	or
+deit	VERcjg	devoir
+lon	ADVgen	loin
+prendre	VERinf	prendre
+une	DETndf	un
+rotele	NOMcom	rotele
+et	CONcoo	et
+ensansunt	VERcjg	enseigner
+en	PRE	en
+un	DETndf	un
+fust	NOMcom	fust
+et	CONcoo	et
+metre	VERinf	metre
+le	PROper	il
+mance	VERcjg	mencier
+ensz	ADVgen	ens
+el	PRE.DETdef	en
+livre	NOMcom	livre
+e	CONcoo	et
+lier	VERinf	liier
+bien	ADVgen	bien
+que	CONsub	que
+nen	ADVneg.PROper	ne.me
+chidet	VERcjg	chier
+,	PONfbl	,
+et	CONcoo	et
+puis	ADVgen	puis
+prendre	VERinf	prendre
+le	DETdef	le
+livre	NOMcom	livre
+par	PRE	par
+la	DETdef	le
+rotele	NOMcom	rotele
+a	PRE	a
+duos	PROcar	deux
+deenz	ADVgen	dans
+et	CONcoo	et
+ius	ADVgen	jus
+prendre	VERinf	prendre
+.	PONfrt	.
+
+Domine	NOMcom	domine
+Jhesu	NOMpro	Jésus
+Christe	NOMpro	Christe
+,	PONfbl	,
+fili	NOMcom	filius
+Dei	NOMpro	Dieu
+vivi	ADJqua	vivie
+,	PONfbl	,
+quia	PROrel	quoi
+tu	PROper	tu
+mundas	VERcjg	monder
+manus	ADJqua	manos
+posuisti	NOMcom	posuiti
+in	PRE	en
+cruce	NOMcom	crouce
+et	CONcoo	et
+nos	DETpos	notre
+omnes	NOMcom	homme
+tuo	ADVgen	tout
+pretioso	ADJqua	pretios
+sanguine	ADJqua	sanguin
+redemisti	VERcjg	redémiter
+,	PONfbl	,
+appareat	VERcjg	apparoyer
+veritas	NOMcom	vérité
+tua	ETR	TUUS
+super	NOMcom	soper
+librum	ETR	Libru
+istum	VERcjg	issir
+,	PONfbl	,
+qui	PROrel	que
+in	ETR	in
+dexteram	VERcjg	dexter
+formasti	NOMcom	formasti
+et	CONcoo	et
+benedixisti	VERppe	bénéisser
+in	PRE	en
+substantia	ADJqua	soubtanti
+hominum	ETR	OMNIS
+et	CONcoo	et
+ad	PRE	à
+continendam	NOMcom	continant
+si	DETpos	son
+veritas	NOMcom	vérité
+est	VERcjg	estre
+qui	PROrel	que
+culpabilis	VERppe	coupabiller
+sit	VERcjg	être
+ille	PROper	elle
+homo	NOMcom	homme
+aliquid	VERcjg	allicier
+qui	PROrel	que
+te	PROper	tu
+.	PONfrt	.
+
+nom	ADVneg	non
+.	PONfrt	.
+
+ill	PROper	il
+.	PONfbl	.
+,	PONfbl	,
+si	CONsub	si
+ille	PROper	elle
+furtum	VERcjg	forter
+fecerit	VERppe	féchir
+aut	NOMcom	aut
+consenserit	NOMcom	consensit
+,	PONfbl	,
+tornet	VERcjg	tourner
+librum	NOMcom	librom
+istum	VERcjg	issir
+,	PONfbl	,
+et	CONcoo	et
+si	CONsub	si
+ille	PROper	elle
+furtum	VERcjg	forter
+non	NOMcom	nom
+fecerit	VERppe	féchir
+nec	ADVgen	nec
+consenserit	VERcjg	consenser
+,	PONfbl	,
+non	ADVneg	non
+tornet	VERcjg	tourner
+.	PONfrt	.
+
+Domine	NOMcom	domine
+Deus	NOMpro	Dieu
+Abraham	NOMpro	Abraham
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+Isaac	NOMpro	Isaac
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+Jacob	NOMpro	Jacob
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+Micael	NOMpro	Michel
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+Gabriel	NOMpro	Gabriel
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+Raphael	NOMpro	Raphaleu
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+angelorum	ETR	AngoLUM
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+arcangelorum	VERcjg	archanger
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+prophetarum	ETR	Prophé
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+apostolorum	VERcjg	apostoler
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+martirum	ETR	martyru
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+confessorum	VERcjg	confesser
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+virginum	ETR	VirgiO
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+omnium	ETR	OMNIS
+sanctorum	ETR	SanCUS
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+qui	PROrel	que
+liberasti	VERcjg	libérastir
+tres	ADVgen	très
+pueros	NOMcom	pueros
+de	PRE	de
+camino	ETR	Camino
+ignis	ADJqua	ignis
+ardentis	ETR	ardentis
+,	PONfbl	,
+Sidrac	NOMpro	Sidrac
+,	PONfbl	,
+Misac	NOMpro	Misac
+et	CONcoo	et
+Abdenago	NOMpro	Abdanage
+,	PONfbl	,
+Domine	ETR	DOMINUS
+Deus	NOMpro	Dieu
+qui	PROrel	que
+liberasti	VERcjg	libérastir
+Danielem	ETR	Danielle
+de	PRE	de
+lacu	NOMcom	lacu
+leonum	ETR	Laonno
+,	PONfbl	,
+libera	VERcjg	libérer
+innocentem	NOMcom	innocente
+et	CONcoo	et
+trade	NOMcom	trade
+malefactorem	VERcjg	maléfactor
+in	PRE	en
+culpam	NOMcom	coupam
+.	PONfrt	.
+
+Psalmus	NOMcom	psalmous
+.	PONfrt	.
+
+Miserere	NOMcom	miserere
+mei	PROper	moi
+Deus	DETcar	deus
+totus	VERcjg	totir
+.	PONfrt	.
+
+Gloria	VERcjg	glorier
+patri	VERcjg	patrir
+.	PONfrt	.
+
+Enquore	ADVgen	encore
+enquirere	VERinf	enquérir
+.	PONfrt	.
+
+Agnus	NOMcom	agneu
+Dei	NOMpro	Dieu
+.	PONfrt	.
+
+Communio	ETR	Communio
+.	PONfrt	.
+
+Redemptor	NOMcom	rédempteur
+mundi	VERcjg	monder
+.	PONfrt	.
+
+Postcommunio	ETR	Postumion
+.	PONfrt	.
+
+Repleti	NOMcom	repleti
+alimonia	VERcjg	allimonier
+.	PONfrt	.
+
+Psalmus	NOMcom	psalmous
+.	PONfrt	.
+
+Profitiat	VERcjg	profiter
+.	PONfrt	.
+
+Missa	VERcjg	messer
+de	PRE	de
+natali	NOMcom	natali
+Domini	NOMpro	Dominis
+deit	VERcjg	devoir
+odir	VERinf	ouïr
+chi	PROrel	qui
+campist	VERcjg	champir
+.	PONfrt	.
+
+Antiphona	NOMpro	Antiphone
+.	PONfrt	.
+
+Lux	NOMpro	Lux
+fulgebit	VERcjg	fulgebir
+.	PONfrt	.
+
+Psalmus	NOMcom	psalmous
+.	PONfrt	.
+
+Dominus	NOMpro	Dominus
+regnavit	VERcjg	regnavier
+.	PONfrt	.
+
+Oratio	NOMcom	oratio
+.	PONfrt	.
+
+Da	ETR	Da
+quaesumus	ETR	quesmus
+omnipotens	ADJqua	omnipotent
+Deus	NOMpro	Dieu
+ut	VERcjg	avoir
+qui	PROrel	que
+nova	VERcjg	novre
+.	PONfrt	.
+
+Epistola	NOMcom	espistole
+.	PONfrt	.
+
+Apparuit	VERcjg	apparoir
+benignitas	NOMcom	bénignat
+.	PONfrt	.
+
+Responsum	VERcjg	répondre
+.	PONfrt	.
+
+Benedictus	NOMpro	Benedict
+qui	PROrel	que
+venit	VERcjg	venir
+.	PONfrt	.
+
+Versus	ADJqua	versus
+.	PONfrt	.
+
+A	PRE	a
+Domino	NOMpro	Domino
+.	PONfrt	.
+
+Alleluia	NOMcom	alleude
+.	PONfrt	.
+
+Dominus	NOMpro	Dominus
+regnavit	VERcjg	regnavier
+.	PONfrt	.
+
+Evangelium	NOMcom	evangelion
+.	PONfrt	.
+
+Pastores	NOMcom	pastoure
+loquebantur	ADJqua	lochentur
+.	PONfrt	.
+
+Offertorium	NOMcom	ofretorie
+.	PONfrt	.
+
+Deus	NOMpro	Dieu
+enim	NOMcom	enim
+firmavit	VERcjg	firmaire
+.	PONfrt	.
+
+Secreta	NOMcom	secret
+.	PONfrt	.
+
+Munera	VERcjg	monner
+nostra	DETpos	notre
+quaesumus	ETR	quesmus
+Domine	NOMcom	domine
+.	PONfrt	.
+
+Missa	VERcjg	messer
+de	PRE	de
+la	DETdef	le
+resurrection	NOMcom	résurrection
+,	PONfbl	,
+missam	VERcjg	mettre
+de	PRE	de
+sancta	ADJqua	saint
+Trinitate	NOMpro	Trinitate
+,	PONfbl	,
+missa	VERcjg	misser
+de	PRE	de
+sancto	ADJqua	sant
+Stephano	NOMpro	Stephano
+deit	VERcjg	devoir
+lun	PROper	le
+dire	VERinf	dire
+por	PRE	por
+le	DETdef	le
+campiun	NOMcom	champion
+quant	CONsub	cant
+il	PROper	il
+entret	VERcjg	entrer
+el	PRE.DETdef	en
+camp	NOMcom	champ
+.	PONfrt	.
+
+Psalmus	NOMcom	psalmous
+.	PONfrt	.
+
+Quicumque	PROrel	quique
+vult	VERcjg	vouloir
+.	PONfrt	.
+
