@@ -6,10 +6,11 @@ library(stringr)
 library(writexl)
 
 #directories
-rdir <- "my_data/f_corpus"
+rdir <- "wdat/f"
 script_name <- "quote_types"
-wdir <- file.path("my_data/f_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/f", showWarnings = FALSE)
+odir <- file.path("outputs/f", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 f_corpus_c <- readRDS(file.path(rdir, "f_corpus_c.rds"))
@@ -57,7 +58,7 @@ for (i in 1:length(f_corpus_c)) {
     needle_pb <- "^[^“”]+”[^“”]+$"
 
     #POSSIBLE C: begins possible “ then ” then space then “ then possible ”
-    needle_pc <- "^[“]*[^“”]+”[ ]+“[^“”]+[”]*$"
+    needle_pc <- "^[“]*[^“”]+”[\\s]+“[^“”]+[”]*$"
 
     needle_pd <- "”$"
 }
@@ -324,9 +325,170 @@ for (i in 1:length(lists_q)) {
     list <- lists_q[[i]]
     file_name <- names(lists_q)[i]
     file_name_ext <- paste0(file_name, ".xlsx")
-    file_path <- file.path(wdir, file_name_ext)
+    file_path <- file.path(odir, file_name_ext)
     write_xlsx(list, path = file_path)
 }
 
 
-#Not yet complete
+#import manual data
+counts_q <- read.csv("outputs/f/quote_types/manually_edited/f-corpus_quote_types.csv", row.names = 1)
+
+#set NA to zero
+counts_q[is.na(counts_q)] <- 0
+
+#combine "B" and "B1" columns
+counts_q[, "B"] <- counts_q[, "B", ] + counts_q[, "B1"]
+counts_q <- counts_q[, -c(2)]
+
+#rename columns "A", "B"", "C", "D" to "type_a", "type_b", "type_c", "type_d"
+colnames(counts_q) <- c("type_a", "type_b", "type_c", "type_d")
+
+#add columns "total", "obs_rate_a", "obs_rate_b", "obs_rate_c", "obs_rate_d", "p_value_a", "p_value_b", "p_value_c", "p_value_d"
+counts_q[, "total"] <- rowSums(counts_q)
+counts_q[, "obs_rate_a"] <- counts_q[, "type_a"] / counts_q[, "total"]
+counts_q[, "obs_rate_b"] <- counts_q[, "type_b"] / counts_q[, "total"]
+counts_q[, "obs_rate_c"] <- counts_q[, "type_c"] / counts_q[, "total"]
+counts_q[, "obs_rate_d"] <- counts_q[, "type_d"] / counts_q[, "total"]
+counts_q[, "p_value_type_a"] <- NA
+counts_q[, "p_value_type_b"] <- NA
+counts_q[, "p_value_type_c"] <- NA
+counts_q[, "p_value_type_d"] <- NA
+
+quote_types <- c("type_a", "type_b", "type_c", "type_d")
+
+#total counts and expected rates
+totals_q <- data.frame(matrix(ncol = 1, nrow = 4))
+colnames(totals_q) <- c(
+    "total_counts"
+)
+rownames(totals_q) <- c(
+    "type_a",
+    "type_b",
+    "type_c",
+    "type_d"
+)
+
+all_q <- sum(counts_q[, "total"])
+
+for (i in 1:length(quote_types)) {
+    total_q <- sum(counts_q[, i])
+    totals_q[i, ] <- total_q
+}
+
+
+#randomised p_value tests for target vs reference corpus
+p_value_rand <- function(
+    observed_tar = integer(),
+    observed_ref = integer(),
+    total_tar = integer(),
+    total_ref = integer(),
+    sample_size = 100000) {
+
+    sum_observed <- observed_tar + observed_ref #sum of observed instances
+    sum_total <- total_tar + total_ref #sum of total instances
+
+    #null rate: expected rate if there is no difference between a and b
+    null_rate <- sum_observed / sum_total
+
+    #observed difference between probabilities
+    observed_prob_dif <- (observed_ref / total_ref) - (observed_tar / total_tar)
+
+    #generate random samples, counting observed instances
+    ref_rand <- rbinom(sample_size, total_ref, null_rate)
+    tar_rand <- rbinom(sample_size, total_tar, null_rate)
+
+    #work out differences in probability between two samples
+    rand_prob_difs <- (ref_rand / total_ref) - (tar_rand / total_tar)
+
+    #make differences in probability absolute
+    abs_rand_prob_difs <- abs(rand_prob_difs)
+    abs_observed_prob_dif <- abs(observed_prob_dif)
+
+    #calculate the p value (the proportion of the random sample for which
+        #the difference in probability exceeds the observed probability)
+    p_value <- mean(abs_rand_prob_difs >= abs_observed_prob_dif)
+
+    p_value
+}
+
+#p-values
+for (i in 1:nrow(counts_q)) {
+    for (j in 1:length(quote_types)) {
+        observed_tar <- counts_q[i, quote_types[j]]
+        total_tar <- counts_q[i, "total"]
+        observed_ref <- totals_q[quote_types[j], ] - observed_tar
+        total_ref <- all_q - total_tar
+        p_value <- p_value_rand(
+            observed_tar = observed_tar,
+            observed_ref = observed_ref,
+            total_tar = total_tar,
+            total_ref = total_ref
+        )
+        counts_q[i, paste0("p_value_", quote_types[j])] <- p_value
+    }
+}
+
+write.csv(counts_q, file.path(odir, "counts_q.csv"))
+
+
+#plots
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(forcats)
+
+#stacked column of rates
+text_names <- rownames(counts_q)
+
+#trim text_names to 10 characters
+text_names <- str_sub(text_names, 4, 13)
+
+quote_type_names <- c(
+    "Type A",
+    "Type B",
+    "Type C",
+    "Type D"
+)
+
+df <- cbind(text = text_names, counts_q[, 6:9])
+rownames(df) <- NULL
+
+#exclude texts with fewer than 3 quotes
+df <- df[counts_q$total >= 3, ]
+
+#text_names <- rownames(df)
+
+df_pivot <- pivot_longer(df, cols = 2:5, names_to = "variable", values_to = "value")
+df_pivot$variable <- factor(df_pivot$variable, levels = c("obs_rate_a", "obs_rate_b", "obs_rate_c", "obs_rate_d"), labels = quote_type_names)
+
+palette <- c("#003f5c", "#7a5195", "#ef5675", "#ffa600")
+
+ggplot(
+    df_pivot,
+    aes(
+        y = factor(text, levels = rev(text_names)),
+        x = value,
+        fill = forcats::fct_rev(variable)
+    )
+) +
+geom_bar(stat = "identity", position = "fill") +
+scale_fill_manual(values = rev(palette)) +
+scale_x_continuous(labels = scales::percent) +
+xlab("Rate of Use") +
+ylab("") +
+guides(
+    fill = guide_legend(
+        reverse = TRUE,
+        label = TRUE,
+        title = "Onset of Discourse"
+    ),
+) +
+theme_minimal() +
+theme(
+    axis.text = element_text(size = 15, face = "italic"),
+    legend.text = element_text(size = 15),
+    axis.title = element_text(size = 15),
+    legend.title = element_text(size = 15)
+)
+
+ggsave(filename = file.path(odir, "q_types_rates.png"), device="png", dpi=700, width = 10, height = 7.5, units = "in")

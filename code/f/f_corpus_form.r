@@ -3,12 +3,16 @@ rm(list = ls())
 
 #libraries
 library(stringr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
 
 #directories
-rdir <- "my_data/f_corpus"
+rdir <- "wdat/f"
 script_name <- "form"
-wdir <- file.path("my_data/f_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/f", showWarnings = FALSE)
+odir <- file.path("outputs/f", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 f_corpus_c <- readRDS(file.path(rdir, "f_corpus_c.rds"))
@@ -41,9 +45,6 @@ for (i in seq_along(f_corpus_c)) {
 }
 
 #plots
-library(tidyr)
-library(dplyr)
-library(ggplot2)
 
 #add text names as row names, then remove text_name column
 rownames(text_lengths) <- text_lengths$text_name
@@ -69,7 +70,7 @@ theme(
 )
 
 ggsave(
-    filename = file.path(wdir, "text_length_boxplot.png"),
+    filename = file.path(odir, "text_length_boxplot.png"),
     device = "png",
     dpi = 700,
     width = 5,

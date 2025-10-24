@@ -9,145 +9,54 @@ library(stringr)
 library(pbapply)
 
 #set path
-f_corpus_path <- "my_data/f_corpus/txt_raw"
+f_corpus_path <- "rdat/f/txt_raw"
 
 #get files in directory
 f_corpus_files <- list.files(f_corpus_path, pattern = "*.txt", full.names = TRUE)
 
 #read in files
-f_corpus <- readLines(f_corpus_files)
+f_corpus <- pblapply(f_corpus_files, readLines)
+names(f_corpus) <- list.files(f_corpus_path, pattern = "*.txt")
+names(f_corpus) <- str_replace_all(names(f_corpus), "\\.txt", "")
+names(f_corpus) <- paste(sprintf("F%03d", 1:length(f_corpus))[1:length(f_corpus)], names(f_corpus), sep = "_")
 
-#delete empty lines with string in line before or after
-for (i in 1:length(f_corpus)) {
-    if (i > 1 && i < length(f_corpus) && !is.na(f_corpus[i - 1])) {
-        if (f_corpus[i] == "" && (f_corpus[i - 1] != "" || f_corpus[i + 1] != "")) {
-            f_corpus[i] <- NA
+#remove lines containing … or three . or 0-9
+for (i in seq_along(f_corpus)) {
+    for (j in seq_along(f_corpus[[i]])) {
+        line <- f_corpus[[i]][j]
+        if (!is.na(line) && (str_detect(line, "[0-9]") || str_detect(line, "\\.\\.\\.") || str_detect(line, "…"))) {
+            f_corpus[[i]][j] <- NA
         }
     }
 }
 
-f_corpus <- f_corpus[!sapply(f_corpus, is.na)]
-
-#remove lines containing … or multiple . or 0-9
-for (i in 1:length(f_corpus)) {
-    if (str_detect(f_corpus[i], "[0-9]") || str_detect(f_corpus[i], "\\.\\.") || str_detect(f_corpus[i], "…")) {
-        f_corpus[i] <- NA
-    }
-}
-
-f_corpus <- f_corpus[!sapply(f_corpus, is.na)]
-
-#attach single character with immediately following character to beginning of next line
-for (i in 1:length(f_corpus)) {
-    if (i < length(f_corpus)) {
-        if (str_detect(f_corpus[i], "^[A-Z]$") && str_detect(f_corpus[i + 1], "^[A-Za-zÀ-ÿ’]")) {
-            f_corpus[i + 1] <- paste0(f_corpus[i], f_corpus[i + 1])
-            f_corpus[i] <- NA
-        }
-    }
-}
-
-f_corpus <- f_corpus[!sapply(f_corpus, is.na)]
-
-#determine numbers, starts, and ends
-text_nos <- vector()
-text_starts <- vector()
-text_ends <- vector()
-
-for (i in 1:length(f_corpus)) {
-    if (str_detect(f_corpus[i], "^[IVXLivxl]+$")) {
-        text_nos <- c(text_nos, as.numeric(as.roman(f_corpus[i])))
-        text_starts <- c(text_starts, i + 2)
-        if (length(text_starts) > 1) {
-            text_ends <- c(text_ends, i - 1)
-        }
-    }
-}
-
-text_ends <- c(text_ends, length(f_corpus))
-
-#separate into individual texts
-f_corpus_temp <- list()
-
-for (i in 1:length(text_starts)) {
-    f_corpus_temp[[i]] <- f_corpus[text_starts[i]:text_ends[i]]
-}
-
-f_corpus <- f_corpus_temp
-
-#determine titles
-text_titles <- vector()
-
-for (i in 1:length(text_nos)) {
-    for (j in 1:length(f_corpus[[i]])) {
-        if (str_detect(f_corpus[[i]][j], "^[A-ZÀ-ÿ’ \\.]+$")) {
-            if (is.na(text_titles[i])) {
-                text_titles <- c(text_titles, tolower(f_corpus[[i]][j]))
-            } else {
-                text_titles[i] <- paste(text_titles[i], tolower(f_corpus[[i]][j]))
-            }
-        }
-    }
-}
-
-text_titles <- str_replace_all(text_titles, "\\.", "")
-
-for (i in 1:length(text_titles)) {
-    text_titles[i] <- paste(sprintf("%02d", 1:length(text_titles))[i], text_titles[i])
-}
-
-names(f_corpus) <- text_titles
-
-#remove titles from texts
-for (i in 1:length(f_corpus)) {
-    f_corpus[[i]] <- f_corpus[[i]][!str_detect(f_corpus[[i]], "^[A-ZÀ-ÿ’ \\.]+$")]
-}
+f_corpus <- lapply(f_corpus, function(x) x[!sapply(x, is.na)])
 
 #remove lines which contain [Ee]xplicit
 for (i in 1:length(f_corpus)) {
     f_corpus[[i]] <- f_corpus[[i]][!str_detect(f_corpus[[i]], "[Ee]xplicit")]
 }
 
-#remove all lines apprearing after (and including) a line containing "Notes et variantes"
-for (i in 1:length(f_corpus)) {
-    if (any(str_detect(f_corpus[[i]], "Notes et variantes"))) {
-        f_corpus[[i]] <- f_corpus[[i]][1:which(str_detect(f_corpus[[i]], "Notes et variantes"))[1] - 1]
-    }
-}
-
-#remove empty lines with no preceding lines containing string
-for (i in 1:length(f_corpus)) {
-    for (j in length(f_corpus[[i]]):1) {
-        if (j == 1 && f_corpus[[i]][j] == "") {
-            f_corpus[[i]][j] <- NA
-        } else if (f_corpus[[i]][j] == "" && paste0(f_corpus[[i]][1:(j - 1)], collapse = "") == "") {
-            f_corpus[[i]][j] <- NA
-        }
-    }
-    f_corpus[[i]] <- f_corpus[[i]][!sapply(f_corpus[[i]], is.na)]
-}
-
-#remove empty lines with no following lines containing string
+#delete empty lines at beginning/end or with string in line before or after
 for (i in 1:length(f_corpus)) {
     for (j in 1:length(f_corpus[[i]])) {
-        if (j == length(f_corpus[[i]]) && f_corpus[[i]][j] == "") {
-            f_corpus[[i]][j] <- NA
-        } else if (f_corpus[[i]][j] == "" && paste0(f_corpus[[i]][(j + 1):length(f_corpus[[i]])], collapse = "") == "") {
-            f_corpus[[i]][j] <- NA
+        line <- f_corpus[[i]][j]
+        if (j > 1 && j < length(f_corpus[[i]]) && !is.na(f_corpus[[i]][j - 1])) {
+            if (line == "" && (f_corpus[[i]][j - 1] != "" || f_corpus[[i]][i + 1] != "")) {
+                line <- NA
+            }
         }
+        else if (j == 1 && line == "") {
+            line <- NA
+        }
+        else if (j == length(f_corpus[[i]]) && line == "") {
+            line <- NA
+        }
+        f_corpus[[i]][j] <- line
     }
-    f_corpus[[i]] <- f_corpus[[i]][!sapply(f_corpus[[i]], is.na)]
 }
 
-#remove empty lines if preceding line is also empty
-for (i in 1:length(f_corpus)) {
-    for (j in length(f_corpus[[i]]):1) {
-        if (f_corpus[[i]][j] == "" && f_corpus[[i]][j - 1] == "") {
-            f_corpus[[i]][j] <- NA
-        }
-    }
-    f_corpus[[i]] <- f_corpus[[i]][!sapply(f_corpus[[i]], is.na)]
-}
+f_corpus <- lapply(f_corpus, function(x) x[!sapply(x, is.na)])
 
 #text changes
 for (i in 1:length(f_corpus)) {
@@ -171,13 +80,12 @@ for (i in 1:length(f_corpus)) {
     f_corpus[[i]] <- str_replace_all(f_corpus[[i]], "\\]", "")
 }
 
-
 #save f_corpus as individual text files
-dir.create("my_data/f_corpus/txt", showWarnings = FALSE)
+dir.create("rdat/f/txt", showWarnings = FALSE)
 
 for (i in 1:length(f_corpus)) {
     file_name <- paste0(gsub("[’ ]", "_", gsub("\\.", "", names(f_corpus)[i])))
-    file_path <- paste0("my_data/f_corpus/txt/", file_name, ".txt")
+    file_path <- paste0("rdat/f/txt/", file_name, ".txt")
     write.table(f_corpus[[i]], file_path, row.names = FALSE, col.names = FALSE, quote = FALSE)
 }
 
@@ -196,7 +104,8 @@ for (i in 1:length(f_corpus_c)) {
 }
 
 #save f_corpus_c as .rds
-saveRDS(f_corpus_c, "my_data/f_corpus/f_corpus_c.rds")
+dir.create("wdat/f", showWarnings = FALSE)
+saveRDS(f_corpus_c, "wdat/f/f_corpus_c.rds")
 
 
 # –––––––––– f_corpus_s = separated into stanzas ––––––––––
@@ -256,7 +165,7 @@ for (i in 1:length(f_corpus_s)) {
 names(f_corpus_s) <- names(f_corpus)
 
 #save f_corpus_s as .rds
-saveRDS(f_corpus_s, "my_data/f_corpus/f_corpus_s.rds")
+saveRDS(f_corpus_s, "wdat/f/f_corpus_s.rds")
 
 
 # –––––––––– f_corpus_w = separated into words with stanza and line number ––––––––––
@@ -273,13 +182,16 @@ for (i in 1:length(f_corpus_w)) {
 for (i in 1:length(f_corpus_w)) {
   for (j in 1:length(f_corpus_w[[i]])) {
     #remove all punctuation except apostrophes
-    f_corpus_w[[i]][[j]]$text <- str_replace_all(f_corpus_w[[i]][[j]]$text, "[^A-zÀ-ÿ'’ ]", "")
+    f_corpus_w[[i]][[j]]$text <- str_replace_all(f_corpus_w[[i]][[j]]$text, "[^A-zÀ-ÿ'’\\s]", "")
 
     #replace apostrophes with space
     f_corpus_w[[i]][[j]]$text <- str_replace_all(f_corpus_w[[i]][[j]]$text, "['’]", " ")
 
     #remove trailing spaces
     f_corpus_w[[i]][[j]]$text <- str_trim(f_corpus_w[[i]][[j]]$text)
+
+    #remove double spaces
+    f_corpus_w[[i]][[j]]$text <- str_replace_all(f_corpus_w[[i]][[j]]$text, "[\\s]+", " ")
 
     #convert to lowercase
     f_corpus_w[[i]][[j]]$text <- str_to_lower(f_corpus_w[[i]][[j]]$text)
@@ -324,12 +236,12 @@ for (i in 1:length(f_corpus_w)) {
 }
 
 #save f_corpus_w as .rds
-saveRDS(f_corpus_w, "my_data/f_corpus/f_corpus_w.rds")
+saveRDS(f_corpus_w, "wdat/f/f_corpus_w.rds")
 
 
 # –––––––––– f_corpus_lw = lemmatised list aligned with words ––––––––––
 #load lemmatised files
-f_corpus_lw <- list.files("my_data/f_corpus/lemmatised/", pattern = "*.txt", full.names = TRUE)
+f_corpus_lw <- list.files("rdat/f/lemmatised/", pattern = "*.txt", full.names = TRUE)
 
 f_corpus_lw <- pblapply(f_corpus_lw, read.delim, header = FALSE, sep = "\t", stringsAsFactors = FALSE, col.names = c("word", "pos", "lemma"))
 
@@ -423,7 +335,7 @@ f_corpus_lw <- pblapply(seq_along(f_corpus_w), combine_lw, f_corpus_w, f_corpus_
 names(f_corpus_lw) <- names(f_corpus)
 
 #save f_corpus_lw as .rds
-saveRDS(f_corpus_lw, "my_data/f_corpus/f_corpus_lw.rds")
+saveRDS(f_corpus_lw, "wdat/f/f_corpus_lw.rds")
 
 
 # –––––––––– f_corpus_ls = lemmatised in stanzas ––––––––––
@@ -449,7 +361,7 @@ for (i in seq_along(f_corpus_lw)) {
 names(f_corpus_ls) <- names(f_corpus)
 
 #save f_corpus_ls as .rds
-saveRDS(f_corpus_ls, "my_data/f_corpus/f_corpus_ls.rds")
+saveRDS(f_corpus_ls, "wdat/f/f_corpus_ls.rds")
 
 
 # –––––––––– f_corpus_lc = lemmatised and concatenated ––––––––––
@@ -473,4 +385,4 @@ for (i in seq_along(f_corpus_ls)) {
 names(f_corpus_lc) <- names(f_corpus)
 
 #save f_corpus_lc as .rds
-saveRDS(f_corpus_lc, "my_data/f_corpus/f_corpus_lc.rds")
+saveRDS(f_corpus_lc, "wdat/f/f_corpus_lc.rds")

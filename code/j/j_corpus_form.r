@@ -5,10 +5,11 @@ rm(list = ls())
 library(stringr)
 
 #directories
-rdir <- "my_data/j_corpus"
+rdir <- "wdat/j"
 script_name <- "form"
-wdir <- file.path("my_data/j_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/j", showWarnings = FALSE)
+odir <- file.path("outputs/j", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 j_corpus_c <- readRDS(file.path(rdir, "j_corpus_c.rds"))
@@ -41,7 +42,7 @@ for (i in seq_along(j_corpus_c)) {
 }
 
 #get manual text lengths
-text_lengths_j <- read.csv("my_data/text_lengths_jdsq_manual.csv", stringsAsFactors = FALSE)[, 1:2]
+text_lengths_j <- read.csv("rdat/j/text_lengths_jdsq_manual.csv", stringsAsFactors = FALSE)[, 1:2]
 colnames(text_lengths_j) <- c("text_name", "length")
 
 #plots
@@ -73,7 +74,7 @@ theme(
 )
 
 ggsave(
-    filename = file.path(wdir, "text_length_boxplot.png"),
+    filename = file.path(odir, "text_length_boxplot.png"),
     device = "png",
     dpi = 700,
     width = 5,

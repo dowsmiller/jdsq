@@ -8,10 +8,11 @@ library(dplyr)
 library(pbapply)
 
 #directories
-rdir <- "my_data/f_corpus"
+rdir <- "wdat/f"
 script_name <- "last_words_lemmatised"
-wdir <- file.path("my_data/f_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/f", showWarnings = FALSE)
+odir <- file.path("outputs/f", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 f_corpus_c <- readRDS(file.path(rdir, "f_corpus_c.rds"))
@@ -244,7 +245,7 @@ theme(
 )
 
 ggsave(
-    filename = file.path(wdir, "ment_rates.png"),
+    filename = file.path(odir, "ment_rates.png"),
     device = 'png',
     dpi = 700
 )
@@ -332,7 +333,7 @@ theme(
     axis.title = element_text(size = 15),
 )
 
-ggsave(filename = file.path(wdir, "fem_rates.png"), device = 'png', dpi = 700)
+ggsave(filename = file.path(odir, "fem_rates.png"), device = 'png', dpi = 700)
 
 
 #—————————————————— FEM vs. -ment ——————————————————#
@@ -467,7 +468,7 @@ ment_lines_lemmata_all_df_top <- ment_lines_lemmata_all_df_top[order(ment_lines_
 ment_lines_lemmata_all_df_top <- ment_lines_lemmata_all_df_top[ment_lines_lemmata_all_df_top$count_all >= 10, ]
 
 #save data
-write.csv(ment_lines_lemmata_all_df_top, file.path(wdir, "ment_lines_lemmata_all_df_top.csv"), row.names = FALSE)
+write.csv(ment_lines_lemmata_all_df_top, file.path(odir, "ment_lines_lemmata_all_df_top.csv"), row.names = FALSE)
 
 
 #——————————— UNIQUE LEMMATA ———————————
@@ -505,4 +506,4 @@ all_last_lemmata_df <- all_last_lemmata_df[all_last_lemmata_df$count_all >= 10, 
 
 
 #save data
-write.csv(all_last_lemmata_df, file.path(wdir, "all_last_lemmata_df.csv"), row.names = FALSE)
+write.csv(all_last_lemmata_df, file.path(odir, "all_last_lemmata_df.csv"), row.names = FALSE)

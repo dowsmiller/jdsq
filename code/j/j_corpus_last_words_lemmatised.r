@@ -8,10 +8,11 @@ library(dplyr)
 library(pbapply)
 
 #directories
-rdir <- "my_data/j_corpus"
+rdir <- "wdat/j"
 script_name <- "last_words_lemmatised"
-wdir <- file.path("my_data/j_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/j", showWarnings = FALSE)
+odir <- file.path("outputs/j", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 j_corpus_c <- readRDS(file.path(rdir, "j_corpus_c.rds"))
@@ -148,8 +149,6 @@ last_lemmata_words_list <- pblapply(
 
 names(last_lemmata_words_list) <- unique_lemmata
 
-last_lemmata_words_list
-
 
 #reorder list based on length of vector
 last_lemmata_words_list_ord <- last_lemmata_words_list[order(sapply(last_lemmata_words_list, length), decreasing = TRUE)]
@@ -246,7 +245,7 @@ theme(
 )
 
 ggsave(
-    filename = file.path(wdir, "ment_rates.png"),
+    filename = file.path(odir, "ment_rates.png"),
     device = 'png',
     dpi = 700
 )
@@ -284,11 +283,6 @@ for (i in 1:length(last_words)) {
   count_lines_fem[text_name, 2] <- length(lines_containing_fem)
   count_lines_fem[text_name, 3] <- sum(lines_containing_fem) / length(lines_containing_fem)
 }
-
-count_lines_fem <- count_lines_fem [
-    !(rownames(count_lines_fem) == "52-LaiAmour1" |
-    rownames(count_lines_fem) == "60-TMTV2"),
-]
 
 #a few stats
 quartiles_fem <- quantile(count_lines_fem$rate)
@@ -334,7 +328,7 @@ theme(
     axis.title = element_text(size = 15),
 )
 
-ggsave(filename = file.path(wdir, "fem_rates.png"), device = 'png', dpi = 700)
+ggsave(filename = file.path(odir, "fem_rates.png"), device = 'png', dpi = 700)
 
 
 #—————————————————— FEM vs. -ment ——————————————————#
@@ -469,7 +463,7 @@ ment_lines_lemmata_all_df_top <- ment_lines_lemmata_all_df_top[order(ment_lines_
 ment_lines_lemmata_all_df_top <- ment_lines_lemmata_all_df_top[ment_lines_lemmata_all_df_top$count_all >= 10, ]
 
 #save data
-write.csv(ment_lines_lemmata_all_df_top, file.path(wdir, "ment_lines_lemmata_all_df_top.csv"), row.names = FALSE)
+write.csv(ment_lines_lemmata_all_df_top, file.path(odir, "ment_lines_lemmata_all_df_top.csv"), row.names = FALSE)
 
 
 #——————————— UNIQUE LEMMATA ———————————
@@ -507,4 +501,4 @@ all_last_lemmata_df <- all_last_lemmata_df[all_last_lemmata_df$count_all >= 10, 
 
 
 #save data
-write.csv(all_last_lemmata_df, file.path(wdir, "all_last_lemmata_df.csv"), row.names = FALSE)
+write.csv(all_last_lemmata_df, file.path(odir, "all_last_lemmata_df.csv"), row.names = FALSE)

@@ -1,0 +1,17 @@
+Replace corpus siglum as necessary
+
+
+python3.12 -m venv .venv
+
+source .venv/bin/activate
+
+pip install torch
+pip install "numpy<2"
+
+mkdir -p rdat/a/lemmatised
+
+for file in rdat/a/txt/*; do
+  filename=$(basename "$file")
+  echo "$filename"
+  (cd rnntagger && sh cmd/rnn-tagger-old-french.sh "../$file" > "../rdat/a/lemmatised/$filename")
+done

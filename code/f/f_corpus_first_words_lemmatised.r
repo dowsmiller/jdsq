@@ -5,10 +5,11 @@ rm(list = ls())
 library(stringr)
 
 #directories
-rdir <- "my_data/f_corpus"
+rdir <- "wdat/f"
 script_name <- "first_words_lemmatised"
-wdir <- file.path("my_data/f_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/f", showWarnings = FALSE)
+odir <- file.path("outputs/f", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 f_corpus_c <- readRDS(file.path(rdir, "f_corpus_c.rds"))
@@ -144,6 +145,7 @@ p_value_tabled_text <- function(
         token <- tokens[i]
         #get observed frequencies
         observed_tar <- list_firsts_freq[[text_name]][token]
+        if (is.na(observed_tar)) observed_tar <- 0
         observed_ref <- all_first_freq[token] - observed_tar
 
         #get total frequencies
@@ -151,8 +153,8 @@ p_value_tabled_text <- function(
         total_ref <- sum(unlist(all_first_freq)) - total_tar
 
         p_value <- p_value_rand(
-            observed_tar = observed_tar[token],
-            observed_ref = observed_ref[token],
+            observed_tar = observed_tar,
+            observed_ref = observed_ref,
             total_tar = total_tar,
             total_ref = total_ref,
             sample_size = sample_size
@@ -221,7 +223,7 @@ names(list_tokens_texts) <- tokens
 
 
 #write to csv
-write.csv(as.data.frame(head(all_first_freq)), file.path(wdir, "head_first_freq.csv"))
+write.csv(as.data.frame(head(all_first_freq)), file.path(odir, "head_first_freq.csv"))
 
 
 first_per_text <- data.frame(matrix(nrow = length(text_names), ncol = 7))
@@ -229,14 +231,14 @@ first_per_text$X1 <- text_names
 for (i in 1:length(text_names)) {
   first_per_text[i, 2:7] <- as.character(as.data.frame(list_firsts_freq[[i]])[1:6, 1])
 }
-write.csv(first_per_text, file.path(wdir, "first_per_text.csv"))
+write.csv(first_per_text, file.path(odir, "first_per_text.csv"))
 
-write.csv(compared_firsts_p_df, file.path(wdir, "compared_firsts_p_df.csv"))
+write.csv(compared_firsts_p_df, file.path(odir, "compared_firsts_p_df.csv"))
 
 for (i in 1:length(list_tokens_texts)) {
   token_i <- list_tokens_texts[[i]]
   token_name <- names(list_tokens_texts[i])
-  write.csv(token_i, file.path(wdir, paste0("list_tokens_texts_", i, "_", token_name, ".csv")))
+  write.csv(token_i, file.path(odir, paste0("list_tokens_texts_", i, "_", token_name, ".csv")))
 }
 
 
@@ -330,19 +332,19 @@ names(list_lemma_tokens_texts) <- tokens_lemmata
 
 
 #write to csv
-write.csv(as.data.frame(head(all_first_lemmata_freq)), file.path(wdir, "head_first_lemmata_freq.csv"))
+write.csv(as.data.frame(head(all_first_lemmata_freq)), file.path(odir, "head_first_lemmata_freq.csv"))
 
 first_lemmata_per_text <- data.frame(matrix(nrow = length(text_names), ncol = 7))
 first_lemmata_per_text$X1 <- text_names
 for (i in 1:length(text_names)) {
   first_lemmata_per_text[i, 2:7] <- as.character(as.data.frame(list_first_lemmata_freq[[i]])[1:6, 1])
 }
-write.csv(first_lemmata_per_text, file.path(wdir, "first_lemmata_per_text.csv"))
+write.csv(first_lemmata_per_text, file.path(odir, "first_lemmata_per_text.csv"))
 
-write.csv(compared_first_lemmata_p_df, file.path(wdir, "compared_first_lemmata_p_df.csv"))
+write.csv(compared_first_lemmata_p_df, file.path(odir, "compared_first_lemmata_p_df.csv"))
 
 for (i in 1:length(list_lemma_tokens_texts)) {
   token_i <- list_lemma_tokens_texts[[i]]
   token_name <- names(list_lemma_tokens_texts[i])
-  write.csv(token_i, file.path(wdir, paste0("list_lemma_tokens_texts_", i, "_", token_name, ".csv")))
+  write.csv(token_i, file.path(odir, paste0("list_lemma_tokens_texts_", i, "_", token_name, ".csv")))
 }
