@@ -2,14 +2,14 @@
 rm(list = ls())
 
 #install the relevant packages
-install.packages(c("stringr", "pbapply"))
+# install.packages(c("stringr", "pbapply"))
 
 #load the relevant packages
 library(stringr)
 library(pbapply)
 
 #set path
-p0_corpus_path <- "my_data/p0_corpus/txt_raw"
+p0_corpus_path <- "rdat/p0/txt_raw"
 
 #get files in directory
 p0_corpus_files <- list.files(p0_corpus_path, pattern = "*.txt", full.names = TRUE)
@@ -73,11 +73,11 @@ for (i in 1:length(p0_corpus)) {
 }
 
 #save p0_corpus as individual text files
-dir.create("my_data/p0_corpus/txt", showWarnings = FALSE)
+dir.create("rdat/p0/txt", showWarnings = FALSE)
 
 for (i in 1:length(p0_corpus)) {
     file_name <- paste0(gsub("[’ ]", "_", gsub("\\.", "", names(p0_corpus)[i])))
-    file_path <- paste0("my_data/p0_corpus/txt/", file_name, ".txt")
+    file_path <- paste0("rdat/p0/txt/", file_name, ".txt")
     write.table(p0_corpus[[i]], file_path, row.names = FALSE, col.names = FALSE, quote = FALSE)
 }
 
@@ -95,7 +95,7 @@ for (i in 1:length(p0_corpus_c)) {
 }
 
 #save p0_corpus_c as .rds
-saveRDS(p0_corpus_c, "my_data/p0_corpus/p0_corpus_c.rds")
+saveRDS(p0_corpus_c, "wdat/p0/p0_corpus_c.rds")
 
 
 # –––––––––– p0_corpus_s = separated into stanzas ––––––––––
@@ -155,7 +155,7 @@ for (i in 1:length(p0_corpus_s)) {
 names(p0_corpus_s) <- names(p0_corpus)
 
 #save p0_corpus_s as .rds
-saveRDS(p0_corpus_s, "my_data/p0_corpus/p0_corpus_s.rds")
+saveRDS(p0_corpus_s, "wdat/p0/p0_corpus_s.rds")
 
 
 # –––––––––– p0_corpus_w = separated into words with stanza and line number ––––––––––
@@ -223,12 +223,12 @@ for (i in 1:length(p0_corpus_w)) {
 }
 
 #save p0_corpus_w as .rds
-saveRDS(p0_corpus_w, "my_data/p0_corpus/p0_corpus_w.rds")
+saveRDS(p0_corpus_w, "wdat/p0/p0_corpus_w.rds")
 
 
 # –––––––––– p0_corpus_lw = lemmatised list aligned with words ––––––––––
 #load lemmatised files
-p0_corpus_lw <- list.files("my_data/p0_corpus/lemmatised/", pattern = "*.txt", full.names = TRUE)
+p0_corpus_lw <- list.files("rdat/p0/lemmatised/", pattern = "*.txt", full.names = TRUE)
 
 p0_corpus_lw <- pblapply(p0_corpus_lw, read.delim, header = FALSE, sep = "\t", stringsAsFactors = FALSE, col.names = c("word", "pos", "lemma"))
 
@@ -322,7 +322,7 @@ p0_corpus_lw <- pblapply(seq_along(p0_corpus_w), combine_lw, p0_corpus_w, p0_cor
 names(p0_corpus_lw) <- names(p0_corpus)
 
 #save p0_corpus_lw as .rds
-saveRDS(p0_corpus_lw, "my_data/p0_corpus/p0_corpus_lw.rds")
+saveRDS(p0_corpus_lw, "wdat/p0/p0_corpus_lw.rds")
 
 
 # –––––––––– p0_corpus_ls = lemmatised in stanzas ––––––––––
@@ -348,7 +348,7 @@ for (i in seq_along(p0_corpus_lw)) {
 names(p0_corpus_ls) <- names(p0_corpus)
 
 #save p0_corpus_ls as .rds
-saveRDS(p0_corpus_ls, "my_data/p0_corpus/p0_corpus_ls.rds")
+saveRDS(p0_corpus_ls, "wdat/p0/p0_corpus_ls.rds")
 
 
 # –––––––––– p0_corpus_lc = lemmatised and concatenated ––––––––––
@@ -372,4 +372,4 @@ for (i in seq_along(p0_corpus_ls)) {
 names(p0_corpus_lc) <- names(p0_corpus)
 
 #save p0_corpus_lc as .rds
-saveRDS(p0_corpus_lc, "my_data/p0_corpus/p0_corpus_lc.rds")
+saveRDS(p0_corpus_lc, "wdat/p0/p0_corpus_lc.rds")

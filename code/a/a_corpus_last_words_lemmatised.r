@@ -216,7 +216,7 @@ df_ment <- data.frame(
     count = count_lines_ment$coun
 )
 
-palette <- c("#003f5c")
+palette <- c("gray")
 
 ggplot(
     df_ment,
@@ -236,7 +236,7 @@ ylab("Rate of Use of 'Easy' Rhymes (%)") +
 geom_text(
     position = position_stack(vjust = 0.5),
     size = 5,
-    color = "white"
+    color = "black"
 ) +
 theme_minimal() +
 theme(
@@ -300,7 +300,7 @@ df_fem <- data.frame(
     count = count_lines_fem$coun
 )
 
-palette <- c("#ef5675")
+palette <- c("gray")
 
 ggplot(
     df_fem,
@@ -316,11 +316,11 @@ geom_col(show.legend = FALSE) +
 scale_fill_manual(values = rev(palette)) +
 scale_y_continuous(labels = scales::percent) +
 xlab("") +
-ylab("Rate of Feminine Rhymes in Jehan's Texts (%)") +
+ylab("Rate of Feminine Rhymes (%)") +
 geom_text(
     position = position_stack(vjust = 0.5),
     size = 5,
-    color = "white"
+    color = "black"
 ) +
 theme_minimal() +
 theme(

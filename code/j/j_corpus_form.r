@@ -54,7 +54,7 @@ library(ggplot2)
 rownames(text_lengths_j) <- text_lengths_j$text_name
 text_lengths_j$text_name <- NULL
 
-palette <- "#006493"
+palette <- "gray"
 
 ggplot(
     text_lengths_j,

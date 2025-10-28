@@ -50,7 +50,7 @@ for (i in seq_along(a_corpus_c)) {
 rownames(text_lengths) <- text_lengths$text_name
 text_lengths$text_name <- NULL
 
-palette <- "#006493"
+palette <- "gray"
 
 ggplot(
     text_lengths,

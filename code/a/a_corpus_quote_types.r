@@ -436,6 +436,7 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(forcats)
+library(ggpattern)
 
 #stacked column of rates
 text_names <- rownames(counts_q)
@@ -456,34 +457,56 @@ df <- df[counts_q$total >= 3, ]
 df_pivot <- pivot_longer(df, cols = 2:5, names_to = "variable", values_to = "value")
 df_pivot$variable <- factor(df_pivot$variable, levels = c("obs_rate_a", "obs_rate_b", "obs_rate_c", "obs_rate_d"), labels = quote_type_names)
 
-palette <- c("#003f5c", "#7a5195", "#ef5675", "#ffa600")
+pattern_vals <- c("stripe", "circle", "crosshatch", "pch")
 
-ggplot(
-    df_pivot,
-    aes(
-        y = factor(text, levels = rev(text_names)),
-        x = value,
-        fill = forcats::fct_rev(variable)
+ggplot(df_pivot, aes(
+    y = factor(text, levels = rev(text_names)),
+    x = value,
+    pattern = forcats::fct_rev(variable)
+)) +
+  geom_bar_pattern(
+    stat = "identity",
+    position = "fill",
+    fill = "grey95",
+    colour = "grey30",
+    size = 0.2,
+    pattern_fill = "black",
+    pattern_colour = "black",
+    pattern_angle = 45,
+    pattern_density = 0.3,
+    pattern_spacing = 0.03,
+    pattern_key_scale_factor = 1
+  ) +
+  scale_pattern_manual(values = rev(pattern_vals)) +
+  scale_x_continuous(labels = scales::percent) +
+  labs(x = "Rate of Use", y = NULL, pattern = "Onset of Discourse") +
+  guides(pattern = guide_legend(
+    reverse = TRUE,
+    title.position = "top",
+    title.hjust = 0.5,
+    ncol = 1,
+    byrow = TRUE,
+    direction = "vertical",
+    label.vjust = 0.5,
+    override.aes = list(
+      pattern_key_scale_factor = 1.2,
+      height = unit(1.5, "lines")
     )
-) +
-geom_bar(stat = "identity", position = "fill") +
-scale_fill_manual(values = rev(palette)) +
-scale_x_continuous(labels = scales::percent) +
-xlab("Rate of Use") +
-ylab("") +
-guides(
-    fill = guide_legend(
-        reverse = TRUE,
-        label = TRUE,
-        title = "Onset of Discourse"
-    ),
-) +
-theme_minimal() +
-theme(
-    axis.text = element_text(size = 15, face = "italic"),
-    legend.text = element_text(size = 15),
-    axis.title = element_text(size = 15),
-    legend.title = element_text(size = 15)
-)
+  )) +
+  theme_minimal(base_size = 15) +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_line(colour = "grey85", linewidth = 0.3),
+    axis.text.y = element_text(face = "italic", size = 14),
+    axis.text.x = element_text(size = 13),
+    axis.title.x = element_text(size = 15, margin = margin(t = 10)),
+    legend.position = "right",
+    legend.title = element_text(face = "bold", size = 14, margin = margin(b = 5)),
+    legend.text = element_text(size = 13),
+    legend.box.just = "top",
+    legend.spacing.y = unit(0.8, "lines"),
+    plot.margin = margin(10, 20, 10, 20)
+  )
 
 ggsave(filename = file.path(odir, "q_types_rates.png"), device="png", dpi=700, width = 10, height = 7.5, units = "in")
