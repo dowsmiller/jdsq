@@ -441,7 +441,7 @@ library(forcats)
 text_names <- rownames(counts_q)
 
 #trim text_names to 10 characters
-text_names <- str_sub(text_names, 4, 13)
+text_names <- str_sub(text_names, 1, 10)
 
 quote_type_names <- c(
     "Type A",

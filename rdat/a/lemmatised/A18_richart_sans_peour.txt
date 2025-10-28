@@ -3751,13 +3751,11 @@ mye	ADVneg	mie
 “	PONpga	“
 Sire	NOMcom	seignor
 ,	PONfbl	,
-”	PONpdr	”
 je	PROper	je
 vous	PROper	vous
 supplie	VERcjg	supplier
 ,	PONfbl	,
-“	PONpga	“
-s'	PROper	soi
+s'	ADVgen	si
 i	PROadv	i
 fault	VERcjg	falir
 que	CONsub	que
@@ -4208,11 +4206,9 @@ hautement	ADVgen	hautement
 Et	CONcoo	et
 comment	ADVint	comment
 ,	PONfbl	,
-”	PONpdr	”
 duc	NOMcom	duc
 Richart	NOMpro	Richard
 ,	PONfbl	,
-“	PONpga	“
 ouvrés	VERcjg	oueuvrer
 vous	PROper	vous
 tellement	ADVgen	tellement

@@ -2,19 +2,19 @@ El	PRE.DETdef	en
 non	NOMcom	nom
 de	PRE	de
 Jhesucrist	NOMpro	Jésus-Christ
-;	PONfbl	;
+,	PONfbl	,
 qui	PROrel	que
 est	VERcjg	estre
 nostre	DETpos	notre
 douz	ADJqua	doux
 pere	NOMcom	père
-Veul	NOMpro	Veul
+,	PONfbl	,
+Veul	VERcjg	vouloir
 commencier	VERinf	commencer
-.i	PROcar	un
-.	PONfrt	.
-
-dit	VERcjg	dire
-mais	ADVgen	mais
+un	DETndf	un
+dit	NOMcom	dit
+;	PONfbl	;
+mais	CONcoo	mais
 por	PRE	por
 la	DETdef	le
 grant	ADJqua	grant
@@ -24,7 +24,6 @@ je	PROper	je
 sent	VERcjg	sentir
 dedenz	PRE	dedans
 moi	PROper	je
-;	PONfbl	;
 pri	VERcjg	priier
 a	PRE	a
 sa	DETpos	son
@@ -34,7 +33,6 @@ Que	PROrel	que
 je	PROper	je
 puisse	VERcjg	pöoir
 conclurre	VERinf	conclore
-;	PONfbl	;
 par	PRE	par
 tel	DETind	tel
 point	NOMcom	point
@@ -51,54 +49,56 @@ orront	VERcjg	ouïr
 puist	VERcjg	pouvoir
 estre	VERinf	estre
 porfitable	ADJqua	profitable
+.	PONfrt	.
+
 Bonne	ADJqua	bon
 gent	NOMcom	gent
-il	PROimp	il
+,	PONfbl	,
+il	PROper	il
 n'	ADVneg	ne
 est	VERcjg	estre
 roy	NOMcom	roi
-.	PONfrt	.
-
+,	PONfbl	,
 prince	NOMcom	prince
 ne	CONcoo	ne
 connestable	NOMcom	connétable
+,	PONfbl	,
 S'	CONsub	se
 il	PROper	il
 se	PROper	soi
 sent	VERcjg	sentir
 en	PRE	en
 pechié	NOMcom	péché
-;	PONfbl	;
 et	CONcoo	et
 ne	ADVneg	ne
 se	PROper	soi
 rent	VERcjg	rendre
 coupable	ADJqua	coupable
+,	PONfbl	,
 Qu'	CONsub	que
 il	PROimp	il
 ne	ADVneg	ne
 faille	VERcjg	falir
-qu'	PROrel	que
+qu'	CONsub	que
 il	PROper	il
 chiee	VERcjg	chëoir
-;	PONfbl	;
 en	PRE	en
 la	DETdef	le
 main	NOMcom	main
 du	PRE.DETdef	de.le
-dëable	NOMcom	diable
+deable	NOMcom	diable
 .	PONfrt	.
 
 Bon	ADJqua	bon
 se	PROper	soi
 feroit	VERcjg	faire
 garder	VERinf	garder
-;	PONfbl	;
 de	PRE	de
 chëoir	VERinf	chëoir
 en	PRE	en
 teulz	DETind	tel
 rois	NOMcom	roi
+,	PONfbl	,
 Car	CONcoo	car
 qui	PROrel	que
 y	PROadv	y
@@ -107,20 +107,18 @@ n'	ADVneg	ne
 en	PROadv	en
 yst	VERcjg	issir
 en	PRE	en
-.ii	PROcar	deus
-.	PONfrt	.
-
+deus	DETcar	deux
 mois	NOMcom	mois
-ne	ADVneg	ne
-en	PROadv	en
-trois	VERcjg	trouver
+ne	CONcoo	ne
+en	PRE	en
+trois	PROcar	trois
+,	PONfbl	,
 Et	CONcoo	et
 faut	VERcjg	falir
 qu'	CONsub	que
 il	PROper	il
 y	PROadv	y
 demeure	VERcjg	demeurer
-;	PONfbl	;
 tant	ADVgen	tant
 que	CONsub	que
 li	DETdef	le
@@ -131,49 +129,51 @@ Demourra	VERcjg	demeurer
 en	PRE	en
 la	DETdef	le
 joie	NOMcom	joie
-;	PONfbl	;
 ou	PROrel	où
-il	PROimp	il
+il	PROper	il
 n'	ADVneg	ne
 a	VERcjg	avoir
 nus	PROind	nul
 destrois	VERppe	détroistre
+.	PONfrt	.
+
 C'	PROdem	ce
 est	VERcjg	estre
 ou	PRE.DETdef	en.le
 soulaz	NOMcom	soulaz
 des	PRE.DETdef	de.le
 ciex	NOMcom	ciel
+,	PONfbl	,
 ou	PROrel	où
 touz	PROind	tous
 porrons	VERcjg	pöoir
 venir	VERinf	venir
+,	PONfbl	,
 Se	CONsub	se
 du	PRE.DETdef	de.le
 cuer	NOMcom	cuer
 nous	PROper	nous
 meton	VERcjg	mettre
-;	PONfbl	;
 a	PRE	a
 Jhesucrist	NOMpro	Jésus-Christ
 servir	VERinf	servir
-.	PONfrt	.
-
+;	PONfbl	;
 Si	ADVgen	si
 comme	CONsub	comme
 fist	VERcjg	faire
 celui	PROdem	cel
-;	PONfbl	;
 de	PRE	de
 qui	PROrel	que
 porrons	VERcjg	pöoir
-oir	NOMcom	hoir
+oïr	VERinf	öir
+.	PONfrt	.
+
 Il	PROper	il
 fu	VERcjg	estre
 né	VERppe	naître
 a	PRE	a
 Rouem	NOMpro	Rouen
-;	PONfbl	;
+,	PONfbl	,
 mais	CONcoo	mais
 moult	ADVgen	moult
 ot	VERcjg	avoir
@@ -186,30 +186,34 @@ des	PRE.DETdef	de.le
 maus	NOMcom	mal
 qu'	PROrel	que
 avoit	VERcjg	avoir
-brascés	NOMcom	brasché
+brascés	VERppe	brascher
+.	PONfrt	.
+
 Fu	VERcjg	estre
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
+deable	NOMcom	diable
 de	PRE	de
 toutes	DETind	tous
 genz	NOMcom	gent
 nommez	VERppe	nommer
+;	PONfbl	;
 Vous	PROper	vous
 orrez	VERcjg	ouïr
 par	PRE	par
 quel	DETrel	quel
 cause	NOMcom	cause
-;	PONfbl	;
+,	PONfbl	,
 s'	CONsub	se
 entendre	VERinf	entendre
 me	PROper	je
 voulez	VERcjg	vouloir
+.	PONfrt	.
+
 Il	PROper	il
 ot	VERcjg	avoir
 en	PRE	en
 Normendie	NOMpro	Normandie
-;	PONfbl	;
 au	PRE.DETdef	a
 temps	NOMcom	temps
 que	PROrel	que
@@ -217,24 +221,23 @@ vous	PROper	vous
 oez	VERcjg	öir
 Un	DETndf	un
 duc	NOMcom	duc
+,	PONfbl	,
 bon	ADJqua	bon
 justicier	VERinf	justicier
-;	PONfbl	;
 et	CONcoo	et
-hardi	VERppe	hardi
+hardi	ADJqua	hardi
 et	CONcoo	et
 appert	ADJqua	appert
+,	PONfbl	,
 Les	DETdef	le
 croniques	NOMcom	cronique
 tesmoingnent	VERcjg	tesmoignier
-;	PONfbl	;
 qu'	PROrel	que
 il	PROper	il
 avoit	VERcjg	avoir
 non	NOMcom	nom
 Aubert	NOMpro	Aubert
-.	PONfrt	.
-
+;	PONfbl	;
 A	PRE	a
 servir	VERinf	servir
 Jhesucrist	NOMpro	Jésus-Christ
@@ -248,7 +251,6 @@ Bien	ADVgen	bien
 emploie	VERcjg	emploiier
 son	DETpos	son
 temps	NOMcom	temps
-;	PONfbl	;
 qui	PROrel	que
 a	PRE	a
 tel	DETind	tel
@@ -261,40 +263,33 @@ un	DETndf	un
 Noel	NOMpro	Nöel
 tint	VERcjg	tenir
 court	ADJqua	court
-;	PONfbl	;
 le	DETdef	le
 franc	ADJqua	franc
 duc	NOMcom	duc
 a	PRE	a
 Vernon	NOMpro	Vernon
-.	PONfrt	.
-
+;	PONfbl	;
 Mais	CONcoo	mais
 n'	ADVneg	ne
 avoit	VERcjg	avoir
 point	ADVneg	point
 de	PRE	de
 femme	NOMcom	femme
-;	PONfbl	;
+,	PONfbl	,
 si	ADVgen	si
 que	CONsub	que
 tuit	DETind	tot
 li	DETdef	le
 baron	NOMcom	baron
-.	PONfrt	.
-
 Li	PROper	il
 prierent	VERcjg	prier
 pour	PRE	pour
 Dieu	NOMpro	Dieu
-;	PONfbl	;
 et	CONcoo	et
 pour	PRE	pour
 son	DETpos	son
 digne	ADJqua	digne
 non	NOMcom	nom
-.	PONfrt	.
-
 Que	CONsub	que
 il	PROper	il
 se	PROper	soi
@@ -305,26 +300,27 @@ il	PROper	il
 dist	VERcjg	dire
 a	PRE	a
 cler	ADJqua	clair
-son	DETpos	son
+son	NOMcom	son
+:	PONfbl	:
 “	PONpga	“
 Seignour	NOMcom	seigneur
+,	PONfbl	,
 a	PRE	a
 vostre	DETpos	vostre
 los	NOMcom	los
-.	PONfrt	.
-
 de	PRE	de
 gré	NOMcom	gré
 me	PROper	je
 mariasse	VERcjg	marïer
+,	PONfbl	,
 Se	CONsub	se
 partie	NOMcom	partie
 endroit	PRE	endroit
 moi	PROper	je
-;	PONfbl	;
-seusse	ADJqua	sos
-ne	CONcoo	ne
+seusse	VERcjg	savoir
+ne	ADVneg	ne
 trouvaisse	VERcjg	trouver
+;	PONfbl	;
 N'	ADVneg	ne
 en	PROadv	en
 sai	VERcjg	savoir
@@ -344,52 +340,55 @@ m'	PROper	je
 apartiengne	VERcjg	appartenir
 .	PONfbl	.
 ”	PONpdr	”
-l'	DETdef	le
+L'	DETdef	le
 un	PROind	un
 d'	PRE	de
 euz	NOMcom	œil
 dist	VERcjg	dire
 sanz	PRE	sans
 espasse	NOMcom	espasse
+:	PONfbl	:
 “	PONpga	“
 Chier	ADJqua	cher
 sire	NOMcom	seignor
+,	PONfbl	,
 je	PROper	je
 sai	VERcjg	savoir
 telle	ADJind	tel
-;	PONfbl	;
 dont	PROrel	dont
 ja	ADVgen	ja
 n'	ADVneg	ne
 arez	VERcjg	aller
 vergoigne	NOMcom	vergoigne
+;	PONfbl	;
 Moult	ADVgen	moult
 est	VERcjg	estre
 plaisant	ADJqua	plaisant
 et	CONcoo	et
 belle	ADJqua	beau
-;	PONfbl	;
+,	PONfbl	,
 fille	NOMcom	fille
 au	PRE.DETdef	a
 duc	NOMcom	duc
 de	PRE	de
 Bourgoigne	NOMpro	Burgonde
+;	PONfbl	;
 Se	CONsub	se
 vous	PROper	vous
 la	PROper	il
 demandez	VERcjg	demander
-;	PONfbl	;
 vous	PROper	vous
 l'	PROper	il
 avrez	VERcjg	avoir
 sanz	PRE	sans
 essoigne	NOMcom	essoigne
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 respondi	VERcjg	répondre
 le	DETdef	le
 duc	NOMcom	duc
-;	PONfbl	;
+:	PONfbl	:
 “	PONpga	“
 Ci	ADVgen	ci
 a	VERcjg	avoir
@@ -404,31 +403,29 @@ messages	NOMcom	message
 enquerir	VERinf	enquérir
 la	DETdef	le
 pucelle	NOMcom	pucelle
-.	PONfrt	.
-
+,	PONfbl	,
 Et	CONcoo	et
 on	PROind	on
 li	PROper	il
 envoia	VERcjg	envoyer
-.	PONfrt	.
-
 sanz	PRE	sans
 faire	VERinf	faire
 grant	ADJqua	grant
 querelle	NOMcom	querelle
+;	PONfbl	;
 A	PRE	a
 Rouen	NOMpro	Rouen
 l'	PROper	il
 espousa	VERcjg	esposer
-;	PONfbl	;
 en	PRE	en
 sa	DETpos	son
-maistre	NOMcom	maître
+maistre	ADJqua	maître
 chapelle	NOMcom	chapelle
+.	PONfrt	.
+
 Normans	NOMpro	Normand
 et	CONcoo	et
 Bourguenons	NOMpro	Bourguenon
-;	PONfbl	;
 firent	VERcjg	faire
 joie	NOMcom	joie
 moult	ADVgen	moult
@@ -440,27 +437,25 @@ duc	NOMcom	duc
 avec	PRE	avec
 la	DETdef	le
 dame	NOMcom	dame
-;	PONfbl	;
 fu	VERcjg	estre
 bien	ADVgen	bien
-.xviii	PROcar	dis
-.	PONfrt	.
-
+dix	DETcar	dix
+huit	DETcar	huit
 ans	NOMcom	an
-.	PONfrt	.
-
+,	PONfbl	,
 C'	CONcoo	que
 onques	ADVgen	onque
 ne	ADVneg	ne
 plot	VERcjg	plaire
 a	PRE	a
 Dieu	NOMpro	Dieu
-;	PONfbl	;
-qu'	CONcoo	que
+qu'	CONsub	que
 il	PROper	il
 eussent	VERcjg	avoir
 enfans	NOMcom	enfant
-S'	PROper	soi
+.	PONfrt	.
+
+S'	ADVgen	si
 estoient	VERcjg	être
 il	PROper	il
 souvent	ADVgen	souvent
@@ -494,14 +489,11 @@ a	PRE	a
 Dieu	NOMpro	Dieu
 le	DETdef	le
 droiturier	ADJqua	droiturier
-.	PONfrt	.
-
-Que	CONcoo	que
+Que	CONsub	que
 par	PRE	par
 sa	DETpos	son
 digne	ADJqua	digne
 grace	NOMcom	grâce
-;	PONfbl	;
 li	PROper	il
 vousist	VERcjg	vouloir
 envoier	VERinf	envoiier
@@ -513,66 +505,57 @@ de	PRE	de
 sa	DETpos	son
 loy	NOMcom	loi
 essaucier	VERinf	essaucier
+.	PONfrt	.
+
 Et	CONcoo	et
 tant	ADVgen	tant
 qu'	CONsub	que
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 matin	NOMcom	matin
-.	PONfrt	.
-
-que	CONsub	que
+que	PROrel	que
 le	DETdef	le
 duc	NOMcom	duc
 se	PROper	soi
 leva	VERcjg	lever
-.	PONfrt	.
-
 Il	PROper	il
 dist	VERcjg	dire
 a	PRE	a
 la	DETdef	le
 ducesse	NOMcom	doucesse
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Trop	ADVgen	trop
 malement	ADVgen	malement
 nous	PROper	nous
 va	VERcjg	aler
-.	PONfrt	.
-
 Que	CONsub	que
 nus	DETind	nul
 enfans	NOMcom	enfant
 n'	ADVneg	ne
 avons	VERcjg	avoir
+;	PONfbl	;
 par	PRE	par
 Dieu	NOMpro	Dieu
 qui	PROrel	que
 me	PROper	je
 forma	VERcjg	former
-.	PONfrt	.
-
+,	PONfbl	,
 Je	PROper	je
 croi	VERcjg	croire
 que	CONsub	que
 pechié	NOMcom	péché
 fu	VERcjg	estre
-.	PONfrt	.
-
 quant	CONsub	cant
 on	PROind	on
 nous	PROper	nous
 assambla	VERcjg	assembler
-S'	CONsub	se
-a	PRE	a
-.i	PROcar	un
 .	PONfrt	.
 
-autre	DETind	autre
+S'	CONsub	se
+a	PRE	a
+un	DETndf	un
+autre	ADJind	autre
 homme	NOMcom	homme
 fust	VERcjg	estre
 le	DETdef	le
@@ -582,42 +565,43 @@ donnez	VERppe	donner
 Des	PRE.DETdef	de
 enfanz	NOMcom	enfant
 portassiez	VERppe	portasser
-.	PONfrt	.
-
+,	PONfbl	,
 je	PROper	je
 croi	VERcjg	croire
+,	PONfbl	,
 en	PRE	en
 vos	DETpos	votre
 costez	NOMcom	costé
-.	PONfrt	.
-
+,	PONfbl	,
 Et	CONcoo	et
 s'	CONsub	se
 autre	DETind	autre
 femme	NOMcom	femme
 eusse	VERcjg	avoir
-;	PONfbl	;
 aussi	ADVgen	aussi
 de	PRE	de
 l'	DETdef	le
 autre	ADJind	autre
 lez	NOMcom	lez
+,	PONfbl	,
 Des	PRE.DETdef	de
 enfans	NOMcom	enfant
 engendrasse	VERcjg	engendrer
+;	PONfbl	;
 j'	PROper	je
 en	PROadv	en
 sui	VERcjg	estre
 touz	ADVgen	tout
 trespenssez	VERppe	trépenser
+.	PONfrt	.
+
 Non	ADVneg	non
 pas	ADVneg	pas
 pour	PRE	pour
 tant	ADVgen	tant
 par	PRE	par
 foy	NOMcom	foi
-;	PONfbl	;
-que	CONcoo	que
+que	CONsub	que
 jamais	ADVgen	jamais
 en	PRE	en
 ma	DETpos	mon
@@ -630,29 +614,29 @@ a	PRE	a
 vous	PROper	vous
 charnelle	ADJqua	charnel
 compaignie	NOMcom	compagnie
+,	PONfbl	,
 Se	CONsub	se
 vous	PROper	vous
 ne	ADVneg	ne
 trespassez	VERcjg	trespasser
-;	PONfbl	;
+,	PONfbl	,
 mais	CONcoo	mais
 ne	ADVneg	ne
 le	PROper	il
 desir	VERcjg	desirrer
 mie	ADVneg	mie
+.	PONfbl	.
 ”	PONpdr	”
 La	DETdef	le
 ducesse	NOMcom	doucesse
 l'	PROper	il
 oÿ	VERcjg	ouïr
-;	PONfbl	;
 si	ADVgen	si
 dist	VERcjg	dire
 a	PRE	a
 voiz	NOMcom	voix
 serie	ADJqua	seri
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Voir	ADVgen	voir
 en	PRE	en
@@ -665,6 +649,7 @@ que	PROrel	que
 Diex	NOMpro	Dieu
 nous	PROper	nous
 envoie	VERcjg	envoiier
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 duc	NOMcom	duc
@@ -674,16 +659,18 @@ a	PRE	a
 qui	PROrel	que
 forment	ADVgen	fortement
 anoie	VERcjg	aner
+;	PONfbl	;
 La	DETdef	le
 dame	NOMcom	dame
 demoura	VERcjg	demeurer
-;	PONfbl	;
+,	PONfbl	,
 qui	PROrel	que
 n'	ADVneg	ne
 avoit	VERcjg	avoir
 point	ADVneg	point
 de	PRE	de
 joie	NOMcom	joie
+,	PONfbl	,
 Ou	PRE.DETdef	en.le
 lit	NOMcom	lit
 qui	PROrel	que
@@ -695,24 +682,26 @@ or	NOMcom	or
 et	CONcoo	et
 de	PRE	de
 soie	NOMcom	soie
+.	PONfrt	.
+
 En	PRE	en
 soupirant	VERppa	sospirer
 a	VERcjg	avoir
 dit	VERppe	dire
-;	PONfbl	;
+:	PONfbl	:
 “	PONpga	“
 Diex	NOMpro	Dieu
 me	PROper	je
 het	VERcjg	häir
 bien	ADVgen	bien
-le	PROper	il
+le	DETdef	le
 voi	NOMcom	voix
+;	PONfbl	;
 J'	PROper	je
 encontre	VERcjg	encontrer
 moult	ADVgen	moult
 de	PRE	de
 femmes	NOMcom	femme
-;	PONfbl	;
 qui	PROrel	que
 n'	ADVneg	ne
 ont	VERcjg	avoir
@@ -720,34 +709,33 @@ ne	CONcoo	ne
 ce	PROdem	ce
 ne	CONcoo	ne
 quoi	PROrel	quoi
+,	PONfbl	,
 Sont	VERcjg	estre
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 enfanz	NOMcom	enfant
 .	PONfrt	.
 
 ou	CONcoo	o
-.iiii	PROcar	catre
-.	PONfrt	.
-
+quatre	PROcar	catre
+,	PONfbl	,
 a	PRE	a
 poi	ADVgen	peu
 que	CONsub	que
 ne	ADVneg	ne
 renoi	VERcjg	renir
-.	PONfrt	.
-
 Dieu	NOMpro	Dieu
 et	CONcoo	et
 tout	DETind	tout
 son	DETpos	son
-pooir	NOMcom	pouvoir
+pooir	VERinf	pöoir
+;	PONfbl	;
 je	PROper	je
 sui	VERcjg	estre
 en	PRE	en
 grant	ADJqua	grant
 anoi	NOMcom	anoi
+.	PONfrt	.
+
 Puis	ADVgen	puis
 que	CONsub	que
 il	PROper	il
@@ -757,14 +745,14 @@ veult	VERcjg	vouloir
 nus	DETind	nul
 enfanz	NOMcom	enfant
 envoier	VERinf	envoiier
-.	PONfrt	.
-
+,	PONfbl	,
 Si	ADVgen	si
 m'	PROper	je
 en	PROadv	en
 envoit	VERcjg	envoyer
 le	DETdef	le
 dyable	NOMcom	diable
+,	PONfbl	,
 se	CONsub	se
 il	PROper	il
 m'	PROper	je
@@ -778,17 +766,16 @@ mais	ADVgen	mais
 ne	ADVneg	ne
 dist	VERcjg	dire
 mot	NOMcom	mot
-;	PONfbl	;
 qui	PROrel	que
 li	PROper	il
 coustat	VERcjg	coûter
 tant	ADVgen	tant
 chier	ADJqua	chier
-Car	ADVgen	car
+;	PONfbl	;
+Car	CONcoo	car
 sachiez	VERcjg	savoir
 l'	DETdef	le
 anemi	NOMcom	ennemi
-;	PONfbl	;
 qui	PROrel	que
 n'	ADVneg	ne
 a	VERcjg	avoir
@@ -810,8 +797,10 @@ dame	NOMcom	dame
 la	DETdef	le
 mauvaise	ADJqua	mauvais
 raison	NOMcom	raison
+.	PONfrt	.
+
 Si	ADVgen	si
-fort	ADVgen	fort
+fort	ADJqua	fort
 tempta	VERcjg	tenter
 le	DETdef	le
 duc	NOMcom	duc
@@ -831,21 +820,26 @@ vint	VERcjg	venir
 en	PRE	en
 sa	DETpos	son
 maison	NOMcom	maison
+.	PONfrt	.
+
 La	DETdef	le
 ducesse	NOMcom	doucesse
 trouva	VERcjg	trouver
-;	PONfbl	;
 moult	ADVgen	moult
 forment	ADVgen	fortement
 courroucie	VERppe	courroucer
+.	PONfrt	.
+
 En	PRE	en
 l'	DETdef	le
 eure	NOMcom	heure
 l'	PROper	il
 acola	VERcjg	accoler
+,	PONfbl	,
 tendrement	ADVgen	tendrement
-la	DETdef	le
-baisie	NOMcom	baisie
+la	PROper	il
+baisie	VERcjg	baisier
+,	PONfbl	,
 Du	PRE.DETdef	de.le
 surplus	NOMcom	surplus
 qu'	PROrel	que
@@ -856,19 +850,25 @@ ne	ADVneg	ne
 vous	PROper	vous
 parlerai	VERcjg	parler
 mie	ADVneg	mie
+.	PONfrt	.
+
 Mais	CONcoo	mais
 sachiez	VERcjg	savoir
 que	CONsub	que
 le	DETdef	le
 duc	NOMcom	duc
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Douz	ADJqua	dout
 Diex	NOMpro	Dieu
+,	PONfbl	,
 je	PROper	je
 vous	PROper	vous
 prie	VERcjg	priier
-Cil	PROdem	cel
+,	PONfbl	,
+C'	CONcoo	que
+il	PROimp	il
 vous	PROper	vous
 plaist	VERcjg	plaire
 que	CONsub	que
@@ -878,6 +878,7 @@ enfant	NOMcom	enfant
 en	PRE	en
 ceste	DETdem	cest
 dame	NOMcom	dame
+,	PONfbl	,
 Veilliez	VERcjg	veillier
 que	CONsub	que
 il	PROper	il
@@ -888,28 +889,30 @@ sauvement	NOMcom	sauvement
 de	PRE	de
 s'	DETpos	son
 ame	NOMcom	ame
+.	PONfbl	.
 ”	PONpdr	”
 La	DETdef	le
 duchesse	NOMcom	douche
 parla	VERcjg	parler
-.	PONfrt	.
-
 et	CONcoo	et
 dist	VERcjg	dire
 com	CONsub	come
 fole	ADJqua	fol
 femme	NOMcom	femme
+:	PONfbl	:
 “	PONpga	“
 Mais	CONcoo	mais
 tout	ADVgen	tout
 soit	VERcjg	estre
 au	PRE.DETdef	a
-dëable	NOMcom	diable
+deable	NOMcom	diable
 qui	PROrel	que
 ne	ADVneg	ne
 quiert	VERcjg	querre
 que	CONsub	que
 diffame	NOMcom	difame
+.	PONfrt	.
+
 Puis	PRE	puis
 que	CONsub	que
 Diex	NOMpro	Dieu
@@ -921,28 +924,30 @@ nus	DETind	nul
 enfans	NOMcom	enfant
 nous	PROper	nous
 doint	VERcjg	doner
+,	PONfbl	,
 Je	PROper	je
 le	PROper	il
 doins	VERcjg	donner
 au	PRE.DETdef	a
-dëable	NOMcom	diable
-s'	PROper	soi
+deable	NOMcom	diable
+,	PONfbl	,
+s'	ADVgen	si
 en	PROadv	en
 ai	VERcjg	avoir
-conceu	VERppe	concevoir
+conceü	VERppe	concivre
 point	ADVneg	point
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 anemi	NOMcom	ennemi
 l'	PROper	il
 oÿ	VERcjg	ouïr
 bien	ADVgen	bien
-.	PONfrt	.
-
 qui	PROrel	que
 pluseurs	DETind	plusieurs
 maus	NOMcom	mal
 conjoint	VERcjg	conjoindre
+;	PONfbl	;
 Celle	DETdem	cil
 foiz	NOMcom	foiz
 fist	VERcjg	faire
@@ -952,8 +957,6 @@ chose	NOMcom	chose
 si	ADVgen	si
 a	PRE	a
 point	NOMcom	point
-.	PONfrt	.
-
 Qu'	CONsub	que
 en	PRE	en
 sa	DETpos	son
@@ -962,26 +965,21 @@ engendra	VERcjg	engendrer
 li	DETdef	le
 bons	ADJqua	bon
 dus	NOMcom	duc
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 enfant	NOMcom	enfant
-.	PONfrt	.
-
+,	PONfbl	,
 Qui	PROrel	que
 puis	ADVgen	puis
 fist	VERcjg	faire
 moult	ADVgen	moult
 de	PRE	de
 maus	NOMcom	mal
-.	PONfrt	.
-
+,	PONfbl	,
 com	CONsub	come
 vous	PROper	vous
 orrez	VERcjg	ouïr
 avant	ADVgen	avant
-.	PONfrt	.
-
+;	PONfbl	;
 Il	PROper	il
 fu	VERcjg	estre
 de	PRE	de
@@ -1001,6 +999,8 @@ en	PRE	en
 cest	DETdem	cest
 siecle	NOMcom	siècle
 vivant	VERppa	vivre
+.	PONfrt	.
+
 Mais	CONcoo	mais
 puis	ADVgen	puis
 paia	VERcjg	paisier
@@ -1008,10 +1008,11 @@ l'	DETdef	le
 amende	NOMcom	amende
 des	PRE.DETdef	de.le
 folours	NOMcom	foleur
-qu'	CONsub	que
+qu'	PROrel	que
 il	PROper	il
 emprist	VERcjg	emprendre
-Qu'	CONsub	que
+,	PONfbl	,
+Qu'	CONcoo	que
 au	PRE.DETdef	a
 jour	NOMcom	jour
 qu'	PROrel	que
@@ -1030,6 +1031,7 @@ ame	NOMcom	ame
 par	PRE	par
 devant	PRE	devant
 Jhesucrist	NOMpro	Jésus-Christ
+,	PONfbl	,
 Ainssi	ADVgen	ainsi
 comme	CONsub	comme
 l'en	PROind	loin
@@ -1038,10 +1040,12 @@ en	PRE	en
 pluseurs	DETind	plusieurs
 lieus	NOMcom	lieu
 escrist	VERcjg	écrire
+.	PONfrt	.
+
 Celle	PROdem	celui
 qui	PROrel	que
 au	PRE.DETdef	a
-dëable	NOMcom	diable
+deable	NOMcom	diable
 ot	VERcjg	avoir
 son	DETpos	son
 enfant	NOMcom	enfant
@@ -1056,12 +1060,14 @@ temps	NOMcom	temps
 d'	PRE	de
 enfanter	VERinf	enfanter
 fu	VERcjg	estre
+;	PONfbl	;
 Mais	CONcoo	mais
 ainz	ADVgen	ainz
 qu'	CONsub	que
 en	PROadv	en
 fust	VERcjg	estre
 delivre	ADJqua	delivre
+,	PONfbl	,
 a	PRE	a
 tant	ADVgen	tant
 de	PRE	de
@@ -1085,14 +1091,17 @@ quant	CONsub	cant
 vint	VERcjg	venir
 au	PRE.DETdef	a
 travaillier	VERinf	travailler
+:	PONfbl	:
 “	PONpga	“
 Lasse	ADJqua	las
+,	PONfbl	,
 d'	PRE	de
 avoir	VERinf	avoir
 enfant	NOMcom	enfant
 avoie	VERcjg	avoir
 grant	ADJqua	grant
 mestier	NOMcom	mestier
+,	PONfbl	,
 Voir	ADVgen	voir
 grant	ADJqua	grant
 desir	NOMcom	désir
@@ -1100,19 +1109,21 @@ avoie	VERcjg	avoir
 de	PRE	de
 ma	DETpos	mon
 mort	NOMcom	mort
-auancier	VERinf	avancer
+avancier	VERinf	avancer
+.	PONfbl	.
 ”	PONpdr	”
 En	PRE	en
 tel	DETind	tel
 destresce	NOMcom	destrece
 fu	VERcjg	estre
-;	PONfbl	;
 pres	ADVgen	près
 d'	PRE	de
 un	DETndf	un
 mois	NOMcom	mois
 tout	ADVgen	tout
 entier	ADJqua	entier
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 pour	PRE	pour
@@ -1121,6 +1132,7 @@ ducesse	NOMcom	doucesse
 pria	VERcjg	prier
 mainte	DETind	maint
 journee	NOMcom	journée
+;	PONfbl	;
 Se	CONsub	se
 ce	PROdem	ce
 n'	ADVneg	ne
@@ -1131,6 +1143,8 @@ n'	ADVneg	ne
 en	PROadv	en
 fust	VERcjg	estre
 eschapee	VERppe	eschaper
+.	PONfrt	.
+
 Mais	CONcoo	mais
 quant	CONsub	cant
 la	DETdef	le
@@ -1139,6 +1153,7 @@ dont	PROrel	dont
 parole	NOMcom	parole
 fu	VERcjg	estre
 nee	VERppe	naistre
+,	PONfbl	,
 Les	DETdef	le
 croniques	NOMcom	cronique
 tesmoingnent	VERcjg	tesmoignier
@@ -1156,19 +1171,21 @@ qu'	CONsub	que
 il	PROimp	il
 deüst	VERcjg	devoir
 anuitier	VERinf	anuitier
+.	PONfrt	.
+
 A	PRE	a
 tonner	VERinf	tonner
 commenca	VERcjg	commencer
 et	CONcoo	et
-fort	ADVgen	fort
+fort	ADJqua	fort
 a	PRE	a
 esclairier	VERinf	éclairer
+,	PONfbl	,
 Les	DETdef	le
-.iiii	PROcar	catre
-.	PONfrt	.
-
+quatre	ADJcar	quatre
 vens	NOMcom	vent
 venterent	VERcjg	venter
+,	PONfbl	,
 le	DETdef	le
 plus	ADVgen	plus
 maistre	ADJqua	maître
@@ -1177,12 +1194,15 @@ De	PRE	de
 la	DETdef	le
 viex	ADJqua	vieux
 tour	NOMcom	tour
-chai	PROrel	quoi
-chascun	PROind	chascun
+chaï	VERcjg	choir
+.	PONfrt	.
+
+Chascun	PROind	chacun
 s'	PROper	soi
 ala	VERcjg	aller
 mucier	VERinf	musser
-C'	CONsub	que
+,	PONfbl	,
+C'	CONcoo	que
 on	PROind	on
 cuidoit	VERcjg	cuidier
 que	CONsub	que
@@ -1191,22 +1211,28 @@ monde	NOMcom	monde
 deüst	VERcjg	devoir
 finer	VERinf	finer
 errant	VERppa	errer
+.	PONfrt	.
+
 Quant	CONsub	quand
 le	DETdef	le
 temps	NOMcom	temps
-;	PONfbl	;
 apaisa	VERcjg	apaiser
+,	PONfbl	,
 on	PROind	on
-baptiza	NOMcom	baptise
+baptiza	VERcjg	baptiser
 l'	DETdef	le
 enfant	NOMcom	enfant
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 fu	VERcjg	estre
 apellez	VERppe	appeler
+,	PONfbl	,
 touz	DETind	tous
 jourz	NOMcom	jour
 aloit	VERcjg	aler
 braiant	VERppa	braire
+;	PONfbl	;
 Mais	CONcoo	mais
 sachiez	VERcjg	savoir
 de	PRE	de
@@ -1217,6 +1243,8 @@ estoit	VERcjg	estre
 bel	ADJqua	bel
 et	CONcoo	et
 grant	ADJqua	grant
+.	PONfrt	.
+
 Mais	CONcoo	mais
 on	PROind	on
 ne	ADVneg	ne
@@ -1224,24 +1252,27 @@ le	PROper	il
 pooit	VERcjg	pöoir
 nulement	ADVgen	nulement
 apaier	VERinf	apayer
+.	PONfrt	.
+
 Il	PROper	il
 nasqui	VERcjg	naistre
 si	ADVgen	si
 corsu	VERppe	corir
 com	CONsub	come
-s'	CONsub	se
+s'	PROper	soi
 eüst	VERcjg	avoir
-.i	PROcar	un
+un	DETndf	un
+an	NOMcom	an
+entier	ADJqua	entier
 .	PONfrt	.
 
-an	PRE	en
-entier	ADJqua	entier
 Des	ADVgen	des
 que	CONsub	que
 les	DETdef	le
 denz	NOMcom	dent
 li	PROper	il
 vindrent	VERcjg	venir
+,	PONfbl	,
 bien	ADVgen	bien
 vous	PROper	vous
 puis	VERcjg	pöoir
@@ -1256,7 +1287,8 @@ qui	PROrel	que
 l'	PROper	il
 osast	VERcjg	oser
 alaitier	VERinf	alaitier
-Qu'	CONsub	que
+,	PONfbl	,
+Qu'	CONcoo	que
 aus	PRE.DETdef	à.le
 dens	NOMcom	dent
 a	PRE	a
@@ -1265,6 +1297,7 @@ nourrices	NOMcom	nourrice
 les	DETdef	le
 mameles	NOMcom	mamele
 mordoit	VERcjg	mordre
+,	PONfbl	,
 Quant	CONsub	quand
 il	PROimp	il
 le	PROper	il
@@ -1272,27 +1305,30 @@ failloit	VERcjg	falir
 boire	VERinf	boire
 acornetez	NOMcom	acorneté
 estoit	VERcjg	estre
+.	PONfrt	.
+
 Ainz	ADVgen	ains
 qu'	CONsub	que
 il	PROper	il
 eüst	VERcjg	avoir
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETcar	un
 an	NOMcom	an
 il	PROper	il
 aloit	VERcjg	aler
 et	CONcoo	et
 parloit	VERcjg	parler
+,	PONfbl	,
 Plus	ADVgen	plus
 crut	VERcjg	croître
 et	CONcoo	et
-embarni	VERppe	embarnir
+embarni	VERcjg	embarnir
 et	CONcoo	et
 plus	ADVgen	plus
 de	PRE	de
 mal	NOMcom	mal
 faisoit	VERcjg	faire
+.	PONfrt	.
+
 Des	PRE	des
 ce	PROdem	ce
 qu'	CONsub	que
@@ -1303,7 +1339,8 @@ chambres	NOMcom	chambre
 et	CONcoo	et
 par	PRE	par
 sales	NOMcom	sale
-fuir	VERinf	fuir
+fuïr	VERinf	fuir
+,	PONfbl	,
 Il	PROper	il
 ne	ADVneg	ne
 trouvast	VERcjg	trouver
@@ -1318,15 +1355,19 @@ pierre	NOMcom	piere
 ou	CONcoo	o
 de	PRE	de
 baston	NOMcom	baston
+,	PONfbl	,
 s'	CONsub	se
 il	PROper	il
 le	PROper	il
 pooit	VERcjg	pöoir
 tenir	VERinf	tenir
+.	PONfrt	.
+
 Trestouz	DETind	trèstout
 jourz	NOMcom	jour
 faisoit	VERcjg	faire
 mal	NOMcom	mal
+,	PONfbl	,
 on	PROind	on
 ne	ADVneg	ne
 savoit	VERcjg	savoir
@@ -1339,6 +1380,7 @@ feüst	VERcjg	faire
 ni	CONcoo	nie
 eüst	VERcjg	avoir
 crierie	NOMcom	crierie
+,	PONfbl	,
 A	PRE	a
 l'	DETdef	le
 un	PROind	un
@@ -1351,18 +1393,19 @@ l'	DETdef	le
 autre	PROind	autre
 l'	DETdef	le
 oïe	NOMcom	ouïe
-.	PONfrt	.
-
+,	PONfbl	,
 Les	DETdef	le
 seigneurs	NOMcom	seigneur
 s'	PROper	soi
 en	PROadv	en
 rioient	VERcjg	rire
+,	PONfbl	,
 de	PRE	de
 quoi	PROrel	quoi
 ce	PROdem	ce
 fu	VERcjg	estre
 folie	NOMcom	folie
+,	PONfbl	,
 Car	CONcoo	car
 puis	ADVgen	puis
 maudirent	VERcjg	maudire
@@ -1374,6 +1417,8 @@ vint	VERcjg	venir
 onques	ADVgen	onque
 en	PRE	en
 vie	NOMcom	vie
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 et	CONcoo	et
@@ -1383,41 +1428,46 @@ l'	PROper	il
 amoient	VERcjg	amer
 moult	ADVgen	moult
 forment	ADVgen	fortement
-Qu'	CONsub	que
+,	PONfbl	,
+Qu'	CONcoo	que
 en	PROind	on
 li	PROper	il
 souffroit	VERcjg	souffrir
 a	PRE	a
 faire	VERinf	faire
 son	DETpos	son
-bon	NOMcom	bon
+bon	ADJqua	bon
 et	CONcoo	et
 son	DETpos	son
 talent	NOMcom	talent
+;	PONfbl	;
 On	PROind	on
 disoit	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Il	PROper	il
 est	VERcjg	estre
 jones	ADJqua	jeune
+,	PONfbl	,
 il	PROper	il
 n'	ADVneg	ne
 a	VERcjg	avoir
 point	ADVneg	point
 d'	PRE	de
 escient	NOMcom	escient
+.	PONfbl	.
 ”	PONpdr	”
 On	PROind	on
 se	PROper	soi
 plaignoit	VERcjg	plaindre
 de	PRE	de
 li	PROper	il
-.	PONfrt	.
-
 et	CONcoo	et
 menu	ADVgen	menu
 et	CONcoo	et
 souvent	ADVgen	souvent
+.	PONfrt	.
+
 Em	PRE	en
 poi	ADVgen	peu
 de	PRE	de
@@ -1427,7 +1477,8 @@ de	PRE	de
 membres	NOMcom	membre
 bien	ADVgen	bien
 formez	VERppe	former
-C'	CONsub	que
+,	PONfbl	,
+C'	CONcoo	que
 on	PROind	on
 dit	VERcjg	dire
 que	CONsub	que
@@ -1436,35 +1487,42 @@ arbre	NOMcom	arbre
 croist	VERcjg	croistre
 volentiers	ADVgen	volentiers
 assez	ADVgen	assez
+.	PONfrt	.
+
 Il	PROper	il
 couroit	VERcjg	courir
 par	PRE	par
 les	DETdef	le
 rues	NOMcom	rüe
 comme	CONsub	comme
-.i	PROind	un
-.	PONfrt	.
-
-escervellez	VERppe	escerveler
+un	DETndf	un
+escervellez	NOMcom	escervelet
+,	PONfbl	,
 L'	DETdef	le
 un	PROind	un
 feroit	VERcjg	faire
 par	PRE	par
 la	DETdef	le
 teste	NOMcom	teste
+,	PONfbl	,
 l'	DETdef	le
 autre	PROind	autre
 par	PRE	par
 les	DETdef	le
 costez	NOMcom	costé
+.	PONfrt	.
+
 Les	DETdef	le
 enfanz	NOMcom	enfant
 le	PROper	il
 doutoient	VERcjg	douter
+,	PONfbl	,
 bien	ADVgen	bien
 y	PROadv	y
 avoit	VERcjg	avoir
 raison	NOMcom	raison
+.	PONfrt	.
+
 Quant	CONsub	quand
 Robert	NOMpro	Robert
 s'	PROper	soi
@@ -1479,22 +1537,25 @@ A	PRE	a
 haute	ADJqua	haut
 voiz	NOMcom	voix
 disoient	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Fuions	VERcjg	fuir
 ent	PROadv	en
 en	PRE	en
 maison	NOMcom	maison
+,	PONfbl	,
 Vesci	VERcjg	vescir
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
+deable	NOMcom	diable
+,	PONfbl	,
 en	PRE	en
 sa	DETpos	son
 main	NOMcom	main
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 baston	NOMcom	baston
+!	PONfrt	!
+
 ”	PONpdr	”
 Le	DETdef	le
 commun	NOMcom	commun
@@ -1504,34 +1565,34 @@ le	DETdef	le
 sournon	NOMcom	sournom
 li	PROper	il
 donna	VERcjg	donner
-.	PONfrt	.
-
+,	PONfbl	,
 Que	CONsub	que
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
+deable	NOMcom	diable
 fu	VERcjg	estre
 nommé	VERppe	nommer
 ca	ADVgen	ça
 et	CONcoo	et
 la	ADVgen	là
+,	PONfbl	,
 Il	PROper	il
 ne	ADVneg	ne
 li	PROper	il
-chay	VERcjg	choir
+chaÿ	VERcjg	choir
 puis	ADVgen	puis
 n'	CONcoo	ne
 en	PRE	en
 piece	NOMcom	piece
 ne	ADVneg	ne
 fera	VERcjg	faire
+.	PONfrt	.
+
 Quant	CONsub	quand
 Robert	NOMpro	Robert
 ot	VERcjg	avoir
-.vii	PROcar	set
-.	PONfrt	.
-
-anz	ADVgen	enz
+set	DETcar	sept
+anz	NOMcom	an
 son	DETpos	son
 pere	NOMcom	père
 l'	PROper	il
@@ -1540,9 +1601,11 @@ Et	CONcoo	et
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Biax	ADJqua	bel
 filz	NOMcom	fil
+,	PONfbl	,
 temps	NOMcom	temps
 est	VERcjg	estre
 des	PRE	des
@@ -1553,23 +1616,25 @@ soiez	VERcjg	estre
 mis	VERppe	metre
 a	PRE	a
 lettre	NOMcom	lettre
+,	PONfbl	,
 vos	DETpos	votre
 livres	NOMcom	livre
 est	VERcjg	estre
 touz	ADVgen	tout
-prés	ADVgen	près
+pres	ADVgen	près
+.	PONfbl	.
 ”	PONpdr	”
 On	PROind	on
 li	PROper	il
 bailla	VERcjg	bailler
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 maistre	NOMcom	maître
 qui	PROrel	que
 estoit	VERcjg	estre
 biau	ADJqua	bel
 vallez	NOMcom	vaslet
+.	PONfrt	.
+
 Mais	CONcoo	mais
 sachiez	VERcjg	savoir
 que	CONsub	que
@@ -1577,6 +1642,7 @@ Robert	NOMpro	Robert
 estoit	VERcjg	estre
 si	ADVgen	si
 felonnez	VERppe	féloner
+,	PONfbl	,
 Que	CONsub	que
 pour	PRE	pour
 tant	ADVgen	tant
@@ -1585,22 +1651,23 @@ son	DETpos	son
 mestre	NOMcom	maistre
 le	PROper	il
 blasma	VERcjg	blasmer
-.i	PROcar	un
-.	PONfrt	.
-
-petit	ADVgen	petit
+un	DETndf	un
+petit	PROind	petit
 En	PRE	en
 disant	VERppa	dire
+:	PONfbl	:
 “	PONpga	“
 Biau	ADJqua	bel
 douz	ADJqua	doux
 sire	NOMcom	seignor
+,	PONfbl	,
 vous	PROper	vous
 n'	ADVneg	ne
 avez	VERcjg	avoir
 pas	ADVneg	pas
 bien	ADVgen	bien
 dit	VERppe	dire
+,	PONfbl	,
 ”	PONpdr	”
 Il	PROper	il
 geta	VERcjg	jeter
@@ -1610,19 +1677,20 @@ son	DETpos	son
 livre	NOMcom	livre
 par	PRE	par
 despit	NOMcom	despit
+,	PONfbl	,
 Il	PROper	il
 sacha	VERcjg	savoir
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 coutel	NOMcom	coutel
 .	PONfrt	.
 
-or	ADVgen	or
+Or	ADVgen	or
 escoutez	VERcjg	escouter
 qu'	PROrel	que
 il	PROper	il
 fist	VERcjg	faire
+.	PONfrt	.
+
 Dessous	PRE	dessus
 la	DETdef	le
 poinilliere	NOMcom	poinliere
@@ -1630,8 +1698,7 @@ son	DETpos	son
 maistre	NOMcom	maître
 si	ADVgen	si
 frapa	VERcjg	fraper
-.	PONfrt	.
-
+,	PONfbl	,
 Que	CONcoo	que
 des	PRE.DETdef	de.le
 boiaus	NOMcom	boeil
@@ -1641,15 +1708,20 @@ tout	ADVgen	tout
 plain	ADJqua	plein
 li	PROper	il
 entama	VERcjg	entamer
+.	PONfrt	.
+
 Puis	ADVgen	puis
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Mestre	NOMcom	maistre
+,	PONfbl	,
 moustrez	VERcjg	montrer
 vo	DETpos	votre
 maistrise	NOMcom	maîtrise
 de	PRE	de
 la	ADVgen	là
+,	PONfbl	,
 Car	CONcoo	car
 jamais	ADVgen	jamais
 clerc	NOMcom	clerc
@@ -1660,6 +1732,8 @@ mien	ADJpos	mon
 cuer	NOMcom	cuer
 n'	ADVneg	ne
 amera	VERcjg	aimer
+.	PONfrt	.
+
 Je	PROper	je
 vous	PROper	vous
 ai	VERcjg	avoir
@@ -1668,17 +1742,21 @@ coutel	NOMcom	coutel
 fait	VERppe	faire
 sentir	VERinf	sentir
 en	PRE	en
-apert	NOMcom	apert
+apert	ADJqua	apert
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 clerc	NOMcom	clerc
 ne	ADVneg	ne
 vesqui	VERcjg	vivre
 gaires	ADVgen	gaire
+,	PONfbl	,
 ainz	ADVgen	ainz
 morut	VERcjg	mourir
 sanz	PRE	sans
 desert	NOMcom	désert
+.	PONfrt	.
+
 Ainz	ADVgen	ains
 puis	ADVgen	puis
 il	PROimp	il
@@ -1691,6 +1769,7 @@ fust	VERcjg	estre
 hardi	VERppe	hardi
 n'	CONcoo	ne
 apert	ADJqua	apert
+,	PONfbl	,
 Qui	PROrel	que
 se	PROper	soi
 vantast	VERcjg	venter
@@ -1705,22 +1784,25 @@ N'	CONcoo	ne
 ausiques	ADVgen	aussi
 n'	ADVneg	ne
 avoit	VERcjg	avoir
-il	PROimp	il
+il	PROper	il
 d'	PRE	de
 aprendre	VERinf	aprendre
 nul	DETind	nul
 bien	NOMcom	bien
 cure	NOMcom	cure
+,	PONfbl	,
 Ne	ADVneg	ne
 pensoit	VERcjg	penser
 qu'	CONsub	que
 a	PRE	a
-mal	NOMcom	mal
+mal	ADVgen	mal
 faire	VERinf	faire
+,	PONfbl	,
 trop	ADVgen	trop
 estoit	VERcjg	estre
 sanz	PRE	sans
 mesure	NOMcom	mesure
+;	PONfbl	;
 Il	PROper	il
 haoit	VERcjg	häir
 Sainte	ADJqua	saint
@@ -1729,6 +1811,8 @@ et	CONcoo	et
 sa	DETpos	son
 propre	ADJqua	propre
 nature	NOMcom	nature
+.	PONfrt	.
+
 Car	CONcoo	car
 s'	PROper	soi
 entrast	VERcjg	entrer
@@ -1737,22 +1821,20 @@ moustier	NOMcom	moutier
 par	PRE	par
 aucune	DETind	aucun
 aventure	NOMcom	aventure
+,	PONfbl	,
 Ne	ADVneg	ne
 feïst	VERcjg	faire
 il	PROper	il
 que	CONsub	que
 mal	NOMcom	mal
-;	PONfbl	;
-quant	CONsub	cant
-.i	PROind	un
 .	PONfrt	.
 
+Quant	CONsub	quand
+un	DETndf	un
 prestre	NOMcom	prêtre
 veoit	VERcjg	voir
-.I	PROcar	un
-.	PONfrt	.
-
-pou	ADVgen	peu
+Un	DETndf	un
+pou	PROind	peu
 ouvrir	VERinf	ouvrir
 la	DETdef	le
 bouche	NOMcom	bouche
@@ -1760,9 +1842,10 @@ quant	CONsub	cant
 haut	ADJqua	haut
 chanter	VERinf	chanter
 vouloit	VERcjg	vouloir
+,	PONfbl	,
 Robert	NOMpro	Robert
 par	PRE	par
-traison	NOMcom	traison
+traïson	NOMcom	träison
 ens	ADVgen	ens
 es	PRE.DETdef	en.le
 denz	NOMcom	dent
@@ -1778,27 +1861,33 @@ ce	PROdem	ce
 que	PROrel	que
 il	PROper	il
 tenoit	VERcjg	tenir
+.	PONfrt	.
+
 O	PRE	o
-mal	NOMcom	mal
+mal	ADVgen	mal
 faire	VERinf	faire
 metoit	VERcjg	mettre
 tout	DETind	tout
 son	DETpos	son
 entendement	NOMcom	entendement
+.	PONfrt	.
+
 Quant	CONsub	quand
 au	PRE.DETdef	a
 moustier	NOMcom	moutier
 veoit	VERcjg	voir
 a	PRE	a
-Genoulz	NOMpro	Genoul
+genoulz	NOMcom	genou
 bonne	ADJqua	bon
 gent	NOMcom	gent
+,	PONfbl	,
 Par	PRE	par
 derrier	ADVgen	derrier
 les	PROper	il
 boutoit	VERcjg	bouter
 si	ADVgen	si
 debonnairement	ADVgen	débonnairement
+,	PONfbl	,
 Qu'	CONsub	que
 a	PRE	a
 denz	NOMcom	dent
@@ -1807,14 +1896,17 @@ abatoit	VERcjg	abatre
 contre	PRE	contre
 le	DETdef	le
 pavement	NOMcom	pavement
+.	PONfrt	.
+
 Pour	PRE	pour
 sa	DETpos	son
 grant	ADJqua	grant
 mauvaistie	NOMcom	mauvaiseté
-le	DETdef	le
-duc	NOMcom	duc
+chascun	PROind	chascun
 le	PROper	il
-mandissoit	VERcjg	mendir
+maudissoit	VERcjg	maudire
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 qui	PROrel	que
@@ -1824,14 +1916,15 @@ moult	ADVgen	moult
 dolanz	ADJqua	dolent
 en	PROadv	en
 estoit	VERcjg	estre
+.	PONfrt	.
+
 Et	CONcoo	et
 quant	CONsub	cant
 il	PROper	il
 ot	VERcjg	avoir
-.xvi	PROcar	six
-.	PONfrt	.
-
+seize	DETcar	seize
 ans	NOMcom	an
+,	PONfbl	,
 sa	DETpos	son
 mere	NOMcom	mere
 qui	PROrel	que
@@ -1840,9 +1933,11 @@ amoit	VERcjg	amer
 Dist	VERcjg	dire
 au	PRE.DETdef	a
 duc	NOMcom	duc
+:	PONfbl	:
 “	PONpga	“
 Mon	DETpos	mon
 seigneur	NOMcom	seigneur
+,	PONfbl	,
 je	PROper	je
 croi	VERcjg	croire
 que	CONsub	que
@@ -1855,35 +1950,42 @@ vostre	DETpos	vostre
 filz	NOMcom	fil
 qui	PROrel	que
 est	VERcjg	estre
-fors	PRE	fors
+fors	ADVgen	fors
+.	PONfrt	.
+
 Je	PROper	je
 croi	VERcjg	croire
-s'	PROper	soi
+,	PONfbl	,
+s'	ADVgen	si
 est	VERcjg	estre
 chevaliers	NOMcom	chevalier
+,	PONfbl	,
 qu'	CONsub	que
 il	PROper	il
 s'	PROper	soi
 avisera	VERcjg	aviser
 lors	ADVgen	lors
+.	PONfbl	.
 ”	PONpdr	”
 Et	CONcoo	et
 le	DETdef	le
 duc	NOMcom	duc
 respondi	VERcjg	répondre
+:	PONfbl	:
 “	PONpga	“
 Dame	NOMcom	dame
+,	PONfbl	,
 je	PROper	je
 m'	PROper	je
 i	PROadv	i
 acors	VERcjg	acorre
-.	PONfrt	.
-
+,	PONfbl	,
 Ne	ADVneg	ne
 sai	VERcjg	savoir
 que	PROrel	que
 ce	PROdem	ce
 sera	VERcjg	estre
+;	PONfbl	;
 j'	PROper	je
 ai	VERcjg	avoir
 grant	ADJqua	grant
@@ -1891,27 +1993,32 @@ duel	NOMcom	duel
 de	PRE	de
 son	DETpos	son
 cors	NOMcom	corps
+.	PONfrt	.
+
 Il	PROper	il
 n'	ADVneg	ne
 entent	VERcjg	entendre
-qu'	ADVgen	que
+qu'	CONsub	que
 a	PRE	a
 mal	NOMcom	mal
 faire	VERinf	faire
+,	PONfbl	,
 j'	PROper	je
 en	PROadv	en
 sui	VERcjg	estre
 touz	ADVgen	tout
 esbahiz	VERppe	esbäir
+.	PONfbl	.
 ”	PONpdr	”
 A	PRE	a
 une	DETndf	un
 Penthecouste	NOMpro	Pentecoute
-;	PONfbl	;
+,	PONfbl	,
 qui	PROrel	que
 sont	VERcjg	estre
 gent	NOMcom	gent
 esjoiz	VERppe	éjouir
+,	PONfbl	,
 Manda	VERcjg	mander
 le	DETdef	le
 duc	NOMcom	duc
@@ -1921,6 +2028,7 @@ et	CONcoo	et
 ses	DETpos	son
 meilleurs	ADJqua	meilleur
 amis	NOMcom	ami
+;	PONfbl	;
 Il	PROper	il
 a	VERcjg	avoir
 mandé	VERppe	mander
@@ -1930,19 +2038,23 @@ li	PROper	il
 dit	VERcjg	dire
 son	DETpos	son
 avis	NOMcom	avis
+:	PONfbl	:
 “	PONpga	“
 Biaux	ADJqua	beau
 filz	NOMcom	fil
+,	PONfbl	,
 ”	PONpdr	”
 ce	PROdem	ce
 dit	VERcjg	dire
 le	DETdef	le
 duc	NOMcom	duc
+,	PONfbl	,
 “	PONpga	“
-Chevalier	NOMcom	chevalier
+chevalier	NOMcom	chevalier
 vous	PROper	vous
 vueil	VERcjg	vouloir
 faire	VERinf	faire
+;	PONfbl	;
 Mais	CONcoo	mais
 muer	VERinf	muer
 vous	PROper	vous
@@ -1951,6 +2063,8 @@ et	CONcoo	et
 changier	VERinf	changier
 vostre	DETpos	vostre
 afaire	NOMcom	afaire
+.	PONfrt	.
+
 Tout	DETind	tout
 chevalier	NOMcom	chevalier
 doit	VERcjg	devoir
@@ -1959,8 +2073,8 @@ courtoiz	ADJqua	courtois
 et	CONcoo	et
 debonnaire	ADJqua	débonnaire
 Aus	PRE.DETdef	a
-bons	NOMcom	bon
-;	PONfbl	;
+bons	ADJqua	bon
+,	PONfbl	,
 mais	CONcoo	mais
 grever	VERinf	grever
 doit	VERcjg	devoir
@@ -1969,16 +2083,19 @@ felons	NOMcom	felon
 de	PRE	de
 put	ADJqua	put
 aire	NOMcom	aire
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Bien	ADVgen	bien
 l'	PROper	il
 acort	VERcjg	acorder
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 Robert	NOMpro	Robert
+,	PONfbl	,
 “	PONpga	“
-Mais	CONcoo	mais
+mais	CONcoo	mais
 par	PRE	par
 foy	NOMcom	foi
 ne	ADVneg	ne
@@ -1989,21 +2106,25 @@ quel	DETrel	quel
 estat	NOMcom	état
 je	PROper	je
 soie	VERcjg	estre
+,	PONfbl	,
 chevalier	NOMcom	chevalier
 ou	CONcoo	o
 ribaut	NOMcom	ribaut
+,	PONfbl	,
 Pour	PRE	pour
 tant	ADVgen	tant
 que	CONsub	que
 mes	DETpos	mon
 bons	ADJqua	bon
-face	NOMcom	face
+face	VERcjg	faire
 par	PRE	par
 Dieu	NOMpro	Dieu
 qui	PROrel	que
 sus	PRE	sus
 tous	PROind	tous
 vaut	VERcjg	valoir
+.	PONfrt	.
+
 Je	PROper	je
 ne	ADVneg	ne
 deporterai	VERcjg	deporter
@@ -2012,8 +2133,10 @@ armes	NOMcom	arme
 bas	ADJqua	bas
 ne	CONcoo	ne
 haut	ADJqua	haut
+.	PONfbl	.
+”	PONpdr	”
 La	DETdef	le
-veille	NOMcom	veille
+veille	ADJqua	vieux
 bien	ADVgen	bien
 matin	NOMcom	matin
 d'	PRE	de
@@ -2025,12 +2148,14 @@ Fu	VERcjg	estre
 Robert	NOMpro	Robert
 bien	ADVgen	bien
 baigniez	VERppe	baignier
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 la	DETdef	le
 nuit	NOMcom	nuit
 trop	ADVgen	trop
-li	DETdef	le
-couste	NOMcom	coût
+li	PROper	il
+couste	VERcjg	coûter
+;	PONfbl	;
 Quant	CONsub	quand
 veilla	VERcjg	veillier
 en	PRE	en
@@ -2039,9 +2164,11 @@ eglise	NOMcom	église
 l'	DETdef	le
 un	PROind	un
 sache	VERcjg	savoir
+,	PONfbl	,
 l'	DETdef	le
 autre	PROind	autre
-boute	NOMcom	boute
+boute	VERcjg	bouter
+,	PONfbl	,
 Il	PROper	il
 ne	ADVneg	ne
 pot	VERcjg	pöoir
@@ -2052,35 +2179,36 @@ ne	CONcoo	ne
 ne	ADVneg	ne
 prioit	VERcjg	prier
 Dieu	NOMpro	Dieu
-goute	ADJqua	goutte
+goute	NOMcom	goutte
+.	PONfrt	.
+
 Chevalier	NOMcom	chevalier
 fu	VERcjg	estre
 Robert	NOMpro	Robert
-.	PONfrt	.
-
 l'	DETdef	le
 endemain	NOMcom	endemain
 par	PRE	par
 matin	NOMcom	matin
+.	PONfrt	.
+
 Son	DETpos	son
 pere	NOMcom	père
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Filz	NOMcom	fils
-soié	VERppe	soiier
+,	PONfbl	,
+soié	VERcjg	être
 a	PRE	a
 Dieu	NOMpro	Dieu
 enclin	ADJqua	enclin
-.	PONfrt	.
-
 Et	CONcoo	et
 soustenez	VERcjg	soutenir
 l'	DETdef	le
 eglyse	NOMcom	église
-.	PONfrt	.
-
+,	PONfbl	,
 si	ADVgen	si
 tenrez	VERcjg	tenir
 bonne	ADJqua	bon
@@ -2091,11 +2219,13 @@ Robert	NOMpro	Robert
 ot	VERcjg	avoir
 la	DETdef	le
 colee	NOMcom	colee
+,	PONfbl	,
 mais	CONcoo	mais
 il	PROper	il
 dist	VERcjg	dire
 sanz	PRE	sans
 latin	NOMcom	latin
+,	PONfbl	,
 Que	CONsub	que
 ja	ADVgen	ja
 jour	NOMcom	jour
@@ -2105,14 +2235,16 @@ vie	NOMcom	vie
 eglyse	NOMcom	église
 n'	ADVneg	ne
 amera	VERcjg	aimer
+,	PONfbl	,
 Aincois	ADVgen	ainçois
 a	PRE	a
 son	DETpos	son
-pooir	NOMcom	pouvoir
+pooir	VERinf	pöoir
 touz	DETind	tous
 jourz	NOMcom	jour
 le	PROper	il
 grevera	VERcjg	grever
+,	PONfbl	,
 Et	CONcoo	et
 qu'	CONsub	que
 en	PRE	en
@@ -2132,13 +2264,13 @@ crier	VERinf	crïer
 les	DETdef	le
 joustes	NOMcom	juste
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 jour	NOMcom	jour
 qu'	PROrel	que
 il	PROper	il
 nomma	VERcjg	nommer
+.	PONfrt	.
+
 De	PRE	de
 toutes	DETind	tous
 pars	NOMcom	part
@@ -2147,24 +2279,30 @@ vindrent	VERcjg	venir
 li	DETdef	le
 noble	ADJqua	noble
 chevalier	NOMcom	chevalier
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 se	PROper	soi
 fist	VERcjg	faire
 armer	VERinf	armer
+,	PONfbl	,
 puis	ADVgen	puis
 monta	VERcjg	monter
 el	PRE.DETdef	en
 destrier	NOMcom	destrier
+,	PONfbl	,
 Il	PROper	il
 ne	ADVneg	ne
 joustoit	VERcjg	jouter
 a	PRE	a
 homme	NOMcom	homme
+,	PONfbl	,
 tant	ADVgen	tant
 fust	VERcjg	estre
 hardi	VERppe	hardi
 ne	CONcoo	ne
 fier	ADJqua	fier
+,	PONfbl	,
 Que	CONsub	que
 li	PROper	il
 et	CONcoo	et
@@ -2173,6 +2311,8 @@ cheval	NOMcom	cheval
 ne	ADVneg	ne
 feïst	VERcjg	faire
 trebuchier	VERinf	trebuchier
+.	PONfrt	.
+
 A	PRE	a
 l'	DETdef	le
 un	PROind	un
@@ -2185,8 +2325,9 @@ l'	DETdef	le
 autre	PROind	autre
 le	DETdef	le
 col	NOMcom	col
+,	PONfbl	,
 Au	PRE.DETdef	a
-tiers	PROord	tiers
+tiers	ADJord	tiers
 brisoit	VERcjg	brisier
 la	DETdef	le
 cuisse	NOMcom	cuisse
@@ -2195,38 +2336,40 @@ couroit	VERcjg	courir
 de	PRE	de
 plain	ADJqua	plein
 vol	NOMcom	vol
-.	PONfrt	.
-
+;	PONfbl	;
 Vint	VERcjg	venir
 destriers	NOMcom	destrier
-de	PRE	de
-rompi	NOMcom	rompi
+derompi	VERcjg	derompre
 la	DETdef	le
 journee	NOMcom	journée
 com	CONsub	come
 fol	ADJqua	fol
+.	PONfrt	.
+
 On	PROind	on
 le	PROper	il
 vint	VERcjg	venir
 dire	VERinf	dire
 au	PRE.DETdef	a
 duc	NOMcom	duc
-.	PONfrt	.
-
 qui	PROrel	que
 avoit	VERcjg	avoir
 le	DETdef	le
 cuer	NOMcom	cuer
 mol	ADJqua	mol
+.	PONfrt	.
+
 El	PRE.DETdef	en
 champ	NOMcom	champ
 vint	VERcjg	venir
 tout	ADVgen	tout
 courant	VERppa	courir
+,	PONfbl	,
 le	DETdef	le
 jouster	NOMcom	jouter
 fist	VERcjg	faire
 deffendre	VERinf	défendre
+;	PONfbl	;
 Mais	CONcoo	mais
 Robert	NOMpro	Robert
 por	PRE	por
@@ -2236,17 +2379,18 @@ ne	ADVneg	ne
 voult	VERcjg	vouloir
 onques	ADVgen	onque
 descendre	VERinf	descendre
-S'	CONsub	se
+,	PONfbl	,
+S'	ADVgen	si
 ot	VERcjg	avoir
 fait	VERppe	faire
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 chevaliers	NOMcom	chevalier
 a	PRE	a
 terre	NOMcom	terre
 mort	VERppe	mourir
 estendre	VERinf	estendre
+.	PONfrt	.
+
 Chascun	PROind	chacun
 le	PROper	il
 maudissoit	VERcjg	maudire
@@ -2254,20 +2398,23 @@ de	PRE	de
 trainer	VERinf	traîner
 ou	CONcoo	o
 pendre	VERinf	pendre
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Biax	ADJqua	bel
 filz	NOMcom	fil
+,	PONfbl	,
 plain	ADJqua	plein
 es	VERcjg	être
 de	PRE	de
 mal	ADJqua	mal
 erreur	NOMcom	herreur
-.	PONfrt	.
-
+;	PONfbl	;
 Les	DETdef	le
 seigneurs	NOMcom	seigneur
 vindrent	VERcjg	venir
@@ -2276,6 +2423,7 @@ pour	PRE	pour
 toi	PROper	tu
 porter	VERinf	porter
 hounour	NOMcom	honneur
+,	PONfbl	,
 Or	ADVgen	or
 les	PROper	il
 as	VERcjg	avoir
@@ -2284,17 +2432,19 @@ et	CONcoo	et
 occis	VERppe	occire
 a	PRE	a
 dolour	NOMcom	douleur
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
-;	PONfbl	;
+deable	NOMcom	diable
 respondi	VERcjg	répondre
 par	PRE	par
 folour	NOMcom	foleur
+:	PONfbl	:
 “	PONpga	“
 Pere	NOMcom	père
+,	PONfbl	,
 de	PRE	de
 moi	PROper	je
 blamer	VERinf	blamer
@@ -2303,25 +2453,31 @@ povez	VERcjg	pouvoir
 trop	ADVgen	trop
 bien	ADVgen	bien
 taire	VERinf	taire
+.	PONfrt	.
+
 Vouz	PROper	vous
 perdez	VERcjg	perdre
 vostre	DETpos	vostre
 paine	NOMcom	peine
+,	PONfbl	,
 n'	ADVneg	ne
 ai	VERcjg	avoir
 talent	NOMcom	talent
 de	PRE	de
 bien	ADVgen	bien
 faire	VERinf	faire
+.	PONfrt	.
+
 Puis	ADVgen	puis
 que	CONsub	que
 sui	VERcjg	estre
 chevalier	NOMcom	chevalier
-;	PONfbl	;
+,	PONfbl	,
 aus	PRE.DETdef	à.le
 moinnes	NOMcom	moine
 ferai	VERcjg	faire
 haire	NOMcom	haire
+,	PONfbl	,
 Ne	ADVneg	ne
 leur	PROper	leur
 lairai	VERcjg	laisser
@@ -2329,6 +2485,7 @@ joiaus	ADJqua	joyal
 ne	CONcoo	ne
 riche	ADJqua	riche
 saintuaire	NOMcom	saintüaire
+.	PONfbl	.
 ”	PONpdr	”
 Des	PRE.DETdef	de
 mos	NOMcom	mos
@@ -2339,6 +2496,7 @@ fu	VERcjg	estre
 dolans	VERppa	dolent
 li	DETdef	le
 preudons	NOMcom	prudhomme
+;	PONfbl	;
 Moult	ADVgen	moult
 marris	VERppe	marrir
 se	PROper	soi
@@ -2347,13 +2505,17 @@ de	PRE	de
 Rouen	NOMpro	Rouen
 les	DETdef	le
 barons	NOMcom	baron
+.	PONfrt	.
+
 Mais	CONcoo	mais
 Robert	NOMpro	Robert
 demoura	VERcjg	demeurer
+,	PONfbl	,
 ne	ADVneg	ne
 retint	VERcjg	retenir
 que	CONsub	que
 gloutons	NOMcom	glouton
+;	PONfbl	;
 Il	PROper	il
 amoit	VERcjg	amer
 les	DETdef	le
@@ -2363,6 +2525,8 @@ si	ADVgen	si
 haoit	VERcjg	häir
 les	DETdef	le
 bons	NOMcom	bon
+.	PONfrt	.
+
 Des	PRE	des
 ce	PROdem	ce
 c'	PROrel	que
@@ -2376,12 +2540,12 @@ Et	CONcoo	et
 Robert	NOMpro	Robert
 y	PROadv	y
 venoit	VERcjg	venir
-.	PONfrt	.
-
+,	PONfbl	,
 chascun	PROind	chascun
 se	PROper	soi
 tenoit	VERcjg	tenir
 quoi	PROrel	quoi
+;	PONfbl	;
 Nul	PROind	nul
 n'	ADVneg	ne
 osoit	VERcjg	oser
@@ -2390,17 +2554,21 @@ fait	NOMcom	fait
 d'	PRE	de
 armes	NOMcom	arme
 aprochier	VERinf	aprochier
-prés	ADVgen	près
+pres	ADVgen	près
 de	PRE	de
 soi	PROper	soi
+,	PONfbl	,
 Car	CONcoo	car
 il	PROper	il
 ne	ADVneg	ne
 deportoit	VERcjg	deporter
 duc	NOMcom	duc
+,	PONfbl	,
 conte	NOMcom	conte
 ne	CONcoo	ne
 roy	NOMcom	roi
+.	PONfrt	.
+
 Les	DETdef	le
 chevaliers	NOMcom	chevalier
 disoient	VERcjg	dire
@@ -2409,15 +2577,18 @@ bas	ADJqua	bas
 a	PRE	a
 leur	DETpos	leur
 mesnie	NOMcom	maisniee
+:	PONfbl	:
 “	PONpga	“
 Quant	CONsub	quand
 ce	DETdem	ce
 dyable	NOMcom	diable
 vient	VERcjg	venir
+,	PONfbl	,
 nous	PROper	nous
 n'	ADVneg	ne
 assamblerons	VERcjg	assembler
 mie	ADVneg	mie
+;	PONfbl	;
 Prier	VERinf	priier
 estuet	VERcjg	estovoir
 que	CONsub	que
@@ -2426,14 +2597,14 @@ li	PROper	il
 envoit	VERcjg	envoyer
 courte	ADJqua	court
 vie	NOMcom	vie
-.	PONfrt	.
-
+,	PONfbl	,
 Car	CONcoo	car
 s'	CONsub	se
 il	PROper	il
 vit	VERcjg	vëoir
 longuement	ADVgen	longuement
-normendie	NOMcom	normandie
+,	PONfbl	,
+Normendie	NOMpro	Normandie
 est	VERcjg	estre
 honnie	VERppe	honnir
 .	PONfbl	.
@@ -2446,6 +2617,8 @@ que	CONsub	que
 murdriers	NOMcom	meurtrier
 et	CONcoo	et
 banis	NOMcom	banis
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 vit	VERcjg	vëoir
 qu'	CONsub	que
@@ -2455,25 +2628,31 @@ des	PRE.DETdef	de.le
 plus	ADVgen	plus
 nobles	ADJqua	noble
 hays	NOMcom	hais
+.	PONfrt	.
+
 Lors	ADVgen	lors
 a	VERcjg	avoir
 dist	VERppe	dire
 a	PRE	a
 sa	DETpos	son
 gent	NOMcom	gent
+:	PONfbl	:
 “	PONpga	“
 Loiaument	ADVgen	loyalement
 vous	PROper	vous
 plevis	VERcjg	plevir
+:	PONfbl	:
 S'	CONsub	se
 asez	ADVgen	assez
 avons	VERcjg	avoir
 fait	VERppe	faire
 mal	NOMcom	mal
+,	PONfbl	,
 encor	ADVgen	encore
 ferons	VERcjg	faire
 nous	PROper	nous
 pis	ADVgen	pis
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 parmi	PRE	parmi
@@ -2482,17 +2661,18 @@ prist	VERcjg	prendre
 fort	ADVgen	fort
 a	PRE	a
 chevauchier	VERinf	chevauchier
+.	PONfrt	.
+
 N'	ADVneg	ne
 i	PROadv	i
 laissoit	VERcjg	laisser
 abaie	NOMcom	abaie
-.	PONfrt	.
-
 qu'	CONsub	que
 il	PROper	il
 ne	ADVneg	ne
 feïst	VERcjg	faire
 cerchier	VERinf	cerchier
+,	PONfbl	,
 Ne	ADVneg	ne
 povoit	VERcjg	pouvoir
 en	PRE	en
@@ -2522,6 +2702,8 @@ et	CONcoo	et
 mis	VERppe	metre
 a	PRE	a
 mort	NOMcom	mort
+.	PONfrt	.
+
 Maint	DETind	maint
 preudomme	NOMcom	prudhomme
 tua	VERcjg	tuer
@@ -2531,6 +2713,8 @@ sien	PROpos	sien
 a	PRE	a
 grant	ADJqua	grant
 tort	NOMcom	tort
+.	PONfrt	.
+
 Au	PRE.DETdef	a
 duc	NOMcom	duc
 de	PRE	de
@@ -2548,47 +2732,50 @@ chascun	DETind	chascun
 jour	NOMcom	jour
 et	CONcoo	et
 refort	NOMcom	refort
+.	PONfrt	.
+
 L'	DETdef	le
 un	PROind	un
 li	PROper	il
 disoit	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
 chier	ADJqua	chier
-;	PONfbl	;
+,	PONfbl	,
 par	PRE	par
 foy	NOMcom	foi
 c'	PROdem	ce
 est	VERcjg	estre
-.i	PROind	un
-.	PONfrt	.
+un	DETndf	un
+lait	ADJqua	lait
+gieu	NOMcom	jeu
+!	PONfrt	!
 
-lait	VERcjg	laiier
-Dieu	NOMpro	Dieu
 Robert	NOMpro	Robert
-a	PRE	a
-violees	NOMcom	vïolee
-.	PONfrt	.
-
+a	VERcjg	avoir
+violees	VERppe	violer
 les	DETdef	le
 nonnains	NOMcom	nonnain
 de	PRE	de
 tel	DETind	tel
 lieu	NOMcom	lieu
+.	PONfrt	.
+
 Je	PROper	je
 croi	VERcjg	croire
 c'	PROdem	ce
 est	VERcjg	estre
-.i	PROind	un
-.	PONfrt	.
-
-dëable	NOMcom	diable
+un	DETndf	un
+deable	NOMcom	diable
+,	PONfbl	,
 il	PROper	il
 ne	ADVneg	ne
 croit	VERcjg	croire
 pas	ADVneg	pas
 en	PRE	en
 Dieu	NOMpro	Dieu
+,	PONfbl	,
 Ne	ADVneg	ne
 prise	VERcjg	prisier
 homme	NOMcom	homme
@@ -2605,12 +2792,15 @@ autre	PROind	autre
 dist	VERcjg	dire
 au	PRE.DETdef	a
 duc	NOMcom	duc
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 c'	PROdem	ce
 est	VERcjg	estre
 grant	ADJqua	grant
 folie	NOMcom	folie
+,	PONfbl	,
 Que	CONsub	que
 sousfrez	VERcjg	souffrir
 que	CONsub	que
@@ -2620,6 +2810,7 @@ soit	VERcjg	estre
 de	PRE	de
 tele	DETind	tel
 estoutie	NOMcom	estoutie
+;	PONfbl	;
 Ne	ADVneg	ne
 puet	VERcjg	pöoir
 trouver	VERinf	trouver
@@ -2627,21 +2818,21 @@ preudomme	NOMcom	prudhomme
 en	PRE	en
 toute	DETind	tout
 Normendie	NOMpro	Normandie
-.	PONfbl	.
-”	PONpdr	”
 Qui	PROrel	que
 ne	ADVneg	ne
 soit	VERcjg	estre
 desrobez	VERppe	dérober
+,	PONfbl	,
 ne	CONcoo	ne
 moustier	NOMcom	moutier
-n'	CONcoo	ne
-abaie	NOMcom	abaie
+n'	ADVneg	ne
+abaie	VERcjg	abaiier
+.	PONfbl	.
+”	PONpdr	”
 Mais	CONcoo	mais
 puis	ADVgen	puis
 ne	ADVneg	ne
 demoura	VERcjg	demeurer
-;	PONfbl	;
 pas	ADVneg	pas
 moult	ADVgen	moult
 longue	ADJqua	lonc
@@ -2667,7 +2858,9 @@ Que	PROrel	que
 Robert	NOMpro	Robert
 leur	PROper	leur
 faisoit	VERcjg	faire
-l'	DETdef	le
+.	PONfrt	.
+
+L'	DETdef	le
 un	PROind	un
 d'	PRE	de
 eulz	PROper	eux
@@ -2675,11 +2868,11 @@ dist	VERcjg	dire
 a	PRE	a
 cler	ADJqua	clair
 son	NOMcom	son
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Franc	ADJqua	franc
 duc	NOMcom	duc
+,	PONfbl	,
 Robert	NOMpro	Robert
 vo	DETpos	votre
 filz	NOMcom	fil
@@ -2688,65 +2881,67 @@ a	PRE	a
 force	NOMcom	force
 nos	DETpos	notre
 femmes	NOMcom	femme
+,	PONfbl	,
 Nos	DETpos	notre
 filles	NOMcom	fille
 et	CONcoo	et
 nos	DETpos	notre
 nieces	NOMcom	niece
+;	PONfbl	;
 trop	ADVgen	trop
 est	VERcjg	estre
 grant	ADJqua	grant
 li	DETdef	le
 difames	NOMcom	difame
+,	PONfbl	,
 N'	ADVneg	ne
 en	PROadv	en
 poons	VERcjg	pouvoir
 plus	ADVgen	plus
 souffrir	VERinf	souffrir
+,	PONfbl	,
 se	CONsub	se
 Diex	NOMpro	Dieu
 nous	PROper	nous
 saut	VERcjg	salir
 les	DETdef	le
 ames	NOMcom	âme
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 duc	NOMcom	duc
 prist	VERcjg	prendre
 a	PRE	a
 plourer	VERinf	pleurer
-.	PONfrt	.
-
 et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
-.saint	ADJqua	saint
+saint	ADJqua	saint
 James	NOMpro	James
+,	PONfbl	,
 Riens	PROind	rien
 tant	ADVgen	tant
 ne	ADVneg	ne
 desirroie	VERcjg	desirrer
-;	PONfbl	;
 comme	CONsub	comme
 d'	PRE	de
 avoir	VERinf	avoir
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 filz	NOMcom	fil
+,	PONfbl	,
 Or	ADVgen	or
 en	PROadv	en
 ai	VERcjg	avoir
-.i	PROind	un
-.	PONfrt	.
-
+un	PROind	un
 eü	VERppe	avoir
-.	PONfrt	.
-
+,	PONfbl	,
 mais	CONcoo	mais
+,	PONfbl	,
 vrai	ADJqua	vrai
 Diex	NOMpro	Dieu
+,	PONfbl	,
 il	PROper	il
 est	VERcjg	estre
 tiex	ADJind	tel
@@ -2759,42 +2954,43 @@ morir	VERinf	morir
 devant	PRE	devant
 mes	DETpos	mon
 yex	NOMcom	œil
+,	PONfbl	,
 Trop	ADVgen	trop
 m'	PROper	je
 a	VERcjg	avoir
 fait	VERppe	faire
 de	PRE	de
 courous	NOMcom	courroux
+.	PONfbl	.
 ”	PONpdr	”
-lors	ADVgen	lors
+Lors	ADVgen	lors
 parla	VERcjg	parler
-.i	PROcar	un
-.	PONfrt	.
-
+uns	DETndf	un
 hons	NOMcom	homme
-viex	VERcjg	voloir
+viex	ADJqua	vieux
 Et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 je	PROper	je
 lo	VERcjg	löer
-;	PONfbl	;
 que	CONsub	que
 Robert	NOMpro	Robert
 soit	VERcjg	estre
 mandez	VERppe	mander
-.	PONfrt	.
-
 Par	PRE	par
 devant	PRE	devant
 touz	DETind	tous
 vos	DETpos	votre
 hommes	NOMcom	homme
+,	PONfbl	,
 le	DETdef	le
 mal	NOMcom	mal
 li	PROper	il
 deffendez	VERcjg	défendre
+,	PONfbl	,
 Et	CONcoo	et
 s'	CONsub	se
 il	PROper	il
@@ -2804,10 +3000,12 @@ em	PRE	en
 prison	NOMcom	prison
 le	PROper	il
 metez	VERcjg	metre
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 duc	NOMcom	duc
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 m'	PROper	je
@@ -2817,26 +3015,30 @@ ce	PROdem	ce
 que	CONsub	que
 me	PROper	je
 loez	VERcjg	louer
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 fist	VERcjg	faire
 on	PROind	on
 Robert	NOMpro	Robert
-querré	VERinf	querre
+querre	VERinf	querre
 par	PRE	par
 trestout	DETind	trèstout
 le	DETdef	le
 pays	NOMcom	pays
+;	PONfbl	;
 Mais	CONcoo	mais
 ceulz	PROdem	celui
 qui	PROrel	que
 le	PROper	il
 trouverent	VERcjg	trouver
+,	PONfbl	,
 si	ADVgen	si
 en	PROadv	en
 orent	VERcjg	avoir
 du	PRE.DETdef	de.le
 piz	NOMcom	piz
+,	PONfbl	,
 Car	CONcoo	car
 tantost	ADVgen	tantôt
 ens	ADVgen	ens
@@ -2848,7 +3050,7 @@ il	PROper	il
 ot	VERcjg	avoir
 les	DETdef	le
 mos	NOMcom	mos
-oys	VERppe	ouïr
+oÿs	VERppe	ouïr
 Que	CONsub	que
 de	PRE	de
 li	PROper	il
@@ -2858,6 +3060,7 @@ les	DETdef	le
 barons	NOMcom	baron
 du	PRE.DETdef	de.le
 pays	NOMcom	pays
+,	PONfbl	,
 A	PRE	a
 chascun	PROind	chascun
 des	PRE.DETdef	de.le
@@ -2870,9 +3073,7 @@ tramist	VERcjg	tramettre
 Fist	VERcjg	faire
 traire	VERinf	traire
 les	DETdef	le
-.ii	PROcar	deus
-.	PONfrt	.
-
+deus	ADJcar	deux
 yex	NOMcom	œil
 et	CONcoo	et
 puis	ADVgen	puis
@@ -2880,6 +3081,7 @@ si	ADVgen	si
 leur	PROper	leur
 a	VERcjg	avoir
 dist	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Vous	PROper	vous
 endormirez	VERcjg	endormir
@@ -2888,6 +3090,7 @@ demain	ADVgen	demain
 en	PRE	en
 vostre	DETpos	vostre
 lit	NOMcom	lit
+;	PONfbl	;
 Mais	CONcoo	mais
 dites	VERcjg	dire
 a	PRE	a
@@ -2899,6 +3102,7 @@ est	VERcjg	estre
 en	PRE	en
 son	DETpos	son
 despit	NOMcom	despit
+.	PONfbl	.
 ”	PONpdr	”
 Vers	PRE	vers
 le	DETdef	le
@@ -2915,6 +3119,8 @@ son	DETpos	son
 filz	NOMcom	fil
 griés	ADJqua	grief
 tourment	NOMcom	tourment
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 qui	PROrel	que
@@ -2925,17 +3131,22 @@ en	PROadv	en
 fu	VERcjg	estre
 moult	ADVgen	moult
 dolent	ADJqua	dolent
+.	PONfrt	.
+
 Lors	ADVgen	lors
 li	PROper	il
 distrent	VERcjg	dire
 ses	DETpos	son
 hommes	NOMcom	homme
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
 c'	PROdem	ce
 est	VERcjg	estre
 pour	PRE	pour
 nient	ADVgen	néant
+.	PONfrt	.
+
 Puis	ADVgen	puis
 qu'	CONsub	que
 il	PROper	il
@@ -2948,7 +3159,7 @@ honnir	VERinf	honnir
 Estre	VERinf	estre
 poez	VERcjg	pöoir
 certains	ADJqua	certain
-n'	CONcoo	ne
+n'	ADVneg	ne
 a	PRE	a
 talent	NOMcom	talent
 de	PRE	de
@@ -2965,6 +3176,7 @@ on	PROind	on
 le	PROper	il
 face	VERcjg	faire
 banir	VERinf	banir
+.	PONfbl	.
 ”	PONpdr	”
 Adont	ADVgen	adonc
 fu	VERcjg	estre
@@ -2979,7 +3191,7 @@ alentir	VERinf	alentir
 Des	PRE	des
 le	DETdef	le
 mont	NOMcom	monde
-saint	ADJqua	saint
+Saint	ADJqua	saint
 Michiel	NOMpro	Michel
 jusqu'	PRE	jusque
 a	PRE	a
@@ -2992,7 +3204,7 @@ fust	VERcjg	estre
 serjant	NOMcom	sergent
 et	CONcoo	et
 se	PROper	soi
-meist	VERcjg	mettre
+meïst	VERcjg	metre
 en	PRE	en
 paine	NOMcom	peine
 D'	PRE	de
@@ -3004,6 +3216,8 @@ ceulz	PROdem	celui
 que	PROrel	que
 il	PROper	il
 maine	VERcjg	manoir
+.	PONfrt	.
+
 Quant	CONsub	quand
 le	DETdef	le
 sot	VERcjg	savoir
@@ -3016,6 +3230,8 @@ le	PROper	il
 saingnast	VERcjg	seignier
 de	PRE	de
 vaine	ADJqua	vain
+.	PONfrt	.
+
 Car	CONcoo	car
 tant	ADVgen	tant
 ot	VERcjg	avoir
@@ -3038,12 +3254,14 @@ route	NOMcom	rompre
 furent	VERcjg	estre
 forment	ADVgen	fortement
 dolens	ADJqua	dolent
-.Robert	NOMpro	Robert
+.	PONfrt	.
+
+Robert	NOMpro	Robert
 les	PROper	il
 conforta	VERcjg	conforter
 et	CONcoo	et
 jura	VERcjg	jurer
-.saint	ADJqua	saint
+saint	ADJqua	saint
 Lorens	NOMpro	Laurent
 Que	CONsub	que
 il	PROper	il
@@ -3053,6 +3271,8 @@ pere	NOMcom	père
 et	CONcoo	et
 ses	DETpos	son
 parens	NOMcom	parent
+.	PONfrt	.
+
 Par	PRE	par
 l'	DETdef	le
 art	NOMcom	art
@@ -3067,19 +3287,25 @@ En	PRE	en
 une	DETndf	un
 grant	ADJqua	grant
 forest	NOMcom	forest
+,	PONfbl	,
 moult	ADVgen	moult
 fu	VERcjg	estre
 de	PRE	de
 fort	ADJqua	fort
 afaire	NOMcom	afaire
+,	PONfbl	,
 Murdriers	NOMcom	meurtrier
+,	PONfbl	,
 larrons	NOMcom	larron
-banis	VERppe	banir
+,	PONfbl	,
+banis	NOMcom	banis
+,	PONfbl	,
 quanqu'	PROrel	cant
 il	PROper	il
 en	PROadv	en
 pot	VERcjg	pöoir
 atraire	VERinf	attraire
+,	PONfbl	,
 Manda	VERcjg	mander
 de	PRE	de
 sa	DETpos	son
@@ -3089,6 +3315,8 @@ mist	VERcjg	mettre
 en	PRE	en
 son	DETpos	son
 repaire	NOMcom	repaire
+.	PONfrt	.
+
 Trente	PROcar	trente
 furent	VERcjg	estre
 ensamble	ADVgen	ensemble
@@ -3103,14 +3331,14 @@ trouver	VERinf	trouver
 en	PRE	en
 nules	DETind	nul
 nascions	NOMcom	nascïon
+;	PONfbl	;
 La	ADVgen	là
 firent	VERcjg	faire
 moult	ADVgen	moult
 de	PRE	de
 maus	NOMcom	mal
-robert	ADJqua	robert
-.	PONfrt	.
-
+,	PONfbl	,
+Robert	NOMpro	Robert
 fu	VERcjg	estre
 moult	ADVgen	moult
 maus	ADJqua	mal
@@ -3122,16 +3350,18 @@ mengier	VERinf	manger
 en	PRE	en
 trestoutes	DETind	trèstous
 saisons	NOMcom	saison
+.	PONfrt	.
+
 Il	PROper	il
 n'	ADVneg	ne
 i	PROadv	i
 espargnoit	VERcjg	épargner
 riens	PROind	rien
-.	PONfrt	.
-
-veille	VERcjg	veillier
+,	PONfbl	,
+veille	NOMcom	veille
 ne	CONcoo	ne
-quarantaine	ADJqua	quarantain
+quarantaine	NOMcom	quarantaine
+,	PONfbl	,
 Vendredi	NOMcom	vendredi
 n'	CONcoo	ne
 autre	DETind	autre
@@ -3141,6 +3371,7 @@ fust	VERcjg	estre
 en	PRE	en
 sa	DETpos	son
 semainne	NOMcom	semaine
+,	PONfbl	,
 Mais	CONcoo	mais
 puis	ADVgen	puis
 pour	PRE	pour
@@ -3159,8 +3390,11 @@ me	PROper	je
 faut	VERcjg	falir
 l'	DETdef	le
 alaine	NOMcom	aleine
+.	PONfrt	.
+
 Bonne	ADJqua	bon
 gent	NOMcom	gent
+,	PONfbl	,
 a	PRE	a
 cel	DETdem	cil
 temps	NOMcom	temps
@@ -3175,9 +3409,7 @@ murdriers	NOMcom	meurtrier
 ne	ADVneg	ne
 prisoit	VERcjg	prisier
 pas	ADVneg	pas
-.ii	PROcar	deus
-.	PONfrt	.
-
+deus	DETcar	deux
 nois	NOMcom	noif
 Dieu	NOMpro	Dieu
 ne	CONcoo	ne
@@ -3188,6 +3420,8 @@ saint	ADJqua	saint
 tant	ADVgen	tant
 soit	VERcjg	estre
 courtois	ADJqua	courtois
+.	PONfrt	.
+
 Mais	CONcoo	mais
 or	ADVgen	or
 veilliez	VERcjg	veillier
@@ -3197,8 +3431,7 @@ il	PROimp	il
 avint	VERcjg	advenir
 une	DETndf	un
 fois	NOMcom	fois
-.	PONfrt	.
-
+:	PONfbl	:
 Robert	NOMpro	Robert
 issi	VERcjg	issir
 tout	ADVgen	tout
@@ -3207,6 +3440,7 @@ hors	ADVgen	hors
 de	PRE	de
 son	DETpos	son
 herbergage	NOMcom	hébergage
+,	PONfbl	,
 Que	CONsub	que
 il	PROper	il
 ne	ADVneg	ne
@@ -3215,28 +3449,28 @@ homme	NOMcom	homme
 ne	CONcoo	ne
 privé	NOMcom	privé
 ne	CONcoo	ne
-sauvage	ADJqua	sauvage
+sauvage	NOMcom	sauvage
+;	PONfbl	;
 Si	ADVgen	si
 comme	CONsub	comme
 il	PROimp	il
 plut	VERcjg	pleuvoir
 a	PRE	a
 Dieu	NOMpro	Dieu
+,	PONfbl	,
 trouva	VERcjg	trouver
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 hermitage	NOMcom	ermitage
 Ou	PROrel	où
 avoit	VERcjg	avoir
-.vii	PROcar	set
-.	PONfrt	.
-
+set	DETcar	sept
 hermites	NOMcom	ermite
 trestouz	ADVgen	trèstout
 de	PRE	de
 bel	ADJqua	bel
 aage	NOMcom	ëage
+.	PONfrt	.
+
 Des	ADVgen	des
 qu'	CONsub	que
 il	PROper	il
@@ -3249,38 +3483,45 @@ eure	NOMcom	heure
 trait	VERcjg	traire
 s'	DETpos	son
 espee	NOMcom	espee
+;	PONfbl	;
 Aus	PRE.DETdef	a
 preudommes	NOMcom	prudhomme
 cria	VERcjg	crïer
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Vostre	DETpos	vostre
 vie	NOMcom	vie
 est	VERcjg	estre
 alee	VERppe	aler
+!	PONfrt	!
+
 ”	PONpdr	”
 Trestouz	DETind	trèstout
-.vii	PROcar	set
-.	PONfrt	.
-
-les	DETdef	le
+set	VERcjg	savoir
+les	PROper	il
 tua	VERcjg	tuer
+,	PONfbl	,
 sanz	PRE	sans
 nule	DETind	nul
-demouree	NOMcom	demeurée
+demouree	VERppe	demeurer
+.	PONfrt	.
+
 Puis	ADVgen	puis
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Par	PRE	par
 mon	DETpos	mon
 chief	NOMcom	chief
+,	PONfbl	,
 j'	PROper	je
 ai	VERcjg	avoir
 trouvé	VERppe	trouver
 grant	ADJqua	grant
 niee	NOMcom	niee
+.	PONfrt	.
+
 Ne	ADVneg	ne
 voudroie	VERcjg	voloir
 plus	ADVgen	plus
@@ -3298,6 +3539,7 @@ monde	NOMcom	monde
 fussent	VERcjg	estre
 ainssi	ADVgen	ainsi
 tenus	VERppe	tenir
+.	PONfbl	.
 ”	PONpdr	”
 Adonques	ADVgen	adonc
 est	VERcjg	estre
@@ -3306,6 +3548,8 @@ de	PRE	de
 l'	DETdef	le
 ermitage	NOMcom	ermitage
 issus	VERppe	issir
+.	PONfrt	.
+
 Mais	CONcoo	mais
 tous	DETind	tous
 les	DETdef	le
@@ -3323,6 +3567,7 @@ ceuz	PROdem	celui
 qu'	PROrel	que
 avoit	VERcjg	avoir
 tuez	VERppe	tuer
+,	PONfbl	,
 Aussi	ADVgen	aussi
 furent	VERcjg	estre
 ses	DETpos	son
@@ -3333,14 +3578,18 @@ nez	NOMcom	nef
 et	CONcoo	et
 ses	DETpos	son
 piez	NOMcom	pié
+.	PONfrt	.
+
 Tant	ADVgen	tant
 chevaucha	VERcjg	chevauchier
 Robert	NOMpro	Robert
+,	PONfbl	,
 que	CONsub	que
 mal	ADVgen	mal
 s'	PROper	soi
 estoit	VERcjg	estre
 prouvez	VERppe	prouver
+,	PONfbl	,
 Qu'	CONsub	que
 il	PROper	il
 vit	VERcjg	vëoir
@@ -3348,10 +3597,12 @@ le	DETdef	le
 chastiau	NOMcom	château
 d'	PRE	de
 Arques	NOMpro	Arques
+;	PONfbl	;
 celle	DETdem	cil
 part	NOMcom	part
 est	VERcjg	estre
 alez	VERppe	aler
+;	PONfbl	;
 Car	CONcoo	car
 il	PROper	il
 avoit	VERcjg	avoir
@@ -3368,20 +3619,21 @@ digner	VERinf	digner
 a	PRE	a
 celui	DETdem	cel
 jour	NOMcom	jour
+;	PONfbl	;
 Son	DETpos	son
 pere	NOMcom	père
 n'	ADVneg	ne
 i	PROadv	i
 fu	VERcjg	estre
 pas	ADVneg	pas
-s'	ADVsub	se
+,	PONfbl	,
+s'	ADVgen	si
 en	PROadv	en
 ot	VERcjg	avoir
 mains	ADVgen	moins
 de	PRE	de
 paour	NOMcom	peur
-.	PONfrt	.
-
+,	PONfbl	,
 Lors	ADVgen	lors
 a	VERcjg	avoir
 dit	VERppe	dire
@@ -3392,20 +3644,22 @@ mere	NOMcom	mere
 parlera	VERcjg	parler
 sanz	PRE	sans
 demour	NOMcom	demeur
+.	PONfrt	.
+
 En	PRE	en
 la	DETdef	le
 court	NOMcom	cour
 s'	PROper	soi
 en	PROadv	en
 entra	VERcjg	entrer
-.	PONfrt	.
-
-mes	ADVgen	mais
+,	PONfbl	,
+mes	CONcoo	mais
 quant	CONsub	cant
 la	DETdef	le
 gent	NOMcom	gent
 le	PROper	il
 virent	VERcjg	voir
+,	PONfbl	,
 De	PRE	de
 la	DETdef	le
 paour	NOMcom	peur
@@ -3416,34 +3670,39 @@ de	PRE	de
 toutes	DETind	tous
 pars	NOMcom	part
 fuirent	VERcjg	fuir
+;	PONfbl	;
 Bien	ADVgen	bien
 por	PRE	por
 jouer	VERinf	jouer
 aus	PRE.DETdef	à.le
 barres	NOMcom	barre
+,	PONfbl	,
 pas	ADVneg	pas
 presse	NOMcom	presse
 ne	ADVneg	ne
 li	PROper	il
 firent	VERcjg	faire
+;	PONfbl	;
 Lors	ADVgen	lors
 les	DETdef	le
 larmes	NOMcom	larme
 des	PRE.DETdef	de.le
 yex	NOMcom	œil
-.	PONfrt	.
-
 moult	ADVgen	moult
 grosses	ADJqua	gros
 li	PROper	il
-chairent	VERcjg	choir
+chaïrent	VERcjg	choir
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 dist	VERcjg	dire
 en	PRE	en
 son	DETpos	son
 cuer	NOMcom	cuer
+:	PONfbl	:
 “	PONpga	“
 Voir	ADVgen	voir
+,	PONfbl	,
 je	PROper	je
 puis	VERcjg	pöoir
 bien	ADVgen	bien
@@ -3453,19 +3712,18 @@ le	DETdef	le
 pueple	NOMcom	peuple
 me	PROper	je
 het	VERcjg	häir
-.	PONfrt	.
-
+,	PONfbl	,
 si	ADVgen	si
 fait	VERcjg	faire
 Dieu	NOMpro	Dieu
 sanz	PRE	sans
 mentir	VERinf	mentir
+.	PONfbl	.
 ”	PONpdr	”
 A	PRE	a
 terre	NOMcom	terre
 descendi	VERcjg	descendre
-.	PONfrt	.
-
+,	PONfbl	,
 mais	CONcoo	mais
 nus	PROind	nul
 n'	ADVneg	ne
@@ -3474,10 +3732,13 @@ venir	VERinf	venir
 Pour	PRE	pour
 lui	PROper	il
 araisonner	VERinf	araisonner
+,	PONfbl	,
 ne	CONcoo	ne
 son	DETpos	son
 cheval	NOMcom	cheval
 tenir	VERinf	tenir
+.	PONfrt	.
+
 Si	ADVgen	si
 grant	ADJqua	grant
 duel	NOMcom	duel
@@ -3486,20 +3747,23 @@ au	PRE.DETdef	a
 cuer	NOMcom	cuer
 qu'	CONsub	que
 il	PROper	il
-traist	VERcjg	traire
+traïst	VERcjg	trahir
 nue	ADJqua	nu
 s'	DETpos	son
 espee	NOMcom	espee
+;	PONfbl	;
 Puis	ADVgen	puis
 monta	VERcjg	monter
 en	PRE	en
 la	DETdef	le
 sale	NOMcom	sale
+,	PONfbl	,
 qui	PROrel	que
 estoit	VERcjg	estre
 longue	ADJqua	lonc
 et	CONcoo	et
 lee	ADJqua	lé
+,	PONfbl	,
 En	PRE	en
 la	DETdef	le
 chambre	NOMcom	chambre
@@ -3509,49 +3773,60 @@ vint	VERcjg	venir
 droit	ADVgen	droit
 sanz	PRE	sans
 demouree	NOMcom	demeurée
+;	PONfbl	;
 Quant	CONsub	quand
 sa	DETpos	son
 mere	NOMcom	mere
 le	PROper	il
 vit	VERcjg	vëoir
+,	PONfbl	,
 si	ADVgen	si
 fu	VERcjg	estre
 espoventee	VERppe	épouvanter
+.	PONfrt	.
+
 Ne	ADVneg	ne
 fu	VERcjg	estre
 pas	ADVneg	pas
 de	PRE	de
 merveille	NOMcom	merveille
+,	PONfbl	,
 bien	ADVgen	bien
-fuir	VERinf	fuir
+fuïr	VERinf	fuir
 s'	PROper	soi
 en	PROadv	en
 cuida	VERcjg	cuidier
+;	PONfbl	;
 Mais	CONcoo	mais
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
+deable	NOMcom	diable
 au	PRE.DETdef	a
 devant	NOMcom	devant
 li	PROper	il
 ala	VERcjg	aller
-.	PONfrt	.
-
+;	PONfbl	;
 Haut	ADJqua	haut
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Duchesse	NOMcom	douche
+,	PONfbl	,
 ne	ADVneg	ne
 vous	PROper	vous
 enfuiez	VERcjg	enfuire
 ja	ADVgen	ja
+,	PONfbl	,
 Mais	CONcoo	mais
-dites	VERppe	dire
-se	PROper	soi
+dites	VERcjg	dire
+,	PONfbl	,
+se	CONsub	se
 savez	VERcjg	savoir
+,	PONfbl	,
 dame	NOMcom	dame
+,	PONfbl	,
 comment	ADVsub	comment
 ce	PROdem	ce
 va	VERcjg	aler
@@ -3564,6 +3839,7 @@ plains	ADJqua	plein
 de	PRE	de
 toutes	DETind	tous
 mauvaistiez	NOMcom	mauvaiseté
+,	PONfbl	,
 De	PRE	de
 vous	PROper	vous
 ou	CONcoo	o
@@ -3571,56 +3847,70 @@ de	PRE	de
 mon	DETpos	mon
 pere	NOMcom	père
 vient	VERcjg	venir
+,	PONfbl	,
 je	PROper	je
 croi	VERcjg	croire
+,	PONfbl	,
 li	DETdef	le
 pechiez	NOMcom	pechié
+.	PONfbl	.
 ”	PONpdr	”
 Quant	CONsub	quand
 la	DETdef	le
 dame	NOMcom	dame
 l'	PROper	il
 oÿ	VERcjg	ouïr
-.	PONfrt	.
-
+,	PONfbl	,
 cheoir	VERinf	chëoir
 li	PROper	il
 vout	VERcjg	voloir
 aus	PRE.DETdef	à.le
 piez	NOMcom	pié
+;	PONfbl	;
 Em	PRE	en
 plourant	VERppa	pleurer
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Filz	NOMcom	fils
+,	PONfbl	,
 la	DETdef	le
 teste	NOMcom	teste
 me	PROper	je
 trenchiez	VERcjg	tranchier
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 respondi	VERcjg	répondre
+:	PONfbl	:
 “	PONpga	“
 Dame	NOMcom	dame
-pourquoi	ADVsub	pourquoi
+,	PONfbl	,
+pourquoi	ADVint	pourquoi
 vous	PROper	vous
 tueroie	VERcjg	tuer
+?	PONfrt	?
+
 J'	PROper	je
 ai	VERcjg	avoir
 assez	ADVgen	assez
 fait	VERppe	faire
 de	PRE	de
 mal	NOMcom	mal
+;	PONfbl	;
 encore	ADVgen	encore
 pis	ADVgen	pis
-feroie	NOMcom	ferie
+feroie	VERcjg	faire
+.	PONfbl	.
 ”	PONpdr	”
 La	DETdef	le
 duchesse	NOMcom	douche
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Filz	NOMcom	fils
+,	PONfbl	,
 certes	ADVgen	certes
 la	DETdef	le
 coupe	NOMcom	coupe
@@ -3631,7 +3921,7 @@ vostre	DETpos	vostre
 mauvaistie	NOMcom	mauvaiseté
 .	PONfbl	.
 ”	PONpdr	”
-lors	ADVgen	lors
+Lors	ADVgen	lors
 li	PROper	il
 conta	VERcjg	conter
 la	DETdef	le
@@ -3641,7 +3931,7 @@ elle	PROper	elle
 l'	PROper	il
 avoit	VERcjg	avoir
 au	PRE.DETdef	a
-dëable	NOMcom	diable
+deable	NOMcom	diable
 donné	VERppe	donner
 Com	CONsub	come
 fole	ADJqua	fol
@@ -3649,28 +3939,34 @@ mescheande	NOMcom	meschëande
 de	PRE	de
 cuer	NOMcom	cuer
 desesperé	VERppe	désespérer
+.	PONfrt	.
+
 Quant	CONsub	quand
 Robert	NOMpro	Robert
 l'	PROper	il
 entendi	VERcjg	entendre
+,	PONfbl	,
 de	PRE	de
 duel	NOMcom	duel
 chay	VERcjg	choir
 pasmé	VERppe	pasmer
-.	PONfrt	.
-
+;	PONfbl	;
 Moult	ADVgen	moult
 grant	ADJqua	grant
 duel	NOMcom	duel
 demena	VERcjg	demener
+,	PONfbl	,
 quant	CONsub	cant
 il	PROper	il
 fu	VERcjg	estre
 relevé	VERppe	relever
+.	PONfrt	.
+
 Puis	ADVgen	puis
 dist	VERcjg	dire
 en	PRE	en
 souspirant	VERppa	soupirer
+:	PONfbl	:
 “	PONpga	“
 Dyables	NOMcom	diable
 ont	VERcjg	avoir
@@ -3681,12 +3977,15 @@ l'	DETdef	le
 ame	NOMcom	ame
 de	PRE	de
 moi	PROper	je
+,	PONfbl	,
 mais	CONcoo	mais
 il	PROper	il
 ne	ADVneg	ne
 l'	PROper	il
 avront	VERcjg	avoir
 mie	ADVneg	mie
+.	PONfrt	.
+
 Prendre	VERinf	prendre
 me	PROper	je
 faut	VERcjg	falir
@@ -3695,6 +3994,7 @@ comment	ADVsub	comment
 el	PROper	il
 soit	VERcjg	estre
 garie	VERppe	garir
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 a	VERcjg	avoir
@@ -3702,8 +4002,10 @@ dit	VERppe	dire
 a	PRE	a
 sa	DETpos	son
 mere	NOMcom	mere
+:	PONfbl	:
 “	PONpga	“
 Madame	NOMcom	made
+,	PONfbl	,
 je	PROper	je
 vous	PROper	vous
 prie	VERcjg	priier
@@ -3715,6 +4017,7 @@ mon	DETpos	mon
 pere	NOMcom	père
 le	DETdef	le
 preudomme	NOMcom	prudhomme
+,	PONfbl	,
 Passer	VERinf	passer
 outre	PRE	outre
 les	DETdef	le
@@ -3725,9 +4028,11 @@ a	PRE	a
 la	DETdef	le
 grant	ADJqua	grant
 Romme	NOMpro	Rome
+,	PONfbl	,
 Confesser	VERinf	confesser
 mes	DETpos	mon
 pechiez	NOMcom	pechié
+,	PONfbl	,
 dont	PROrel	dont
 j'	PROper	je
 ai	VERcjg	avoir
@@ -3735,15 +4040,20 @@ fait	VERppe	faire
 trop	ADVgen	trop
 grant	ADJqua	grant
 somme	NOMcom	somme
-Devant	PRE	devant
+.	PONfrt	.
+
+Devant	ADVgen	devant
 que	CONsub	que
 g'	PROper	je
 i	PROadv	i
 serai	VERcjg	estre
+,	PONfbl	,
 ne	ADVneg	ne
 dormirai	VERcjg	dormir
 bon	ADJqua	bon
 somme	NOMcom	somme
+.	PONfrt	.
+
 On	PROind	on
 m'	PROper	je
 avoit	VERcjg	avoir
@@ -3752,13 +4062,15 @@ de	PRE	de
 toute	DETind	tout
 ceste	DETdem	cest
 terre	NOMcom	terre
+,	PONfbl	,
 Mais	CONcoo	mais
 de	PRE	de
 ce	PROdem	ce
 ne	ADVneg	ne
 me	PROper	je
 chaut	VERcjg	chaloir
-ne	CONcoo	ne
+;	PONfbl	;
+ne	ADVneg	ne
 pense	VERcjg	penser
 que	CONsub	que
 aquerre	VERinf	aquerre
@@ -3767,7 +4079,10 @@ sauvement	NOMcom	sauvement
 de	PRE	de
 m'	DETpos	mon
 ame	NOMcom	ame
-laz	PRE	lez
+.	PONfrt	.
+
+Laz	NOMcom	Laz
+,	PONfbl	,
 tout	DETind	tout
 le	DETdef	le
 cuer	NOMcom	cuer
@@ -3784,6 +4099,7 @@ touz	DETind	tous
 jourz	NOMcom	jour
 eü	VERppe	avoir
 guerre	NOMcom	guerre
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 tout	ADVgen	tout
@@ -3793,6 +4109,7 @@ sus	PRE	sus
 son	DETpos	son
 cheval	NOMcom	cheval
 monta	VERcjg	monter
+,	PONfbl	,
 Vers	PRE	vers
 la	DETdef	le
 forest	NOMcom	forest
@@ -3801,6 +4118,8 @@ ou	PROrel	où
 les	DETdef	le
 larrons	NOMcom	larron
 laissa	VERcjg	laisser
+.	PONfrt	.
+
 La	DETdef	le
 duchesse	NOMcom	douche
 sa	DETpos	son
@@ -3819,20 +4138,26 @@ ainssi	ADVgen	ainsi
 s'	PROper	soi
 en	PROadv	en
 ala	VERcjg	aller
+.	PONfrt	.
+
 A	PRE	a
 haute	ADJqua	haut
 voiz	NOMcom	voix
 crioit	VERcjg	crïer
-;	PONfbl	;
+:	PONfbl	:
 “	PONpga	“
 Lasse	ADJqua	las
-quelle	DETrel	quel
+,	PONfbl	,
+quelle	DETint	quel
 aventure	NOMcom	aventure
+!	PONfrt	!
+
 J'	PROper	je
 ai	VERcjg	avoir
 mon	DETpos	mon
 enfant	NOMcom	enfant
 perdu	VERppe	perdre
+,	PONfbl	,
 diex	NOMcom	dieu
 si	ADVgen	si
 n'	ADVneg	ne
@@ -3840,23 +4165,30 @@ a	VERcjg	avoir
 de	PRE	de
 moi	PROper	je
 cure	NOMcom	cure
+.	PONfrt	.
+
 Au	PRE.DETdef	a
 mauvais	ADJqua	mauvais
 le	PROper	il
 donnai	VERcjg	donner
+,	PONfbl	,
 ce	PROdem	ce
 fu	VERcjg	estre
 grant	ADJqua	grant
 desmesure	NOMcom	desmesure
+;	PONfbl	;
 Jamais	ADVgen	jamais
 de	PRE	de
 m'	PROper	je
 amera	VERcjg	aimer
+,	PONfbl	,
 car	CONcoo	car
 bien	ADVgen	bien
 y	PROadv	y
 a	VERcjg	avoir
 droiture	NOMcom	droiture
+.	PONfbl	.
+”	PONpdr	”
 En	PRE	en
 tant	ADVgen	tant
 que	CONsub	que
@@ -3869,10 +4201,12 @@ Entra	VERcjg	entrer
 le	DETdef	le
 duc	NOMcom	duc
 laiens	ADVgen	léans
+,	PONfbl	,
 qui	PROrel	que
 venoit	VERcjg	venir
 de	PRE	de
 riviere	NOMcom	riviere
+;	PONfbl	;
 La	DETdef	le
 duchesse	NOMcom	douche
 em	PRE	en
@@ -3886,32 +4220,41 @@ maniere	NOMcom	manière
 De	PRE	de
 Robert	NOMpro	Robert
 leur	DETpos	leur
-enfait	NOMcom	enfait
-le	DETdef	le
+enfant	NOMcom	enfant
+.	PONfrt	.
+
+Le	DETdef	le
 duc	NOMcom	duc
 fist	VERcjg	faire
 mate	ADJqua	mat
 chiere	NOMcom	chiere
+.	PONfrt	.
+
 Puis	ADVgen	puis
 dist	VERcjg	dire
 a	PRE	a
 la	DETdef	le
 ducesse	NOMcom	doucesse
+:	PONfbl	:
 “	PONpga	“
 Dame	NOMcom	dame
+,	PONfbl	,
 se	PROper	soi
 repent	VERcjg	repentir
 il	PROper	il
+?	PONfrt	?
+
 ”	PONpdr	”
 Et	CONcoo	et
 elle	PROper	elle
 respondi	VERcjg	répondre
-;	PONfbl	;
+:	PONfbl	:
 “	PONpga	“
 Se	CONsub	se
 Dieu	NOMpro	Dieu
 me	PROper	je
 gart	VERcjg	garder
+,	PONfbl	,
 ouil	ADVgen	oui
 .	PONfbl	.
 ”	PONpdr	”
@@ -3920,24 +4263,24 @@ duc	NOMcom	duc
 dist	VERcjg	dire
 em	PRE	en
 plourant	VERppa	pleurer
+:	PONfbl	:
 “	PONpga	“
 Cela	PROdem	cel
 ne	ADVneg	ne
 vaut	VERcjg	valoir
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 fil	NOMcom	fil
+;	PONfbl	;
 Pas	ADVneg	pas
 ne	ADVneg	ne
 restabliroient	VERcjg	rétablir
+,	PONfbl	,
 s'	CONsub	se
 il	PROper	il
 estoient	VERcjg	être
-tel	DETind	tel
+tel	ADJind	tel
 mil	PROcar	mille
-.	PONfrt	.
-
+,	PONfbl	,
 Les	DETdef	le
 dolours	NOMcom	douleur
 qu'	PROrel	que
@@ -3948,6 +4291,8 @@ en	PRE	en
 ceste	DETdem	cest
 mortel	ADJqua	mortel
 vie	NOMcom	vie
+.	PONfrt	.
+
 Non	ADVneg	non
 pas	ADVneg	pas
 pour	PRE	pour
@@ -3963,7 +4308,7 @@ bonne	ADJqua	bon
 fin	NOMcom	fin
 li	PROper	il
 doint	VERcjg	doner
-;	PONfbl	;
+,	PONfbl	,
 car	CONcoo	car
 voir	ADVgen	voir
 je	PROper	je
@@ -3975,62 +4320,70 @@ il	PROper	il
 s'	PROper	soi
 en	PROadv	en
 va	VERcjg	aler
+,	PONfbl	,
 qu'	CONsub	que
 il	PROper	il
 retorne	VERcjg	retorner
 jamais	ADVgen	jamais
 en	PRE	en
 Normendie	NOMpro	Normandie
+;	PONfbl	;
 Car	CONcoo	car
 tuer	VERinf	tüer
 se	PROper	soi
 fera	VERcjg	faire
+,	PONfbl	,
 se	CONsub	se
 Dieu	NOMpro	Dieu
 n'	ADVneg	ne
 en	PROadv	en
 a	VERcjg	avoir
 merci	NOMcom	merci
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 duc	NOMcom	duc
 dist	VERcjg	dire
 son	DETpos	son
-voloir	NOMcom	voloir
-mais	CONcoo	mais
+voloir	VERinf	voloir
+mais	ADVgen	mais
 n'	ADVneg	ne
 ala	VERcjg	aller
 mie	ADVneg	mie
 ainssi	ADVgen	ainsi
+,	PONfbl	,
 Que	CONsub	que
 puis	ADVgen	puis
 vint	VERcjg	venir
 a	PRE	a
 Rouen	NOMpro	Rouen
+,	PONfbl	,
 ce	PROdem	ce
 sachiez	VERcjg	savoir
 bien	ADVgen	bien
 garni	VERppe	garnir
+,	PONfbl	,
 La	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
 emperere	NOMcom	empereur
-;	PONfbl	;
 amena	VERcjg	amener
 avec	PRE	avec
 lui	PROper	il
+.	PONfrt	.
+
 A	PRE	a
 Romme	NOMpro	Rome
 l'	PROper	il
 espousa	VERcjg	esposer
-.	PONfrt	.
-
 par	PRE	par
 le	DETdef	le
 gré	NOMcom	gré
 de	PRE	de
 son	DETpos	son
 pere	NOMcom	père
+.	PONfrt	.
+
 Mais	CONcoo	mais
 aincois	ADVgen	ainçois
 li	PROper	il
@@ -4047,11 +4400,15 @@ avant	ADVgen	avant
 en	PRE	en
 la	DETdef	le
 matiere	NOMcom	matiere
+.	PONfrt	.
+
 Bonne	ADJqua	bon
 gent	NOMcom	gent
+,	PONfbl	,
 qui	PROrel	que
 fait	VERcjg	faire
-mal	ADJqua	mal
+mal	NOMcom	mal
+,	PONfbl	,
 droiz	NOMcom	droit
 est	VERcjg	estre
 qu'	CONsub	que
@@ -4065,7 +4422,9 @@ ou	CONcoo	o
 en	PRE	en
 l'	DETdef	le
 autre	PROind	autre
-de	PRE	de
+.	PONfrt	.
+
+De	PRE	de
 Robert	NOMpro	Robert
 parleron	VERcjg	parler
 .	PONfrt	.
@@ -4084,15 +4443,20 @@ il	PROper	il
 avoit	VERcjg	avoir
 fait	VERppe	faire
 faire	VERinf	faire
-la	PROper	il
+.	PONfrt	.
+
+La	ADVgen	là
 furent	VERcjg	estre
 li	DETdef	le
 larron	NOMcom	larron
+.	PONfrt	.
+
 Touz	ADVgen	tout
 desarmez	VERppe	desarmer
 estoient	VERcjg	être
 pour	PRE	pour
 digner	VERinf	digner
+,	PONfbl	,
 li	DETdef	le
 glouton	NOMcom	glouton
 .	PONfrt	.
@@ -4116,10 +4480,12 @@ leur	DETpos	leur
 piez	NOMcom	pié
 contre	PRE	contre
 lui	PROper	il
+;	PONfbl	;
 Mais	CONcoo	mais
 il	PROper	il
 leur	PROper	leur
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Seignours	NOMcom	seigneur
 par	PRE	par
@@ -4127,24 +4493,30 @@ amours	NOMcom	amour
 je	PROper	je
 vous	PROper	vous
 pri	VERcjg	priier
-;	PONfbl	;
+,	PONfbl	,
 Ne	ADVneg	ne
 soiez	VERcjg	estre
 plus	ADVgen	plus
 larron	NOMcom	larron
-criez	VERppe	créer
+;	PONfbl	;
+criez	VERcjg	crier
 a	PRE	a
 Dieu	NOMpro	Dieu
 merci	NOMcom	merci
+.	PONfrt	.
+
 Car	CONcoo	car
 on	PROind	on
 ne	ADVneg	ne
 puet	VERcjg	pöoir
-dembler	VERinf	dembler
+d'	PRE	de
+embler	VERinf	embler
 a	PRE	a
 bonne	ADJqua	bon
 fin	NOMcom	fin
 venir	VERinf	venir
+.	PONfrt	.
+
 Aler	VERinf	aller
 m'	PROper	je
 en	PROadv	en
@@ -4154,17 +4526,18 @@ Romme	NOMpro	Rome
 mes	DETpos	mon
 pechiez	NOMcom	pechié
 regehir	VERinf	rejehir
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 un	PROind	un
 des	PRE.DETdef	de.le
 larrons	NOMcom	larron
 parla	VERcjg	parler
-;	PONfbl	;
 et	CONcoo	et
 dist	VERcjg	dire
 sanz	PRE	sans
 alentir	VERinf	alentir
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 croi	VERcjg	croire
@@ -4173,40 +4546,45 @@ Renart	NOMcom	renard
 veut	VERcjg	vouloir
 hermite	NOMcom	ermite
 devenir	VERinf	devenir
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 qui	PROrel	que
 estoit	VERcjg	estre
 yer	ADVgen	ier
-.	PONfrt	.
-
 le	DETdef	le
-pire	ADJqua	pejor
+pire	NOMcom	pire
 de	PRE	de
 nous	PROper	nous
 touz	PROind	tous
 Est	VERcjg	estre
 devenu	VERppe	devenir
 pereschierres	NOMcom	parechëor
+;	PONfbl	;
 il	PROper	il
 se	PROper	soi
 moque	VERcjg	mouvoir
 de	PRE	de
 nous	PROper	nous
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Non	ADVneg	non
 fais	VERcjg	faire
 ce	PROdem	ce
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 Robert	NOMpro	Robert
+,	PONfbl	,
 “	PONpga	“
-Par	PRE	par
+par	PRE	par
 la	DETdef	le
 foy	NOMcom	foi
 que	PROrel	que
 doi	VERcjg	devoir
 vous	PROper	vous
+;	PONfbl	;
 Criez	VERcjg	crier
 a	PRE	a
 Dieu	NOMpro	Dieu
@@ -4216,6 +4594,8 @@ il	PROper	il
 vous	PROper	vous
 sera	VERcjg	estre
 dous	PROcar	deux
+.	PONfrt	.
+
 Ce	PROdem	ce
 n'	ADVneg	ne
 es	VERcjg	être
@@ -4226,23 +4606,26 @@ estre	VERinf	estre
 touz	DETind	tous
 jourz	NOMcom	jour
 mauvais	ADJqua	mauvais
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 un	PROind	un
 des	PRE.DETdef	de.le
 larrons	NOMcom	larron
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 ne	ADVneg	ne
 m'	PROper	je
 en	PROadv	en
 parlez	VERcjg	parler
 jamais	ADVgen	jamais
-Por	PRE	por
-.c	PROcar	cent
 .	PONfrt	.
 
+Por	PRE	por
+cent	DETcar	cent
 mil	DETcar	mille
 mars	NOMcom	marc
 d'	PRE	de
@@ -4255,27 +4638,31 @@ Que	CONsub	que
 laissaisse	VERcjg	laisser
 l'	DETdef	le
 embler	VERinf	embler
+;	PONfbl	;
 ne	ADVneg	ne
 porroie	VERcjg	pöoir
 estre	VERinf	estre
 en	PRE	en
 pais	NOMcom	paix
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Ne	CONcoo	ne
 moi	PROper	je
-.	PONfbl	.
+,	PONfbl	,
 ”	PONpdr	”
-Ce	PROdem	ce
+ce	PROdem	ce
 dist	VERcjg	dire
 li	DETdef	le
 autres	PROind	autre
-touz	PROind	tous
+.	PONfrt	.
+
+Touz	PROind	tout
 furent	VERcjg	estre
 d'	PRE	de
 un	DETndf	un
 acort	NOMcom	accord
-Que	PROrel	que
+Que	CONsub	que
 ne	ADVneg	ne
 lairont	VERcjg	laisser
 l'	DETdef	le
@@ -4284,12 +4671,14 @@ dessiques	NOMcom	dessique
 a	PRE	a
 la	DETdef	le
 mort	NOMcom	mort
+,	PONfbl	,
 Et	CONcoo	et
 s'	CONsub	se
 il	PROper	il
 ont	VERcjg	avoir
 bien	ADVgen	bien
 emblé	VERppe	embler
+,	PONfbl	,
 qu'	CONsub	que
 il	PROper	il
 embleront	VERcjg	embler
@@ -4300,11 +4689,14 @@ fort	ADJqua	fort
 Robert	NOMpro	Robert
 leur	PROper	leur
 respondi	VERcjg	répondre
+:	PONfbl	:
 “	PONpga	“
 Seignour	NOMcom	seigneur
+,	PONfbl	,
 vous	PROper	vous
 avez	VERcjg	avoir
 tort	NOMcom	tort
+.	PONfbl	.
 ”	PONpdr	”
 Or	ADVgen	or
 entendez	VERcjg	entendre
@@ -4315,6 +4707,7 @@ quoi	PROrel	quoi
 il	PROper	il
 s'	PROper	soi
 apensa	VERcjg	apenser
+:	PONfbl	:
 Il	PROper	il
 s'	PROper	soi
 en	PROadv	en
@@ -4322,58 +4715,72 @@ vint	VERcjg	venir
 a	PRE	a
 la	DETdef	le
 porte	NOMcom	porte
+,	PONfbl	,
 erranment	ADVgen	erramment
 la	PROper	il
 ferma	VERcjg	fermer
+,	PONfbl	,
 Puis	ADVgen	puis
 prist	VERcjg	prendre
 une	DETndf	un
 grant	ADJqua	grant
 barre	NOMcom	barre
+,	PONfbl	,
 aus	PRE.DETdef	à.le
 larrons	NOMcom	larron
 retourna	VERcjg	retourner
+,	PONfbl	,
 Le	DETdef	le
 premier	NOMcom	premier
 qu'	PROrel	que
 il	PROper	il
 ataint	VERcjg	ataindre
+,	PONfbl	,
 trestout	PROind	trèstout
 escervella	VERcjg	escerveler
+.	PONfrt	.
+
 Puis	ADVgen	puis
-courut	VERppe	courir
+courut	VERcjg	courir
 sus	ADVgen	sus
 aus	PRE.DETdef	à.le
 autres	PROind	autre
+;	PONfbl	;
 si	ADVgen	si
 fort	ADVgen	fort
 fu	VERcjg	estre
 eschaufez	VERppe	eschaufer
 Que	CONsub	que
-trestous	DETind	trèstous
-les	DETdef	le
-tua	NOMcom	tue
+trestous	PROind	trèstous
+les	PROper	il
+tua	VERcjg	tuer
+;	PONfbl	;
 point	ADVneg	point
 n'	ADVneg	ne
 estoient	VERcjg	être
 armez	VERppe	armer
+.	PONfrt	.
+
 Puis	ADVgen	puis
 leur	PROper	leur
 dist	VERcjg	dire
 en	PRE	en
 moquant	VERppa	moucire
+:	PONfbl	:
 “	PONpga	“
-Endormant	VERppa	endormir
+Endormant	ADVgen	endorment
 vous	PROper	vous
 tenez	VERcjg	tenir
+,	PONfbl	,
 Je	PROper	je
-croi	NOMcom	croi
+croi	VERcjg	croire
 des	PRE	des
 ore	ADVgen	or
-mais	CONcoo	mais
+mais	ADVgen	mais
 preudes	ADJqua	pro
 hommez	NOMcom	homme
 serez	VERcjg	être
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 vouloit	VERcjg	vouloir
@@ -4383,6 +4790,7 @@ feu	NOMcom	feu
 en	PRE	en
 sa	DETpos	son
 maison	NOMcom	maison
+,	PONfbl	,
 Quant	CONsub	quand
 vit	VERcjg	vëoir
 le	DETdef	le
@@ -4393,6 +4801,8 @@ il	PROimp	il
 y	PROadv	y
 ot	VERcjg	avoir
 foison	NOMcom	foison
+.	PONfrt	.
+
 Bien	ADVgen	bien
 pensa	VERcjg	penser
 s'	CONsub	se
@@ -4403,6 +4813,8 @@ qu'	CONsub	que
 il	PROper	il
 feroit	VERcjg	faire
 mesprison	NOMcom	mesprison
+.	PONfrt	.
+
 Adont	ADVgen	adonc
 s'	PROper	soi
 en	PROadv	en
@@ -4412,18 +4824,22 @@ sanz	PRE	sans
 point	NOMcom	point
 d'	PRE	de
 arestoison	NOMcom	arestoison
+.	PONfrt	.
+
 Puis	ADVgen	puis
 ferma	VERcjg	fermer
 moult	ADVgen	moult
 bien	ADVgen	bien
 l'	DETdef	le
 uis	NOMcom	uis
+,	PONfbl	,
 mist	VERcjg	mettre
 les	DETdef	le
 cles	NOMcom	cle
 en	PRE	en
 son	DETpos	son
 sain	NOMcom	sein
+,	PONfbl	,
 Par	PRE	par
 devant	PRE	devant
 son	DETpos	son
@@ -4434,12 +4850,15 @@ croiz	NOMcom	croix
 de	PRE	de
 sa	DETpos	son
 main	NOMcom	main
-Fort	ADJqua	fort
+.	PONfrt	.
+
+Fort	ADVgen	fort
 prist	VERcjg	prendre
 a	PRE	a
 chevauchier	VERinf	chevauchier
+,	PONfbl	,
 car	CONcoo	car
-il	PROimp	il
+il	PROper	il
 avoit	VERcjg	avoir
 grant	ADJqua	grant
 fain	NOMcom	faim
@@ -4448,15 +4867,19 @@ entrez	VERppe	entrer
 fust	VERcjg	estre
 dedenz	PRE	dedans
 Romme	NOMpro	Rome
+,	PONfbl	,
 ou	PROrel	où
 demeurent	VERcjg	demeurer
 Rommain	NOMpro	Romain
+.	PONfrt	.
+
 Mais	CONcoo	mais
 quant	CONsub	cant
 vint	VERcjg	venir
 vers	PRE	vers
 le	DETdef	le
 vespre	NOMcom	vêpre
+,	PONfbl	,
 il	PROper	il
 vit	VERcjg	vëoir
 en	PRE	en
@@ -4470,6 +4893,8 @@ ot	VERcjg	avoir
 fait	VERppe	faire
 maint	DETind	maint
 hustin	NOMcom	hustin
+.	PONfrt	.
+
 Touz	DETind	tout
 les	DETdef	le
 moinnes	NOMcom	moine
@@ -4478,7 +4903,11 @@ amoient	VERcjg	amer
 con	CONsub	come
 triacle	NOMcom	triacle
 venin	ADJqua	venin
-Nonporquant	ADVgen	nonporcant
+.	PONfrt	.
+
+Non	ADVneg	non
+por	PRE	por
+quant	CONsub	cant
 s'	PROper	soi
 estoit	VERcjg	estre
 l'	DETdef	le
@@ -4499,25 +4928,32 @@ de	PRE	de
 l'	DETdef	le
 abaye	NOMcom	abbaye
 mis	VERppe	metre
+.	PONfrt	.
+
 Quant	CONsub	quand
 les	DETdef	le
 moinnes	NOMcom	moine
 le	PROper	il
 voient	VERcjg	vëoir
+,	PONfbl	,
 touz	PROind	tous
 en	PROadv	en
 sont	VERcjg	estre
 esbahis	VERppe	ébahir
+;	PONfbl	;
 De	PRE	de
 la	DETdef	le
 paour	NOMcom	peur
 qu'	PROrel	que
 il	PROper	il
 ont	VERcjg	avoir
+,	PONfbl	,
 en	PRE	en
 dortoir	NOMcom	dortir
 sont	VERcjg	estre
-fuis	VERppe	fuir
+fuïs	VERppe	fuir
+.	PONfrt	.
+
 Adont	ADVgen	adonc
 ploura	VERcjg	pleurer
 Robert	NOMpro	Robert
@@ -4537,6 +4973,8 @@ moustier	NOMcom	moutier
 ala	VERcjg	aller
 Robert	NOMpro	Robert
 descendre	VERinf	descendre
+.	PONfrt	.
+
 Tantost	ADVgen	tantost
 encontre	PRE	encontre
 terre	NOMcom	terre
@@ -4545,6 +4983,8 @@ ala	VERcjg	aller
 en	PRE	en
 crois	NOMcom	croix
 estendre	VERinf	estendre
+.	PONfrt	.
+
 De	PRE	de
 bon	ADJqua	bon
 cuer	NOMcom	cuer
@@ -4564,13 +5004,17 @@ qui	PROrel	que
 le	PROper	il
 cuide	VERcjg	cuidier
 souprendre	VERinf	souprendre
+.	PONfrt	.
+
 Quant	CONsub	quand
 il	PROper	il
 fu	VERcjg	estre
 redreciez	VERppe	redrecier
+,	PONfbl	,
 tant	ADVgen	tant
 parla	VERcjg	parler
 doucement	ADVgen	doucement
+,	PONfbl	,
 Que	CONsub	que
 l'	DETdef	le
 abé	NOMcom	abbé
@@ -4581,6 +5025,8 @@ et	CONcoo	et
 tretout	DETind	trètout
 le	DETdef	le
 couvent	NOMcom	convent
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 s'	PROper	soi
 agenoulla	VERcjg	agenouiller
@@ -4588,14 +5034,17 @@ et	CONcoo	et
 leur	PROper	leur
 dist	VERcjg	dire
 doucement	ADVgen	doucement
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 vous	PROper	vous
 requier	VERcjg	requérir
 merci	NOMcom	merci
+,	PONfbl	,
 pour	PRE	pour
 Dieu	NOMpro	Dieu
 omnipotent	ADJqua	omnipotent
+,	PONfbl	,
 Car	CONcoo	car
 je	PROper	je
 vous	PROper	vous
@@ -4606,6 +5055,7 @@ par	PRE	par
 plusieurs	DETind	plusieurs
 foiz	NOMcom	foiz
 grevez	VERppe	grever
+.	PONfbl	.
 ”	PONpdr	”
 Puis	ADVgen	puis
 a	VERcjg	avoir
@@ -4613,32 +5063,38 @@ dit	VERppe	dire
 a	PRE	a
 l'	DETdef	le
 abé	NOMcom	abbé
+:	PONfbl	:
 “	PONpga	“
 Biau	ADJqua	bel
 sire	NOMcom	seignor
+,	PONfbl	,
 car	ADVgen	car
 alez	VERcjg	aler
+,	PONfbl	,
 S'	CONsub	se
 il	PROimp	il
 vous	PROper	vous
 plaist	VERcjg	plaire
+,	PONfbl	,
 a	PRE	a
 mon	DETpos	mon
 pere	NOMcom	père
+,	PONfbl	,
 ceste	DETdem	cest
 cles	NOMcom	cle
 li	PROper	il
 portez	VERcjg	porter
+;	PONfbl	;
 El	PRE.DETdef	en
 lieu	NOMcom	lieu
-ou	PROrel	où
+ou	CONcoo	o
 demouroie	VERcjg	demeurer
 entre	PRE	entre
 vous	PROper	vous
-.ii	PROcar	deus
+deux	PROcar	deux
+yrez	NOMcom	iré
 .	PONfrt	.
 
-yrez	VERcjg	aller
 J'	PROper	je
 ai	VERcjg	avoir
 tué	VERppe	tüer
@@ -4650,27 +5106,32 @@ tans	NOMcom	tens
 m'	PROper	je
 ont	VERcjg	avoir
 servi	VERppe	servir
+,	PONfbl	,
 Je	PROper	je
 les	PROper	il
 ai	VERcjg	avoir
 mis	VERppe	metre
 a	PRE	a
 mort	NOMcom	mort
+,	PONfbl	,
 n'	ADVneg	ne
 en	PROadv	en
 soiez	VERcjg	estre
 en	PRE	en
 soussi	NOMcom	sousin
+;	PONfbl	;
 Moult	ADVgen	moult
 grant	ADJqua	grant
 tresor	NOMcom	tresor
 y	PROadv	y
 a	VERcjg	avoir
+,	PONfbl	,
 qu'	PROrel	que
 ai	VERcjg	avoir
 tolu	VERppe	tolir
 et	CONcoo	et
 ravi	VERppe	ravir
+,	PONfbl	,
 Qu'	CONsub	que
 a	PRE	a
 ceuz	PROdem	celui
@@ -4688,9 +5149,10 @@ herbergiez	VERppe	herbergier
 laiens	ADVgen	léans
 celle	DETdem	cil
 nuitie	NOMcom	nuitie
+.	PONfrt	.
+
 L'	DETdef	le
-en	PRE	en
-demain	ADVgen	demain
+endemain	NOMcom	endemain
 au	PRE.DETdef	a
 matin	NOMcom	matin
 laissa	VERcjg	laisser
@@ -4702,11 +5164,13 @@ espee	NOMcom	espee
 et	CONcoo	et
 son	DETpos	son
 cheval	NOMcom	cheval
-s'	PROper	soi
+,	PONfbl	,
+s'	ADVgen	si
 a	VERcjg	avoir
 sa	DETpos	son
 voie	NOMcom	voie
 acueillie	VERppe	accueillir
+,	PONfbl	,
 Et	CONcoo	et
 l'	DETdef	le
 abbé	NOMcom	abbé
@@ -4724,7 +5188,7 @@ clef	NOMcom	clef
 li	PROper	il
 a	VERcjg	avoir
 moustree	VERppe	montrer
-que	PROrel	que
+que	CONsub	que
 Robert	NOMpro	Robert
 li	PROper	il
 bailla	VERcjg	bailler
@@ -4736,6 +5200,8 @@ du	PRE.DETdef	de.le
 fait	NOMcom	fait
 li	PROper	il
 raconta	VERcjg	raconter
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 en	PRE	en
@@ -4745,6 +5211,7 @@ avec	PRE	avec
 l'	DETdef	le
 abbé	NOMcom	abbé
 ala	VERcjg	aller
+;	PONfbl	;
 Moult	ADVgen	moult
 furent	VERcjg	estre
 esbahiz	VERppe	esbäir
@@ -4753,6 +5220,8 @@ tresor	NOMcom	tresor
 qui	PROrel	que
 fu	VERcjg	estre
 la	ADVgen	là
+.	PONfrt	.
+
 Le	DETdef	le
 duc	NOMcom	duc
 aus	PRE.DETdef	à.le
@@ -4762,8 +5231,9 @@ trestout	ADVgen	trèstout
 rendre	VERinf	rendre
 leur	PROper	leur
 fist	VERcjg	faire
+,	PONfbl	,
 Tel	PROind	tel
-pria	NOMcom	prie
+pria	VERcjg	prier
 pour	PRE	pour
 son	DETpos	son
 filz	NOMcom	fil
@@ -4772,13 +5242,17 @@ devant	ADVgen	devant
 l'	PROper	il
 ot	VERcjg	avoir
 maudit	VERppe	maudire
+.	PONfrt	.
+
 Tant	ADVgen	tant
 chevaucha	VERcjg	chevauchier
 Robert	NOMpro	Robert
+,	PONfbl	,
 pour	PRE	pour
 abregier	VERinf	abregier
 mon	DETpos	mon
 dit	NOMcom	dit
+,	PONfbl	,
 C'	CONsub	que
 un	DETndf	un
 jeudi	NOMcom	jeudi
@@ -4787,14 +5261,19 @@ dedens	PRE	dedans
 Romme	NOMpro	Rome
 se	PROper	soi
 mist	VERcjg	mettre
+.	PONfrt	.
+
 Pour	PRE	pour
 Dieu	NOMpro	Dieu
+,	PONfbl	,
 or	ADVgen	or
 entendez	VERcjg	entendre
 douce	ADJqua	doux
 gent	NOMcom	gent
 debonnaire	ADJqua	débonnaire
-S'	CONsub	se
+!	PONfrt	!
+
+S'	ADVgen	si
 orrez	VERcjg	ouïr
 la	DETdef	le
 penitance	NOMcom	penitence
@@ -4814,6 +5293,8 @@ assez	ADVgen	assez
 de	PRE	de
 gent	NOMcom	gent
 traire	VERinf	traire
+.	PONfrt	.
+
 Iluec	ADVgen	iluec
 trouva	VERcjg	trouver
 le	DETdef	le
@@ -4822,7 +5303,9 @@ qui	PROrel	que
 ert	VERcjg	être
 de	PRE	de
 Dieu	NOMpro	Dieu
-vicaire	NOMcom	vicaire
+vicaire	ADJqua	vicaire
+.	PONfrt	.
+
 Ou	PRE.DETdef	en.le
 grant	ADJqua	grant
 moustiers	NOMcom	moutier
@@ -4831,6 +5314,8 @@ Pere	NOMpro	Piere
 devant	PRE	devant
 messe	NOMcom	messe
 chanter	VERinf	chanter
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 devant	PRE	devant
 ses	DETpos	son
@@ -4851,8 +5336,9 @@ fort	ADVgen	fort
 a	PRE	a
 fraper	VERinf	fraper
 Sus	PRE	sus
-li	DETdef	le
-mais	NOMcom	mai
+li	PROper	il
+,	PONfbl	,
+mais	CONcoo	mais
 ainz	ADVgen	ainz
 pour	PRE	pour
 ce	PROdem	ce
@@ -4860,6 +5346,8 @@ ne	ADVneg	ne
 se	PROper	soi
 vout	VERcjg	voloir
 remuer	VERinf	remüer
+.	PONfrt	.
+
 Si	ADVgen	si
 feroient	VERcjg	faire
 il	PROper	il
@@ -4868,17 +5356,21 @@ de	PRE	de
 bastons	NOMcom	baston
 dessus	PRE	dessus
 soi	PROper	soi
+;	PONfbl	;
 Le	DETdef	le
 pappe	NOMcom	pappe
 en	PROadv	en
 ot	VERcjg	avoir
 pitié	NOMcom	pitié
+,	PONfbl	,
 si	ADVgen	si
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Laissez	VERcjg	laisser
 le	PROper	il
 quoi	PROrel	quoi
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 le	PROper	il
@@ -4889,26 +5381,34 @@ main	NOMcom	main
 et	CONcoo	et
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Lieve	VERcjg	lever
 toi	PROper	tu
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
-saint	ADJqua	saint
+Saint	ADJqua	saint
 pere	NOMcom	père
+,	PONfbl	,
 pour	PRE	pour
 Dieu	NOMpro	Dieu
+,	PONfbl	,
 confessez	VERcjg	confesser
 moi	PROper	je
+.	PONfrt	.
+
 Se	CONsub	se
 de	PRE	de
 vous	PROper	vous
 n'	ADVneg	ne
 ai	VERcjg	avoir
 conseil	NOMcom	conseil
+,	PONfbl	,
 je	PROper	je
 vaul	VERcjg	valoir
 pis	ADVgen	pis
@@ -4916,6 +5416,7 @@ c'	CONsub	que
 un	DETndf	un
 chien	NOMcom	chien
 mort	VERppe	mourir
+,	PONfbl	,
 Car	CONcoo	car
 je	PROper	je
 ne	ADVneg	ne
@@ -4923,11 +5424,13 @@ garde	VERcjg	garder
 l'	DETdef	le
 eure	NOMcom	heure
 que	PROrel	que
-dëable	NOMcom	diable
+deable	NOMcom	diable
 m'	PROper	je
 enport	VERcjg	emporter
+.	PONfrt	.
+
 On	PROind	on
-dit	VERppe	dire
+dit	VERcjg	dire
 que	CONsub	que
 vous	PROper	vous
 donnez	VERcjg	donner
@@ -4935,6 +5438,8 @@ de	PRE	de
 touz	DETind	tous
 pechiez	NOMcom	pechié
 confort	NOMcom	confort
+.	PONfrt	.
+
 A	PRE	a
 Dieu	NOMpro	Dieu
 ai	VERcjg	avoir
@@ -4946,13 +5451,17 @@ siens	PROpos	sien
 a	PRE	a
 grant	ADJqua	grant
 tort	NOMcom	tort
+.	PONfrt	.
+
 Onques	ADVgen	onque
 Caym	NOMpro	Caim
 ne	ADVneg	ne
 fist	VERcjg	faire
-herodes	NOMcom	hérode
+,	PONfbl	,
+Herodes	NOMpro	Hérode
 ne	CONcoo	ne
 Judas	NOMpro	Judas
+,	PONfbl	,
 Tant	ADVgen	tant
 de	PRE	de
 mauz	NOMcom	mail
@@ -4963,34 +5472,36 @@ cest	DETdem	cest
 dolereus	ADJqua	douloureux
 cors	NOMcom	corps
 laz	ADJqua	laz
+.	PONfbl	.
 ”	PONpdr	”
 Quant	CONsub	quand
 le	DETdef	le
 pappe	NOMcom	pappe
 l'	PROper	il
 oÿ	VERcjg	ouïr
-.	PONfrt	.
-
+,	PONfbl	,
 si	ADVgen	si
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
 em	PRE	en
-bas	NOMcom	bas
+bas	ADJqua	bas
+:	PONfbl	:
 “	PONpga	“
 Biaus	ADJqua	beau
 amis	NOMcom	ami
-dont	PROrel	dont
+,	PONfbl	,
+dont	PROint	dont
 es	VERcjg	être
 tu	PROper	tu
-.	PONfbl	.
+?	PONfrt	?
+
 ”	PONpdr	”
-robert	VERppe	robert
+Robert	NOMpro	Robert
 dist	VERcjg	dire
 sens	PRE	sans
 espas	NOMcom	espas
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 A	PRE	a
 Roen	NOMpro	Rouen
@@ -4998,44 +5509,48 @@ la	DETdef	le
 cité	NOMcom	cité
 fu	VERcjg	estre
 né	VERppe	naître
+,	PONfbl	,
 ce	PROdem	ce
 n'	ADVneg	ne
 est	VERcjg	estre
 pas	ADVneg	pas
 fable	NOMcom	fable
+,	PONfbl	,
 On	PROind	on
 m'	PROper	je
 apele	VERcjg	apeler
 Robert	NOMpro	Robert
-;	PONfbl	;
+,	PONfbl	,
 sire	NOMcom	seignor
 non	ADVneg	non
 ai	VERcjg	avoir
 de	PRE	de
-dëable	NOMcom	diable
+deabl	NOMcom	dïabl
+,	PONfbl	,
 Filz	NOMcom	fils
 au	PRE.DETdef	a
 duc	NOMcom	duc
 des	PRE.DETdef	de.le
 Normans	NOMpro	Normand
+,	PONfbl	,
 qui	PROrel	que
 est	VERcjg	estre
 moult	ADVgen	moult
 honorable	ADJqua	honorable
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 se	PROper	soi
 seigna	VERcjg	signer
 le	DETdef	le
 pappe	NOMcom	pappe
-.	PONfrt	.
-
 du	PRE.DETdef	de.le
 pere	NOMcom	père
 esperitable	ADJqua	esperitable
 Et	CONcoo	et
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Es	VERcjg	estre
 tu	PROper	tu
@@ -5045,6 +5560,8 @@ quoi	PROrel	quoi
 on	PROind	on
 parle	VERcjg	parler
 tant	ADVgen	tant
+?	PONfrt	?
+
 Il	PROimp	il
 n'	ADVneg	ne
 a	VERcjg	avoir
@@ -5057,13 +5574,15 @@ toi	PROper	tu
 plus	ADVgen	plus
 mal	NOMcom	mal
 tyrant	NOMcom	tyran
+.	PONfrt	.
+
 Je	PROper	je
 te	PROper	tu
 conjur	VERcjg	conjurer
 de	PRE	de
 Dieu	NOMpro	Dieu
 le	DETdef	le
-pere	NOMcom	père
+Pere	NOMcom	père
 tout	ADVgen	tout
 puissant	ADJqua	poissant
 Que	CONsub	que
@@ -5076,13 +5595,12 @@ a	VERcjg	avoir
 nule	DETind	nul
 riens	NOMcom	rien
 vivant	VERppa	vivre
+.	PONfbl	.
 ”	PONpdr	”
 Adont	ADVgen	adonc
 s'	PROper	soi
 agenoulla	VERcjg	agenouiller
-.	PONfrt	.
-
-robert	VERcjg	robert
+Robert	NOMpro	Robert
 et	CONcoo	et
 joint	VERcjg	joindre
 les	DETdef	le
@@ -5091,11 +5609,14 @@ Et	CONcoo	et
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
-saint	ADJqua	saint
+Saint	ADJqua	saint
 pere	NOMcom	père
+,	PONfbl	,
 pour	PRE	pour
 Diex	NOMpro	Dieu
+,	PONfbl	,
 soiez	VERcjg	estre
 certains	ADJqua	certain
 Que	CONsub	que
@@ -5123,11 +5644,13 @@ s'	PROper	soi
 asist	VERcjg	assëoir
 le	DETdef	le
 pappe	NOMcom	pappe
+,	PONfbl	,
 qui	PROrel	que
 fu	VERcjg	estre
 sages	ADJqua	sage
 et	CONcoo	et
 dous	ADJqua	doux
+,	PONfbl	,
 Et	CONcoo	et
 Robert	NOMpro	Robert
 devant	PRE	devant
@@ -5137,14 +5660,16 @@ mist	VERcjg	mettre
 a	PRE	a
 nus	ADJqua	nu
 genous	NOMcom	genou
+;	PONfbl	;
 En	PRE	en
 vraie	ADJqua	vrai
 repentance	NOMcom	repentance
 li	PROper	il
 dist	VERcjg	dire
 ses	DETpos	son
-pechiez	NOMcom	pechié
+pechiez	VERppe	pechié
 tous	PROind	tous
+;	PONfbl	;
 Puis	ADVgen	puis
 li	PROper	il
 conta	VERcjg	conter
@@ -5154,7 +5679,7 @@ donné	VERppe	donner
 par	PRE	par
 courous	NOMcom	courroux
 Au	PRE.DETdef	a
-dëable	NOMcom	diable
+deable	NOMcom	diable
 d'	PRE	de
 enfer	NOMcom	enfer
 de	PRE	de
@@ -5163,6 +5688,7 @@ la	DETdef	le
 part	NOMcom	part
 sa	DETpos	son
 mere	NOMcom	mere
+,	PONfbl	,
 Dont	PROrel	dont
 il	PROper	il
 avoit	VERcjg	avoir
@@ -5171,42 +5697,46 @@ cuer	NOMcom	cuer
 pesme	ADJqua	pesme
 dolour	NOMcom	douleur
 amere	ADJqua	amer
+.	PONfrt	.
+
 Le	DETdef	le
 pappe	NOMcom	pappe
 le	PROper	il
 seigna	VERcjg	signer
+,	PONfbl	,
 puis	ADVgen	puis
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Biau	ADJqua	bel
 frere	NOMcom	frère
+,	PONfbl	,
 Demain	ADVgen	demain
 au	PRE.DETdef	a
 point	NOMcom	point
 du	PRE.DETdef	de.le
 jour	NOMcom	jour
+,	PONfbl	,
 que	CONsub	que
 l'	DETdef	le
 aube	NOMcom	aube
 sera	VERcjg	estre
 clere	ADJqua	clair
+,	PONfbl	,
 A	PRE	a
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 lieues	NOMcom	lieue
 de	PRE	de
 ci	ADVgen	ci
 devotement	NOMcom	dévotement
 iras	VERcjg	aler
 Chiés	PRE	chiés
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 mien	ADJpos	mon
 confesseur	NOMcom	confesseur
+;	PONfbl	;
 de	PRE	de
 par	PRE	par
 moi	PROper	je
@@ -5222,16 +5752,19 @@ pechiez	VERppe	pechié
 que	PROrel	que
 fais	VERppe	faire
 as	VERcjg	avoir
-.	PONfrt	.
-
+,	PONfbl	,
 Et	CONcoo	et
+,	PONfbl	,
 je	PROper	je
 sui	VERcjg	estre
 tout	ADVgen	tout
 certain	ADJqua	certain
+,	PONfbl	,
 bien	ADVgen	bien
 conseilliez	VERppe	conseillier
 seras	VERcjg	estre
+.	PONfrt	.
+
 On	PROind	on
 ne	ADVneg	ne
 scet	VERcjg	savoir
@@ -5245,21 +5778,25 @@ firmament	NOMcom	firmement
 Robert	NOMpro	Robert
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
-saint	ADJqua	saint
+Saint	ADJqua	saint
 pere	NOMcom	père
+,	PONfbl	,
 g'	PROper	je
 irai	VERcjg	aler
 moult	ADVgen	moult
 doucement	ADVgen	doucement
+;	PONfbl	;
 Diex	NOMpro	Dieu
-veille	ADJqua	vieux
+veille	VERcjg	veillier
 que	CONsub	que
 par	PRE	par
 lui	PROper	il
 truisse	VERcjg	trover
 mon	DETpos	mon
 sauvement	NOMcom	sauvement
+.	PONfbl	.
 ”	PONpdr	”
 A	PRE	a
 Romme	NOMpro	Rome
@@ -5276,12 +5813,15 @@ se	PROper	soi
 mist	VERcjg	mettre
 a	PRE	a
 voie	NOMcom	voie
+,	PONfbl	,
 puis	ADVgen	puis
 si	ADVgen	si
 vint	VERcjg	venir
 chiez	PRE	chiez
 l'	DETdef	le
 ermite	NOMcom	ermite
+.	PONfrt	.
+
 La	DETdef	le
 raison	NOMcom	raison
 que	PROrel	que
@@ -5292,6 +5832,8 @@ mandoit	VERcjg	mander
 li	PROper	il
 a	VERcjg	avoir
 dite	VERppe	dire
+.	PONfrt	.
+
 Le	DETdef	le
 preudons	NOMcom	prudhomme
 qui	PROrel	que
@@ -5300,22 +5842,23 @@ de	PRE	de
 vie	NOMcom	vie
 moult	ADVgen	moult
 petite	ADJqua	petit
-.	PONfrt	.
-
 En	PRE	en
-oir	NOMcom	hoir
+oïr	VERinf	öir
 le	DETdef	le
 pechié	NOMcom	péché
 de	PRE	de
 Robert	NOMpro	Robert
 se	PROper	soi
 delite	VERcjg	delitier
+,	PONfbl	,
 Comment	ADVgen	comment
 qu'	CONsub	que
 il	PROper	il
 fussent	VERcjg	estre
 lais	ADJqua	lai
-mais	CONcoo	mais
+.	PONfrt	.
+
+Mais	CONcoo	mais
 il	PROper	il
 avoit	VERcjg	avoir
 plaisance	NOMcom	plaisance
@@ -5327,15 +5870,20 @@ disoit	VERcjg	dire
 en	PRE	en
 bonne	ADJqua	bon
 repentance	NOMcom	repentance
+.	PONfrt	.
+
 Au	PRE.DETdef	a
 derrenier	NOMcom	derranier
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Amis	NOMcom	ami
+,	PONfbl	,
 n'	ADVneg	ne
 aie	VERcjg	avoir
 doutance	NOMcom	doutance
+;	PONfbl	;
 Jusqu'	ADVgen	jusque
 a	PRE	a
 demain	ADVgen	demain
@@ -5343,6 +5891,7 @@ ferez	VERcjg	faire
 avec	PRE	avec
 moi	PROper	je
 demourance	NOMcom	demeurance
+,	PONfbl	,
 Et	CONcoo	et
 puis	ADVgen	puis
 s'	CONsub	se
@@ -5350,30 +5899,33 @@ il	PROimp	il
 plaist	VERcjg	plaire
 a	PRE	a
 Dieu	NOMpro	Dieu
+,	PONfbl	,
 qui	PROrel	que
 de	PRE	de
 l'	DETdef	le
 yaue	NOMcom	eau
 fist	VERcjg	faire
 vin	NOMcom	vin
+,	PONfbl	,
 Bien	ADVgen	bien
 vous	PROper	vous
 conseillerai	VERcjg	conseillier
 demain	ADVgen	demain
 assez	ADVgen	assez
 matin	NOMcom	matin
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
+,	PONfbl	,
 qui	PROrel	que
 soloit	VERcjg	soloir
 estre	VERinf	estre
 plus	ADVgen	plus
 fel	ADJqua	felon
 que	CONsub	que
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 mastin	NOMcom	mastin
+,	PONfbl	,
 Estoit	VERcjg	estre
 plus	ADVgen	plus
 debonnaire	ADJqua	débonnaire
@@ -5382,17 +5934,18 @@ un	DETndf	un
 aignel	NOMcom	agnel
 en	PRE	en
 chemin	NOMcom	chemin
+.	PONfrt	.
+
 Onques	ADVgen	onque
 ne	ADVneg	ne
 voult	VERcjg	vouloir
 Robert	NOMpro	Robert
-.	PONfrt	.
-
 cel	DETdem	cil
 jour	NOMcom	jour
 mengier	VERinf	manger
 ne	CONcoo	ne
 boire	VERinf	boire
+,	PONfbl	,
 Ainz	ADVgen	ains
 prioit	VERcjg	prier
 de	PRE	de
@@ -5400,7 +5953,7 @@ bon	ADJqua	bon
 cuer	NOMcom	cuer
 le	DETdef	le
 digne	ADJqua	digne
-roy	NOMcom	roi
+Roy	NOMcom	roi
 de	PRE	de
 gloire	NOMcom	gloire
 Qu'	CONsub	que
@@ -5410,14 +5963,18 @@ anemi	NOMcom	ennemi
 li	PROper	il
 envoiast	VERcjg	envoyer
 victoire	NOMcom	victoire
+.	PONfrt	.
+
 L'	DETdef	le
 ermite	NOMcom	ermite
+,	PONfbl	,
 qui	PROrel	que
 estoit	VERcjg	estre
 plain	ADJqua	plein
 de	PRE	de
 devot	NOMcom	devot
 memoire	NOMcom	mémoire
+,	PONfbl	,
 Quant	CONsub	quand
 il	PROper	il
 vit	VERcjg	vëoir
@@ -5425,10 +5982,13 @@ qu'	CONsub	que
 il	PROimp	il
 fu	VERcjg	estre
 nuit	NOMcom	nuit
+,	PONfbl	,
 il	PROper	il
 fist	VERcjg	faire
 Robert	NOMpro	Robert
 couchier	VERinf	couchier
+.	PONfrt	.
+
 Lors	ADVgen	lors
 dedens	PRE	dedans
 sa	DETpos	son
@@ -5438,16 +5998,16 @@ en	PROadv	en
 entre	VERcjg	entrer
 pour	PRE	pour
 veillier	VERinf	veillier
+;	PONfbl	;
 De	PRE	de
 bon	ADJqua	bon
 cuer	NOMcom	cuer
 depria	VERcjg	déprier
-.	PONfrt	.
-
 le	DETdef	le
 pere	NOMcom	père
 droiturier	ADJqua	droiturier
-Qu'	PROrel	que
+,	PONfbl	,
+Qu'	CONsub	que
 il	PROper	il
 li	PROper	il
 donnast	VERcjg	donner
@@ -5455,6 +6015,8 @@ avis	NOMcom	avis
 du	PRE.DETdef	de.le
 pecheur	NOMcom	pécheur
 conseillier	VERinf	conseillier
+.	PONfrt	.
+
 Li	DETdef	le
 preudons	NOMcom	prudhomme
 s'	PROper	soi
@@ -5464,11 +6026,12 @@ tant	ADVgen	tant
 com	CONsub	come
 Dieu	NOMpro	Dieu
 prioit	VERcjg	prier
+.	PONfrt	.
+
 Adont	ADVgen	adonc
 li	PROper	il
 fu	VERcjg	estre
 avis	NOMcom	avis
-;	PONfbl	;
 c'	CONsub	que
 uns	DETndf	un
 anges	NOMcom	ange
@@ -5479,20 +6042,25 @@ il	PROimp	il
 couvient	VERcjg	convenir
 que	CONsub	que
 Robert	NOMpro	Robert
+,	PONfbl	,
 qui	PROrel	que
 en	PRE	en
 son	DETpos	son
 lit	NOMcom	lit
 gisoit	VERcjg	jesir
+,	PONfbl	,
 Contreface	VERcjg	contrefaire
 le	DETdef	le
-fol	NOMcom	fou
+fol	ADJqua	fol
+,	PONfbl	,
 s'	CONsub	se
 il	PROper	il
 veult	VERcjg	vouloir
 que	CONsub	que
 sauvé	VERppe	sauver
 soit	VERcjg	estre
+.	PONfrt	.
+
 “	PONpga	“
 Et	CONcoo	et
 que	CONsub	que
@@ -5506,6 +6074,7 @@ pain	NOMcom	pain
 ne	CONcoo	ne
 autre	DETind	autre
 biens	NOMcom	bien
+,	PONfbl	,
 S'	CONsub	se
 il	PROper	il
 ne	ADVneg	ne
@@ -5516,17 +6085,18 @@ ou	CONcoo	o
 esrachier	VERinf	esrachier
 aus	PRE.DETdef	à.le
 chiens	NOMcom	chien
-.	PONfrt	.
-
+,	PONfbl	,
 Et	CONcoo	et
 face	VERcjg	faire
-le	DETdef	le
+le	PROper	il
 muet	NOMcom	muet
+,	PONfbl	,
 ne	CONcoo	ne
 parole	VERcjg	parler
 por	PRE	por
 riens	PROind	rien
-Jusqu'	PRE	jusque
+,	PONfbl	,
+Jusqu'	ADVgen	jusque
 a	PRE	a
 tant	ADVgen	tant
 que	CONsub	que
@@ -5545,6 +6115,7 @@ sa	DETpos	son
 penance	NOMcom	penance
 est	VERcjg	estre
 faite	VERppe	faire
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 ermite	NOMcom	ermite
@@ -5554,24 +6125,28 @@ qui	PROrel	que
 forment	ADVgen	fortement
 se	PROper	soi
 rehete	VERcjg	rehäitier
+.	PONfrt	.
+
 Quant	CONsub	quand
 le	DETdef	le
 jour	NOMcom	jour
 esclaira	VERcjg	éclairer
-.I	PROcar	un
-.	PONfrt	.
-
-poi	ADVgen	peu
+,	PONfbl	,
+un	DETndf	un
+poi	PROind	peu
 aprés	PRE	après
 la	DETdef	le
 guete	NOMcom	gaite
 Se	PROper	soi
 descoucha	VERcjg	découchier
 Robert	NOMpro	Robert
-qu'	CONsub	que
-ot	PRE	o
+,	PONfbl	,
+qu'	PROrel	que
+ot	VERcjg	avoir
 conscience	NOMcom	conscience
 nete	ADJqua	net
+.	PONfrt	.
+
 L'	DETdef	le
 ermite	NOMcom	ermite
 l'	PROper	il
@@ -5579,9 +6154,12 @@ apela	VERcjg	apeler
 et	CONcoo	et
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Ca	ADVgen	ça
 venez	VERcjg	venir
+.	PONfrt	.
+
 Se	CONsub	se
 voulez	VERcjg	vouloir
 estre	VERinf	estre
@@ -5591,6 +6169,7 @@ mauz	NOMcom	mail
 que	PROrel	que
 fait	VERppe	faire
 avez	VERcjg	avoir
+,	PONfbl	,
 Des	PRE	des
 or	ADVgen	or
 mais	ADVgen	mais
@@ -5598,7 +6177,8 @@ en	PRE	en
 avant	ADVgen	avant
 le	DETdef	le
 fol	NOMcom	fou
-contreferez	NOMcom	contrefaire
+contreferez	VERcjg	contrefaire
+,	PONfbl	,
 Ne	CONcoo	ne
 ne	ADVneg	ne
 mengerez	VERcjg	manger
@@ -5609,7 +6189,9 @@ chiens	NOMcom	chien
 ne	ADVneg	ne
 le	PROper	il
 tolez	VERcjg	tolir
-Voir	VERinf	voir
+.	PONfrt	.
+
+Voir	ADVgen	voir
 vostre	DETpos	vostre
 penitance	NOMcom	penitence
 est	VERcjg	estre
@@ -5623,6 +6205,7 @@ mal	NOMcom	mal
 a	PRE	a
 gent	NOMcom	gent
 crestiennee	ADJqua	chrétienné
+,	PONfbl	,
 Ne	CONcoo	ne
 que	CONsub	que
 ne	ADVneg	ne
@@ -5630,8 +6213,7 @@ parlerez	VERcjg	parler
 a	PRE	a
 creature	NOMcom	créature
 nee	VERppe	naistre
-.	PONfrt	.
-
+,	PONfbl	,
 Se	CONsub	se
 je	PROper	je
 nel	ADVneg.PROper	ne
@@ -5643,16 +6225,20 @@ Dieu	NOMpro	Dieu
 plaist	VERcjg	plaire
 et	CONcoo	et
 agree	VERcjg	agreer
+.	PONfbl	.
 ”	PONpdr	”
 Quant	CONsub	quand
 Robert	NOMpro	Robert
 l'	PROper	il
 entendi	VERcjg	entendre
+,	PONfbl	,
 pas	ADVneg	pas
 ne	ADVneg	ne
 fu	VERcjg	estre
 mal	ADVgen	mal
 soigneux	ADJqua	soigneux
+.	PONfrt	.
+
 En	PRE	en
 regraciant	VERppa	regracier
 Dieu	NOMpro	Dieu
@@ -5663,15 +6249,16 @@ as	PRE.DETdef	à.le
 ciex	NOMcom	ciel
 Et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 vous	PROper	vous
 mercie	VERcjg	mercïer
+,	PONfbl	,
 dous	DETcar	deux
-peres	NOMcom	père
+Peres	NOMcom	pere
 glorieux	ADJqua	glorieux
-.	PONfrt	.
-
+,	PONfbl	,
 Quant	CONsub	quand
 pour	PRE	pour
 tant	ADVgen	tant
@@ -5679,18 +6266,21 @@ serai	VERcjg	estre
 quite	ADJqua	quite
 de	PRE	de
 mes	DETpos	mon
-pechiez	VERppe	pechié
+pechiez	NOMcom	pechié
 mortieux	ADJqua	morteux
+.	PONfbl	.
 ”	PONpdr	”
 Tres	ADVgen	très
 douce	ADJqua	doux
 gent	NOMcom	gent
+,	PONfbl	,
 Robert	NOMpro	Robert
 se	PROper	soi
 parti	VERcjg	partir
 de	PRE	de
 l'	DETdef	le
 ermite	NOMcom	ermite
+;	PONfbl	;
 A	PRE	a
 tout	ADVgen	tout
 grief	ADJqua	grief
@@ -5700,6 +6290,7 @@ la	PROper	il
 tint	VERcjg	tenir
 a	PRE	a
 petite	ADJqua	petit
+;	PONfbl	;
 Robert	NOMpro	Robert
 qui	PROrel	que
 ot	VERcjg	avoir
@@ -5718,48 +6309,61 @@ cest	DETdem	cest
 monde	NOMcom	monde
 une	DETndf	un
 mite	NOMcom	mite
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 revint	VERcjg	revenir
 a	PRE	a
 Romme	NOMpro	Rome
+,	PONfbl	,
 son	DETpos	son
 baston	NOMcom	baston
 a	PRE	a
 son	DETpos	son
 col	NOMcom	col
+;	PONfbl	;
 Sa	DETpos	son
 robe	NOMcom	robe
 descira	VERcjg	déchirer
+,	PONfbl	,
 por	PRE	por
 miex	ADVgen	mieux
 resambler	VERinf	resembler
 fol	ADJqua	fol
+;	PONfbl	;
 En	PRE	en
 Romme	NOMpro	Rome
 s'	PROper	soi
 en	PROadv	en
 entra	VERcjg	entrer
+,	PONfbl	,
 par	PRE	par
 la	DETdef	le
 porte	NOMcom	porte
 saint	ADJqua	saint
 Pol	NOMpro	Paul
+;	PONfbl	;
 Dessus	PRE	dessus
 une	DETndf	un
 fenestre	NOMcom	fenestre
 vit	VERcjg	vëoir
 maint	DETind	maint
 formage	NOMcom	formage
-mol	ADVgen	moult
+mol	ADJqua	mol
+.	PONfrt	.
+
 Fort	ADVgen	fort
 commenca	VERcjg	commencer
 a	PRE	a
 rire	VERinf	rire
-robert	NOMcom	robert
+Robert	NOMpro	Robert
+,	PONfbl	,
 quant	CONsub	cant
 il	PROper	il
 les	PROper	il
 vit	VERcjg	vëoir
+.	PONfrt	.
+
 Celle	PROdem	celui
 qui	PROrel	que
 les	PROper	il
@@ -5769,24 +6373,31 @@ sa	DETpos	son
 maison	NOMcom	maison
 les	PROper	il
 mist	VERcjg	mettre
+.	PONfrt	.
+
 De	PRE	de
 Robert	NOMpro	Robert
 se	PROper	soi
 doutoit	VERcjg	douter
-mais	ADVgen	mais
-en	PRE	en
-vis	NOMcom	vis
-les	DETdef	le
-preist	NOMcom	pré
+,	PONfbl	,
+mais	CONcoo	mais
+envis	NOMcom	envis
+les	PROper	il
+preïst	VERcjg	prendre
+.	PONfrt	.
+
 Pluseurs	DETind	plusieurs
 gens	NOMcom	gens
 l'	PROper	il
 aresnierent	VERcjg	araisnier
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 onques	ADVgen	onque
 mot	NOMcom	mot
 ne	ADVneg	ne
 dist	VERcjg	dire
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 aloit	VERcjg	aler
 par	PRE	par
@@ -5794,14 +6405,17 @@ Romme	NOMpro	Rome
 son	DETpos	son
 baston	NOMcom	baston
 paumoiant	VERppa	paumoyer
-Samblant	NOMpro	Samblant
-fait	VERppe	faire
+,	PONfbl	,
+Samblant	VERppa	semblant
+fait	VERcjg	faire
 de	PRE	de
 plourer	VERinf	pleurer
 et	CONcoo	et
 puis	ADVgen	puis
 aloit	VERcjg	aler
 riant	VERppa	rire
+.	PONfrt	.
+
 Adonques	ADVgen	adonc
 s'	PROper	soi
 asamblerent	VERcjg	assembler
@@ -5809,12 +6423,15 @@ entour	PRE	entour
 lui	PROper	il
 li	DETdef	le
 enfant	NOMcom	enfant
-Savates	NOMpro	Savate
+,	PONfbl	,
+Savates	NOMcom	savate
 et	CONcoo	et
 ordures	NOMcom	ordure
 li	PROper	il
 aloient	VERcjg	aler
 getant	VERppa	jeter
+.	PONfrt	.
+
 Aprés	PRE	après
 Robert	NOMpro	Robert
 avoit	VERcjg	avoir
@@ -5822,6 +6439,8 @@ par	PRE	par
 Romme	NOMpro	Rome
 grant	ADJqua	grant
 huee	NOMcom	huee
+.	PONfrt	.
+
 Les	DETdef	le
 enfanz	NOMcom	enfant
 le	PROper	il
@@ -5830,6 +6449,8 @@ toute	DETind	tout
 jour	NOMcom	jour
 a	PRE	a
 journee	NOMcom	journée
+.	PONfrt	.
+
 La	DETdef	le
 court	NOMcom	cour
 a	PRE	a
@@ -5840,6 +6461,8 @@ d'	PRE	de
 aventure	NOMcom	aventure
 a	VERcjg	avoir
 trouvee	VERppe	trouver
+.	PONfrt	.
+
 Il	PROper	il
 entra	VERcjg	entrer
 en	PRE	en
@@ -5859,32 +6482,40 @@ sale	NOMcom	sale
 commenca	VERcjg	commencer
 a	PRE	a
 aler	VERinf	aler
+,	PONfbl	,
 Une	DETndf	un
 foiz	NOMcom	foiz
 pas	ADVneg	pas
 pour	PRE	pour
 pas	NOMcom	pas
+,	PONfbl	,
 puis	ADVgen	puis
 prenoit	VERcjg	prendre
 a	PRE	a
 troter	VERinf	troter
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 le	PROper	il
-vit	NOMcom	vit
+vit	VERcjg	vëoir
 qui	PROrel	que
 seoit	VERcjg	sëoir
 au	PRE.DETdef	a
 souper	NOMcom	soper
+,	PONfbl	,
 A	PRE	a
 ses	DETpos	son
 chevaliers	NOMcom	chevalier
-dist	VERppe	dire
+dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Vez	VERcjg	vëoir
 la	DETdef	le
 biau	ADJqua	bel
 bacheler	NOMcom	bacheler
+!	PONfrt	!
+
 Onques	ADVgen	onque
 mais	ADVgen	mais
 miex	ADVgen	mieux
@@ -5894,50 +6525,57 @@ mon	DETpos	mon
 talent	NOMcom	talent
 ne	ADVneg	ne
 vi	VERcjg	vëoir
-.	PONfrt	.
-
+,	PONfbl	,
 Mais	CONcoo	mais
 il	PROimp	il
 me	PROper	je
 samble	VERcjg	sembler
 fol	ADJqua	fol
+,	PONfbl	,
 c'	PROdem	ce
 est	VERcjg	estre
 domage	NOMcom	damage
 de	PRE	de
 li	PROper	il
-Donnez	VERppe	donner
+;	PONfbl	;
+Donnez	VERcjg	donner
 li	PROper	il
 a	PRE	a
 mengier	VERinf	manger
+,	PONfbl	,
 je	PROper	je
 veul	VERcjg	vouloir
 qu'	CONsub	que
 il	PROper	il
 soit	VERcjg	estre
 servi	VERppe	servir
+.	PONfbl	.
 ”	PONpdr	”
 On	PROind	on
 l'	PROper	il
 apella	VERcjg	apeler
 assez	ADVgen	assez
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 riens	PROind	rien
 ne	ADVneg	ne
 respondi	VERcjg	répondre
+.	PONfrt	.
+
 Puis	ADVgen	puis
 fu	VERcjg	estre
 assis	VERppe	assëoir
 a	PRE	a
 table	NOMcom	table
+,	PONfbl	,
 mais	CONcoo	mais
 ne	ADVneg	ne
 mengast	VERcjg	manger
 por	PRE	por
 rien	PROind	rien
-.	PONfrt	.
-
-Savoit	VERcjg	savoir
+;	PONfbl	;
+S'	ADVgen	si
+avoit	VERcjg	avoir
 il	PROper	il
 devant	PRE	devant
 lui	PROper	il
@@ -5946,15 +6584,15 @@ grant	ADJqua	grant
 plenté	NOMcom	plenté
 de	PRE	de
 bien	NOMcom	bien
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 percut	VERcjg	percotir
 dessous	PRE	dessus
 la	DETdef	le
 table	NOMcom	table
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 chien	NOMcom	chien
 Qui	PROrel	que
 ot	VERcjg	avoir
@@ -5962,26 +6600,29 @@ esté	VERppe	être
 blecié	VERppe	blecier
 el	PRE.DETdef	en
 bois	NOMcom	bois
-puis	ADVgen	puis
+.	PONfrt	.
+
+Puis	ADVgen	puis
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Ca	ADVgen	ça
 vien	VERcjg	venir
+!	PONfrt	!
+
 ”	PONpdr	”
 Et	CONcoo	et
 li	PROper	il
 donna	VERcjg	donner
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 os	NOMcom	os
-.	PONfrt	.
-
-ou	CONcoo	o
+ou	PROrel	où
 de	PRE	de
 char	NOMcom	char
 ot	VERcjg	avoir
 assez	ADVgen	assez
+.	PONfrt	.
+
 Des	ADVgen	des
 que	CONsub	que
 Robert	NOMpro	Robert
@@ -5991,10 +6632,12 @@ cele	DETdem	cil
 part	NOMcom	part
 est	VERcjg	estre
 alez	VERppe	aler
+.	PONfrt	.
+
 D'	PRE	de
 une	DETndf	un
 part	NOMcom	part
-a	PRE	a
+a	VERcjg	avoir
 pris	VERppe	prendre
 l'	DETdef	le
 os	NOMcom	os
@@ -6003,6 +6646,8 @@ du	PRE.DETdef	de.le
 chien	NOMcom	chien
 fu	VERcjg	estre
 hapez	VERppe	haper
+.	PONfrt	.
+
 Le	DETdef	le
 chien	NOMcom	chien
 tira	VERcjg	tirer
@@ -6014,6 +6659,8 @@ Robert	NOMpro	Robert
 d'	PRE	de
 autre	DETind	autre
 lez	NOMcom	lez
+.	PONfrt	.
+
 De	PRE	de
 Robert	NOMpro	Robert
 et	CONcoo	et
@@ -6023,6 +6670,8 @@ fu	VERcjg	estre
 moult	ADVgen	moult
 grant	ADJqua	grant
 laatie	NOMcom	latie
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 rioit	VERcjg	rire
@@ -6030,6 +6679,8 @@ et	CONcoo	et
 toute	DETind	tout
 sa	DETpos	son
 maisnie	NOMcom	maisnie
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 qui	PROrel	que
 avoit	VERcjg	avoir
@@ -6038,6 +6689,7 @@ tyra	VERcjg	tirer
 forment	ADVgen	fortement
 a	PRE	a
 hie	NOMcom	hie
+,	PONfbl	,
 Au	PRE.DETdef	a
 chien	NOMcom	chien
 esracha	VERcjg	esracher
@@ -6048,6 +6700,8 @@ en	PROadv	en
 ala	VERcjg	aller
 char	NOMcom	char
 mengie	VERppe	manger
+.	PONfrt	.
+
 Quant	CONsub	quand
 l'	DETdef	le
 emperere	NOMcom	empereur
@@ -6057,41 +6711,45 @@ Robert	NOMpro	Robert
 l'	DETdef	le
 oz	NOMcom	ost
 runga	VERcjg	rongier
+,	PONfbl	,
 Bien	ADVgen	bien
 pensa	VERcjg	penser
 qu'	CONsub	que
 il	PROper	il
 fu	VERcjg	estre
 fol	ADJqua	fol
-.I	NOMcom	ui
 .	PONfrt	.
 
+Un	DETndf	un
 pain	NOMcom	pain
 au	PRE.DETdef	a
 chien	NOMcom	chien
 geta	VERcjg	jeter
+;	PONfbl	;
 Mais	CONcoo	mais
 quant	CONsub	cant
 Robert	NOMpro	Robert
 le	PROper	il
 vit	VERcjg	vëoir
+,	PONfbl	,
 a	PRE	a
 force	NOMcom	force
 li	PROper	il
 osta	VERcjg	ôter
+,	PONfbl	,
 Quant	CONsub	quand
 le	PROper	il
 tint	VERcjg	tenir
 en	PRE	en
 sa	DETpos	son
 main	NOMcom	main
+,	PONfbl	,
 en	PRE	en
-.ii	PROcar	deus
-.	PONfrt	.
-
+deux	DETcar	deux
 pars	NOMcom	part
 le	PROper	il
 brisa	VERcjg	brisier
+;	PONfbl	;
 Au	PRE.DETdef	a
 chien	NOMcom	chien
 en	PROadv	en
@@ -6101,6 +6759,7 @@ la	DETdef	le
 plus	ADVgen	plus
 grande	ADJqua	grand
 partie	NOMcom	partie
+,	PONfbl	,
 Puis	ADVgen	puis
 menga	VERcjg	manger
 l'	DETdef	le
@@ -6111,6 +6770,7 @@ le	DETdef	le
 fain	NOMcom	faim
 qui	PROrel	que
 legrie	VERcjg	legrier
+,	PONfbl	,
 Car	CONcoo	car
 plus	ADVgen	plus
 avoit	VERcjg	avoir
@@ -6119,6 +6779,8 @@ de	PRE	de
 journee	NOMcom	journée
 et	CONcoo	et
 demie	ADJqua	demi
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 rioit	VERcjg	rire
@@ -6127,14 +6789,19 @@ fort	ADVgen	fort
 pour	PRE	pour
 la	DETdef	le
 folie	NOMcom	folie
+.	PONfrt	.
+
 A	PRE	a
 ses	DETpos	son
 chevaliers	NOMcom	chevalier
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Seignours	NOMcom	seigneur
+,	PONfbl	,
 soiez	VERcjg	estre
 certain	ADJqua	certain
+,	PONfbl	,
 Onques	ADVgen	onque
 plus	ADVgen	plus
 courtois	ADJqua	courtois
@@ -6144,6 +6811,7 @@ vit	VERcjg	vëoir
 franc	ADJqua	franc
 ne	CONcoo	ne
 vilain	ADJqua	vilain
+;	PONfbl	;
 Maintenant	ADVgen	maintenant
 a	VERcjg	avoir
 tolu	VERppe	tolir
@@ -6153,10 +6821,9 @@ chien	NOMcom	chien
 le	DETdef	le
 sien	ADJpos	sien
 pain	NOMcom	pain
-.	PONfrt	.
-
+,	PONfbl	,
 Puis	ADVgen	puis
-si	CONsub	si
+si	ADVgen	si
 l'en	PROper	il
 a	VERcjg	avoir
 rendu	VERppe	rendre
@@ -6165,6 +6832,8 @@ moitié	NOMcom	moitié
 tout	ADVgen	tout
 a	PRE	a
 plain	ADJqua	plein
+.	PONfbl	.
+”	PONpdr	”
 Lors	ADVgen	lors
 donna	VERcjg	donner
 l'en	PROind	loin
@@ -6175,6 +6844,7 @@ et	CONcoo	et
 char	NOMcom	char
 et	CONcoo	et
 poisson	NOMcom	poisson
+,	PONfbl	,
 Afin	ADVgen	afin
 que	CONsub	que
 le	DETdef	le
@@ -6183,6 +6853,8 @@ ait	VERcjg	avoir
 plus	ADVgen	plus
 large	ADJqua	large
 garison	NOMcom	garison
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 li	PROper	il
 en	PROadv	en
@@ -6194,6 +6866,8 @@ en	PROadv	en
 ot	VERcjg	avoir
 son	DETpos	son
 bon	ADJqua	bon
+.	PONfrt	.
+
 Tant	ADVgen	tant
 couru	VERppe	courir
 par	PRE	par
@@ -6201,31 +6875,32 @@ laiens	ADVgen	léans
 en	PRE	en
 sa	DETpos	son
 main	NOMcom	main
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 baston	NOMcom	baston
+,	PONfbl	,
 C'	PROrel	que
 un	DETndf	un
 guichet	NOMcom	guichet
 vit	VERcjg	vëoir
 ouvert	VERppe	ouvrir
+,	PONfbl	,
 s'	PROper	soi
 entra	VERcjg	entrer
 en	PRE	en
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 vergier	NOMcom	vergier
+,	PONfbl	,
 La	ADVgen	là
 ot	VERcjg	avoir
 une	DETndf	un
 fontaine	NOMcom	fontaine
+,	PONfbl	,
 qui	PROrel	que
 sourt	VERcjg	sordre
 sus	PRE	sus
 le	DETdef	le
 gravier	NOMcom	gravier
+;	PONfbl	;
 Robert	NOMpro	Robert
 y	PROadv	y
 ala	VERcjg	aller
@@ -6234,6 +6909,8 @@ pour	PRE	pour
 son	DETpos	son
 soif	NOMcom	soi
 estanchier	VERinf	estanchier
+.	PONfrt	.
+
 Et	CONcoo	et
 quant	CONsub	cant
 vint	VERcjg	venir
@@ -6245,6 +6922,7 @@ il	PROper	il
 dut	VERcjg	devoir
 aler	VERinf	aler
 couchier	VERinf	couchier
+,	PONfbl	,
 Robert	NOMpro	Robert
 regarda	VERcjg	regarder
 bien	ADVgen	bien
@@ -6253,34 +6931,39 @@ part	NOMcom	part
 le	DETdef	le
 chien	NOMcom	chien
 tourna	VERcjg	tourner
+,	PONfbl	,
 Tout	ADVgen	tout
 adez	ADVgen	adez
-le	DETdef	le
-sui	NOMcom	sui
+le	PROper	il
+sui	VERcjg	estre
+,	PONfbl	,
 point	ADVneg	point
 ne	ADVneg	ne
 li	PROper	il
 eschapa	VERcjg	eschaper
+,	PONfbl	,
 Tant	ADVgen	tant
 que	CONsub	que
 por	PRE	por
 soi	PROper	soi
 dormir	VERinf	dormir
 sous	PRE	sous
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 degré	NOMcom	degré
 ala	VERcjg	aller
+;	PONfbl	;
 Li	DETdef	le
 sainz	ADJqua	saint
 homs	NOMcom	homme
-l'	DETdef	le
-apercut	NOMcom	apercu
+l'	PROper	il
+apercut	VERcjg	apercevoir
+,	PONfbl	,
 delez	PRE	dalez
 li	PROper	il
 se	PROper	soi
 coucha	VERcjg	coucher
+.	PONfrt	.
+
 Par	PRE	par
 de	PRE	de
 costé	NOMcom	costé
@@ -6290,15 +6973,19 @@ s'	PROper	soi
 ala	VERcjg	aller
 couchier	VERinf	couchier
 Robert	NOMpro	Robert
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 le	PROper	il
 vit	VERcjg	vëoir
+,	PONfbl	,
 si	ADVgen	si
 dist	VERcjg	dire
 de	PRE	de
 cuer	NOMcom	cuer
 ouvert	VERppe	ouvrir
+:	PONfbl	:
 “	PONpga	“
 C'	CONsub	que
 on	PROind	on
@@ -6317,21 +7004,20 @@ couvert	VERppe	couvrir
 Lors	ADVgen	lors
 l'en	PROind	loin
 aporta	VERcjg	aporter
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 un	DETndf	un
 varlet	NOMcom	valet
 plus	ADVgen	plus
 apert	ADJqua	apert
-Et	CONcoo	et
-.ii	ADJqua	di
 .	PONfrt	.
 
+Et	CONcoo	et
+deus	DETcar	deux
 blans	ADJqua	blanc
 dras	NOMcom	drap
 de	PRE	de
 lin	NOMcom	lin
+,	PONfbl	,
 qui	PROrel	que
 furent	VERcjg	estre
 grant	ADJqua	grant
@@ -6345,20 +7031,24 @@ n'	ADVneg	ne
 en	PROadv	en
 ot	VERcjg	avoir
 cure	NOMcom	cure
-tout	ADVgen	tout
-a	PRE	a
+,	PONfbl	,
+tout	PROind	tout
+a	VERcjg	avoir
 dehors	ADVgen	defors
 geté	VERppe	jeter
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 le	PROper	il
 sot	VERcjg	savoir
+,	PONfbl	,
 errant	VERppa	errer
-a	PRE	a
+a	VERcjg	avoir
 commandé	VERppe	commander
 C'	CONsub	que
 on	PROind	on
-preist	VERcjg	prendre
+preïst	VERcjg	prendre
 en	PRE	en
 la	DETdef	le
 voute	NOMcom	voute
@@ -6366,6 +7056,8 @@ du	PRE.DETdef	de.le
 blanc	ADJqua	blanc
 fuerre	NOMcom	fuerre
 plenté	NOMcom	plenté
+.	PONfrt	.
+
 Lors	ADVgen	lors
 porta	VERcjg	porter
 l'en	PROind	loin
@@ -6375,15 +7067,19 @@ dessous	PRE	dessus
 Robert	NOMpro	Robert
 grant	ADJqua	grant
 tas	NOMcom	tas
+,	PONfbl	,
 Il	PROper	il
 se	PROper	soi
 coucha	VERcjg	coucher
 dessus	ADVgen	dessus
+,	PONfbl	,
 car	CONcoo	car
 il	PROper	il
 estoit	VERcjg	estre
 moult	ADVgen	moult
 laz	ADJqua	laz
+.	PONfrt	.
+
 De	PRE	de
 li	PROper	il
 firent	VERcjg	faire
@@ -6399,12 +7095,14 @@ le	PROper	il
 tindrent	VERcjg	tenir
 pour	PRE	pour
 fol	ADJqua	fol
+,	PONfbl	,
 mais	CONcoo	mais
 il	PROper	il
 ne	ADVneg	ne
 l'	PROper	il
 estoit	VERcjg	estre
 pas	ADVneg	pas
+,	PONfbl	,
 Combien	ADVgen	combien
 qu'	CONsub	que
 il	PROper	il
@@ -6416,6 +7114,8 @@ qu'	PROrel	que
 au	PRE.DETdef	a
 chien	NOMcom	chien
 toloit	VERcjg	tolir
+.	PONfrt	.
+
 Le	DETdef	le
 chien	NOMcom	chien
 apercut	VERcjg	apercevoir
@@ -6434,30 +7134,29 @@ que	CONsub	que
 forment	ADVgen	fortement
 l'	PROper	il
 amoit	VERcjg	amer
+.	PONfrt	.
+
 Tant	ADVgen	tant
 qu'	CONsub	que
 avint	VERcjg	advenir
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 jour	NOMcom	jour
 que	PROrel	que
 li	DETdef	le
 roys	NOMcom	roi
-court	VERcjg	courir
+court	NOMcom	cour
 tenoit	VERcjg	tenir
+,	PONfbl	,
 Il	PROper	il
 y	PROadv	y
 vint	VERcjg	venir
 pour	PRE	pour
 digner	VERinf	digner
-.I	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 moult	ADVgen	moult
 riche	ADJqua	riche
-Juys	NOMcom	juif
+juys	NOMcom	juif
 Qui	PROrel	que
 estoit	VERcjg	estre
 receveur	NOMcom	recevour
@@ -6465,6 +7164,8 @@ des	PRE.DETdef	de.le
 rentes	NOMcom	rente
 du	PRE.DETdef	de.le
 pays	NOMcom	pays
+.	PONfrt	.
+
 Par	PRE	par
 soi	PROper	soi
 a	PRE	a
@@ -6474,25 +7175,28 @@ fu	VERcjg	estre
 moult	ADVgen	moult
 noblement	ADVgen	noblement
 assis	VERppe	assëoir
+.	PONfrt	.
+
 Lors	ADVgen	lors
 prist	VERcjg	prendre
 Robert	NOMpro	Robert
 son	DETpos	son
 chien	NOMcom	chien
+,	PONfbl	,
 entre	PRE	entre
 ses	DETpos	son
 bras	NOMcom	bras
 l'	PROper	il
 a	VERcjg	avoir
 mis	VERppe	metre
+.	PONfrt	.
+
 Puis	ADVgen	puis
 sacha	VERcjg	savoir
 le	DETdef	le
-Juif	NOMpro	juif
-.i	PROind	un
-.	PONfrt	.
-
-poi	ADVgen	peu
+juif	NOMcom	juif
+un	DETndf	un
+poi	PROind	peu
 par	PRE	par
 de	PRE	de
 derrier	ADVgen	derrier
@@ -6504,9 +7208,8 @@ si	ADVgen	si
 droit	ADVgen	droit
 qu'	CONsub	que
 a	PRE	a
-souhaitier	VERinf	sohaitier
-.	PONfrt	.
-
+souhaitier	NOMcom	sohaitier
+,	PONfbl	,
 Li	PROper	il
 fist	VERcjg	faire
 Robert	NOMpro	Robert
@@ -6517,6 +7220,8 @@ trou	NOMcom	tron
 du	PRE.DETdef	de.le
 cul	NOMcom	cul
 baisier	VERinf	baiser
+.	PONfrt	.
+
 Lors	ADVgen	lors
 pristrent	VERcjg	prendre
 fort	ADVgen	fort
@@ -6527,13 +7232,12 @@ duc	NOMcom	duc
 et	CONcoo	et
 li	DETdef	le
 princier	NOMcom	princier
+;	PONfbl	;
 Mais	CONcoo	mais
 le	DETdef	le
-Juys	NOMpro	Juif
+juys	NOMcom	juif
 en	PROadv	en
 ot	VERcjg	avoir
-.	PONfrt	.
-
 en	PRE	en
 son	DETpos	son
 cuer	NOMcom	cuer
@@ -6549,6 +7253,7 @@ aler	VERinf	aler
 maintenant	ADVgen	maintenant
 sanz	PRE	sans
 respit	NOMcom	respit
+,	PONfbl	,
 Quanqu'	PROrel	cant
 avoit	VERcjg	avoir
 sus	PRE	sus
@@ -6558,20 +7263,24 @@ tantost	ADVgen	tantôt
 par	PRE	par
 terre	NOMcom	terre
 mist	VERcjg	mettre
+.	PONfrt	.
+
 Par	PRE	par
 amours	NOMcom	amour
+,	PONfbl	,
 bonne	ADJqua	bon
 gent	NOMcom	gent
-oez	NOMcom	œil
+,	PONfbl	,
+oez	VERcjg	öir
 que	PROrel	que
 Robert	NOMpro	Robert
 fist	VERcjg	faire
+!	PONfrt	!
+
 Il	PROper	il
 vit	VERcjg	vëoir
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 matin	NOMcom	matin
 c'	PROrel	que
 on	PROind	on
@@ -6579,14 +7288,16 @@ menoit	VERcjg	mener
 espouser	VERinf	esposer
 Une	DETndf	un
 jone	ADJqua	jeune
-Juyve	NOMpro	Juive
-;	PONfbl	;
+juÿve	NOMcom	juive
+,	PONfbl	,
 c'	PROrel	que
 on	PROind	on
 ot	VERcjg	avoir
 bien	ADVgen	bien
 fait	VERppe	faire
 parer	VERinf	parer
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 la	PROper	il
 courut	VERcjg	courir
@@ -6606,14 +7317,18 @@ il	PROper	il
 pot	VERcjg	pöoir
 onques	ADVgen	onque
 trouver	VERinf	trouver
+.	PONfrt	.
+
 Puis	ADVgen	puis
 s'	PROper	soi
 en	PROadv	en
 couru	VERcjg	courir
 Robert	NOMpro	Robert
+,	PONfbl	,
 sa	DETpos	son
 macue	NOMcom	macue
 levee	VERppe	lever
+,	PONfbl	,
 Ou	PROrel	où
 il	PROper	il
 sot	VERcjg	savoir
@@ -6623,9 +7338,8 @@ avoit	VERcjg	avoir
 leur	DETpos	leur
 cuisine	NOMcom	cuisine
 atournee	VERppe	atourner
-.I	PROcar	un
-.	PONfrt	.
-
+;	PONfbl	;
+Un	DETndf	un
 chat	NOMcom	chat
 bouta	VERcjg	bouter
 tout	ADVgen	tout
@@ -6634,10 +7348,13 @@ boullir	VERinf	bouillir
 en	PRE	en
 leur	DETpos	leur
 poree	NOMcom	poree
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 le	PROper	il
 sot	VERcjg	savoir
+;	PONfbl	;
 si	ADVgen	si
 en	PROadv	en
 fist	VERcjg	faire
@@ -6650,22 +7367,27 @@ temps	NOMcom	temps
 hanta	VERcjg	hanter
 a	PRE	a
 Romme	NOMpro	Rome
-robert	NOMcom	robert
+Robert	NOMpro	Robert
+,	PONfbl	,
 c'	PROrel	que
 on	PROind	on
 tint	VERcjg	tenir
 pour	PRE	pour
 sot	ADJqua	sot
+.	PONfrt	.
+
 Onques	ADVgen	onque
 ne	ADVneg	ne
 but	VERcjg	boivre
 de	PRE	de
 vin	NOMcom	vin
+,	PONfbl	,
 ne	CONcoo	ne
 n'	ADVneg	ne
 osa	VERcjg	oser
 parler	VERinf	parler
 mot	NOMcom	mot
+,	PONfbl	,
 Ne	CONcoo	ne
 ne	ADVneg	ne
 menga	VERcjg	manger
@@ -6677,18 +7399,21 @@ chienz	NOMcom	chient
 tolier	VERinf	toliier
 nel	ADVneg.PROper	ne
 pot	VERcjg	pöoir
+,	PONfbl	,
 Ne	CONcoo	ne
 ne	ADVneg	ne
 gisoit	VERcjg	jesir
-qu'	CONsub	que
+qu'	ADVgen	que
 au	PRE.DETdef	a
 fuerre	NOMcom	fuerre
-mais	ADVgen	mais
+;	PONfbl	;
+mais	CONcoo	mais
 puis	ADVgen	puis
 quant	CONsub	cant
 a	PRE	a
 Diex	NOMpro	Dieu
 plot	VERcjg	plaire
+,	PONfbl	,
 Remonta	VERcjg	remonter
 en	PRE	en
 hautesce	NOMcom	hautece
@@ -6701,25 +7426,31 @@ tenus	VERppe	tenir
 
 Douce	ADJqua	douz
 gent	NOMcom	gent
+,	PONfbl	,
 entendez	VERcjg	entendre
 pour	PRE	pour
 Diex	NOMpro	Dieu
 qui	PROrel	que
 est	VERcjg	estre
 lassus	ADVgen	lassus
-S'	CONsub	se
-orrez	NOMcom	oré
+,	PONfbl	,
+S'	ADVgen	si
+orrez	VERcjg	ouïr
 par	PRE	par
 quel	DETrel	quel
 maniere	NOMcom	manière
 robert	VERppe	robert
 fu	VERcjg	estre
 absolus	VERppe	absoudre
+.	PONfrt	.
+
 Huimais	ADVgen	ui
 porrez	VERcjg	pöoir
-oir	NOMcom	hoir
-gracieuses	ADJqua	gracïos
+oïr	VERinf	öir
+gracïeuses	ADJqua	gracïos
 vertus	NOMcom	vertu
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 de	PRE	de
@@ -6733,10 +7464,12 @@ Ot	VERcjg	avoir
 une	DETndf	un
 jone	ADJqua	jeune
 fille	NOMcom	fille
+,	PONfbl	,
 qui	PROrel	que
 parler	VERinf	parler
 ne	ADVneg	ne
 pooit	VERcjg	pöoir
+;	PONfbl	;
 Le	DETdef	le
 seneschal	NOMcom	seneschal
 de	PRE	de
@@ -6747,6 +7480,7 @@ son	DETpos	son
 cuer	NOMcom	cuer
 l'	PROper	il
 amoit	VERcjg	amer
+,	PONfbl	,
 Par	PRE	par
 li	PROper	il
 et	CONcoo	et
@@ -6757,6 +7491,7 @@ moult	ADVgen	moult
 requise	VERppe	requerre
 l'	PROper	il
 avoit	VERcjg	avoir
+;	PONfbl	;
 Mais	CONcoo	mais
 onques	ADVgen	onque
 l'	DETdef	le
@@ -6765,6 +7500,8 @@ ne	ADVneg	ne
 li	PROper	il
 vout	VERcjg	voloir
 otroier	VERinf	otroiier
+.	PONfrt	.
+
 Lors	ADVgen	lors
 fist	VERcjg	faire
 le	DETdef	le
@@ -6772,6 +7509,8 @@ seneschal	NOMcom	seneschal
 ses	DETpos	son
 chastiaus	NOMcom	château
 enforcier	VERinf	enforcier
+.	PONfrt	.
+
 Bien	ADVgen	bien
 cuida	VERcjg	cuidier
 l'	DETdef	le
@@ -6779,23 +7518,21 @@ emperere	NOMcom	empereur
 grever	VERinf	grever
 et	CONcoo	et
 essillier	VERinf	essillier
+.	PONfrt	.
+
 Mais	CONcoo	mais
 ne	ADVneg	ne
 demoura	VERcjg	demeurer
 pas	ADVneg	pas
 je	PROper	je
 cuit	VERcjg	cuidier
-.i	PROcar	un
-.	PONfrt	.
-
-an	PRE	en
+un	DETndf	un
+an	NOMcom	an
 entier	ADJqua	entier
 Que	CONsub	que
-.vi	PROcar	six
-.	PONfrt	.
-
+six	DETcar	six
 roys	NOMcom	roi
-sarrazins	ADJqua	sarrasin
+Sarrazins	NOMpro	Sarrasin
 et	CONcoo	et
 toute	DETind	tout
 leur	DETpos	leur
@@ -6808,15 +7545,19 @@ l'	PROper	il
 ont	VERcjg	avoir
 toute	ADVgen	tout
 essillie	VERppe	essillir
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
-le	DETdef	le
-sot	NOMcom	sot
-s'	PROper	soi
+le	PROper	il
+sot	VERcjg	savoir
+,	PONfbl	,
+s'	ADVgen	si
 en	PROadv	en
 fist	VERcjg	faire
 chiere	ADJqua	chier
 marie	NOMcom	marie
+,	PONfbl	,
 Mais	CONcoo	mais
 non	ADVneg	non
 pour	PRE	pour
@@ -6826,34 +7567,40 @@ dist	VERcjg	dire
 a	PRE	a
 sa	DETpos	son
 chevalerie	NOMcom	chevalerie
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 vous	PROper	vous
 pri	VERcjg	priier
+,	PONfbl	,
 biax	ADJqua	bel
 seignors	NOMcom	seignor
+,	PONfbl	,
 que	CONsub	que
 nous	PROper	nous
 nous	PROper	nous
 ensaions	VERcjg	ensavoir
+,	PONfbl	,
 Contre	PRE	contre
 ces	DETdem	ce
-Sarrazins	NOMpro	Sarrasin
+sarrazins	NOMcom	sarrasin
 nostre	DETpos	notre
 droit	NOMcom	droit
-deffendons	NOMcom	défendon
+deffendons	VERcjg	défendre
+.	PONfbl	.
 ”	PONpdr	”
 Et	CONcoo	et
 il	PROper	il
 li	PROper	il
 respondirent	VERcjg	répondre
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 bien	ADVgen	bien
 le	PROper	il
 voulons	VERcjg	vouloir
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 s'	PROper	soi
@@ -6863,6 +7610,8 @@ sanz	PRE	sans
 point	NOMcom	point
 d'	PRE	de
 arrestoison	NOMcom	arrestoison
+.	PONfrt	.
+
 De	PRE	de
 Romme	NOMpro	Rome
 s'	PROper	soi
@@ -6871,13 +7620,15 @@ issirent	VERcjg	issir
 pour	PRE	pour
 commencier	VERinf	commencer
 mellee	NOMcom	mêlée
+;	PONfbl	;
 Mais	CONcoo	mais
-mescheu	VERppe	meschoir
+mescheü	VERppe	meschëoir
 leur	PROper	leur
 fust	VERcjg	estre
-briement	ADVgen	briément
+griement	ADVgen	grièvement
 celle	DETdem	cil
 journee	NOMcom	journée
+,	PONfbl	,
 Se	CONsub	se
 ne	ADVneg	ne
 fust	VERcjg	estre
@@ -6888,6 +7639,7 @@ Vierge	NOMcom	vierge
 honnouree	VERppe	honorer
 Et	CONcoo	et
 Robert	NOMpro	Robert
+,	PONfbl	,
 c'	PROrel	que
 on	PROind	on
 tenoit	VERcjg	tenir
@@ -6896,6 +7648,8 @@ fol	ADJqua	fol
 en	PRE	en
 la	DETdef	le
 contree	NOMcom	contree
+.	PONfrt	.
+
 Cel	DETdem	cil
 jour	NOMcom	jour
 estoit	VERcjg	estre
@@ -6905,6 +7659,7 @@ boire	VERinf	boire
 a	PRE	a
 la	DETdef	le
 fontaine	NOMcom	fontaine
+,	PONfbl	,
 Mais	CONcoo	mais
 une	DETndf	un
 vois	NOMcom	voix
@@ -6915,6 +7670,7 @@ que	CONsub	que
 seraine	NOMcom	sereine
 Qui	PROrel	que
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Pren	VERcjg	prendre
 cest	DETdem	cest
@@ -6924,6 +7680,7 @@ je	PROper	je
 yci	ADVgen	ici
 t'	PROper	tu
 amainne	VERcjg	amener
+,	PONfbl	,
 Et	CONcoo	et
 si	ADVgen	si
 t'	PROper	tu
@@ -6935,17 +7692,20 @@ sont	VERcjg	estre
 blanches	ADJqua	blanc
 com	CONsub	come
 laine	NOMcom	laine
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 n'	ADVneg	ne
 osa	VERcjg	oser
 parler	VERinf	parler
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 sus	PRE	sus
 li	PROper	il
 la	DETdef	le
 croiz	NOMcom	croix
 fist	VERcjg	faire
+;	PONfbl	;
 Lors	ADVgen	lors
 vint	VERcjg	venir
 aus	PRE.DETdef	à.le
@@ -6956,24 +7716,28 @@ s'	PROper	soi
 arma	VERcjg	armer
 sanz	PRE	sans
 respit	NOMcom	respit
+,	PONfbl	,
 Puis	ADVgen	puis
 monta	VERcjg	monter
 el	PRE.DETdef	en
 destrier	NOMcom	destrier
+,	PONfbl	,
 escu	NOMcom	escu
 et	CONcoo	et
 lance	NOMcom	lance
 prist	VERcjg	prendre
+.	PONfrt	.
+
 La	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
 emperere	NOMcom	empereur
-.	PONfrt	.
-
 toute	DETind	tout
 la	DETdef	le
 chose	NOMcom	chose
 vit	VERcjg	vëoir
+.	PONfrt	.
+
 Mais	CONcoo	mais
 Robert	NOMpro	Robert
 ne	ADVneg	ne
@@ -6993,6 +7757,8 @@ touz	DETind	tous
 poins	NOMcom	poing
 le	DETdef	le
 meillour	ADJqua	meilleur
+.	PONfrt	.
+
 Il	PROper	il
 s'	PROper	soi
 embati	VERcjg	embattre
@@ -7008,11 +7774,13 @@ il	PROper	il
 les	PROper	il
 en	PROadv	en
 fist	VERcjg	faire
-fuir	VERinf	fuir
+fuïr	VERinf	fuir
 et	CONcoo	et
 morir	VERinf	morir
 a	PRE	a
 dolour	NOMcom	douleur
+.	PONfrt	.
+
 Et	CONcoo	et
 lors	ADVgen	lors
 vers	PRE	vers
@@ -7022,6 +7790,7 @@ robert	VERppe	robert
 s'	PROper	soi
 en	PROadv	en
 retourna	VERcjg	retourner
+;	PONfbl	;
 Dessus	PRE	dessus
 le	DETdef	le
 cheval	NOMcom	cheval
@@ -7029,9 +7798,10 @@ blanc	ADJqua	blanc
 les	DETdef	le
 armes	NOMcom	arme
 retroussa	VERcjg	retrousser
+;	PONfbl	;
 Errant	ADVgen	errant
-s'	DETpos	son
-esvanoy	NOMcom	esvanoi
+s'	PROper	soi
+esvanoÿ	VERcjg	esvanoir
 et	CONcoo	et
 Robert	NOMpro	Robert
 demoura	VERcjg	demeurer
@@ -7041,7 +7811,6 @@ La	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
 emperere	NOMcom	empereur
-;	PONfbl	;
 tout	DETind	tout
 le	DETdef	le
 fait	NOMcom	fait
@@ -7056,17 +7825,20 @@ jour	NOMcom	jour
 maint	DETind	maint
 Sarrazin	NOMpro	Sarrasin
 tué	VERppe	tüer
+,	PONfbl	,
 Estoit	VERcjg	estre
 par	PRE	par
 le	DETdef	le
 visage	NOMcom	visage
 forment	ADVgen	fortement
 esgratiné	VERppe	esgratiner
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 de	PRE	de
 Romme	NOMpro	Rome
-a	PRE	a
+a	VERcjg	avoir
 Jhesucrist	NOMpro	Jésus-Christ
 loé	VERppe	löer
 Pour	PRE	pour
@@ -7076,44 +7848,58 @@ li	DETdef	le
 paien	NOMcom	païen
 furent	VERcjg	estre
 desbareté	VERppe	desbarater
-S'	CONsub	se
+.	PONfrt	.
+
+S'	ADVgen	si
 ot	VERcjg	avoir
 grant	ADJqua	grant
-avoir	NOMcom	avoir
+avoir	VERinf	avoir
 conquis	VERppe	conquerre
-le	DETdef	le
+.	PONfrt	.
+
+Le	DETdef	le
 soir	NOMcom	soir
 quant	CONsub	cant
 on	PROind	on
 soupa	VERcjg	souper
-Vint	DETcar	vingt
+,	PONfbl	,
+Vint	VERcjg	venir
 Robert	NOMpro	Robert
 en	PRE	en
 la	DETdef	le
 sale	NOMcom	sale
-le	DETdef	le
+.	PONfrt	.
+
+Le	DETdef	le
 roy	NOMcom	roi
 le	PROper	il
-regarda	NOMcom	regarde
+regarda	VERcjg	regarder
+.	PONfrt	.
+
 Esgratiné	VERppe	esgratiner
-le	DETdef	le
-vit	NOMcom	vit
+le	PROper	il
+vit	VERcjg	vëoir
+,	PONfbl	,
 forment	ADVgen	fortement
 li	PROper	il
 em	PROadv	en
 pesa	VERcjg	peser
+.	PONfrt	.
+
 Puis	ADVgen	puis
-dist	DETcar	dix
+dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Foi	NOMcom	foi
 qu'	PROrel	que
 a	PRE	a
 Dieu	NOMpro	Dieu
 doi	VERcjg	devoir
+,	PONfbl	,
 ceens	ADVgen	ciens
 fausse	ADJqua	faus
 gent	NOMcom	gent
-a	PRE	a
+a.	PRE	a
 En	PRE	en
 tant	ADVgen	tant
 qu'	CONsub	que
@@ -7132,6 +7918,7 @@ laz	NOMcom	laz
 chetif	ADJqua	chétif
 de	PRE	de
 cors	NOMcom	corps
+;	PONfbl	;
 A	PRE	a
 ame	NOMcom	ame
 ne	ADVneg	ne
@@ -7144,6 +7931,7 @@ s'	CONsub	se
 il	PROper	il
 fust	VERcjg	estre
 mors	VERppe	mourir
+,	PONfbl	,
 Il	PROper	il
 est	VERcjg	estre
 fol	ADJqua	fol
@@ -7155,25 +7943,27 @@ qu'	CONsub	que
 il	PROper	il
 soit	VERcjg	estre
 fors	ADVgen	fors
+.	PONfbl	.
 ”	PONpdr	”
 Un	DETndf	un
 autre	ADJind	autre
 chevalier	NOMcom	chevalier
-.	PONfrt	.
-
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 ne	ADVneg	ne
 vous	PROper	vous
 chaille	VERcjg	chaloir
+;	PONfbl	;
 Hui	ADVgen	ui
 fait	VERppe	faire
 avons	VERcjg	avoir
 la	ADVgen	là
 hors	ADVgen	hors
 sus	PRE	sus
-Paiens	NOMpro	Païen
+paiens	NOMcom	païen
 la	DETdef	le
 bataille	NOMcom	bataille
 Et	CONcoo	et
@@ -7186,17 +7976,21 @@ caiens	NOMcom	chaien
 o	PRE	o
 la	DETdef	le
 merdaille	NOMcom	merdaille
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 roy	NOMcom	roi
 li	PROper	il
 respondi	VERcjg	répondre
+:	PONfbl	:
 “	PONpga	“
 Par	PRE	par
 foy	NOMcom	foi
+,	PONfbl	,
 vaille	VERcjg	valoir
-que	CONsub	que
+que	PROrel	que
 vaille	VERcjg	valoir
+,	PONfbl	,
 Se	CONsub	se
 je	PROper	je
 le	PROper	il
@@ -7207,6 +8001,8 @@ bien	ADVgen	bien
 l'en	PROind	loin
 ferai	VERcjg	faire
 vengier	VERinf	venger
+.	PONfrt	.
+
 Mais	CONcoo	mais
 me	PROper	je
 saroit	VERcjg	savoir
@@ -7223,11 +8019,12 @@ au	PRE.DETdef	a
 jour	NOMcom	jour
 d'	PRE	de
 ui	ADVgen	ui
-;	PONfbl	;
 si	ADVgen	si
 bien	ADVgen	bien
 venu	VERppe	venir
 aidier	VERinf	aidier
+?	PONfrt	?
+
 ”	PONpdr	”
 Et	CONcoo	et
 lors	ADVgen	lors
@@ -7240,6 +8037,8 @@ de	PRE	de
 son	DETpos	son
 pere	NOMcom	père
 aprochier	VERinf	aprochier
+.	PONfrt	.
+
 Si	ADVgen	si
 li	PROper	il
 moustroit	VERcjg	montrer
@@ -7249,6 +8048,7 @@ que	PROrel	que
 ne	ADVneg	ne
 povoit	VERcjg	pouvoir
 parler	VERinf	parler
+;	PONfbl	;
 Mais	CONcoo	mais
 ne	ADVneg	ne
 sot	VERcjg	savoir
@@ -7257,6 +8057,8 @@ emperere	NOMcom	empereur
 ses	DETpos	son
 signes	NOMcom	signe
 aviser	VERinf	aviser
+.	PONfrt	.
+
 Lors	ADVgen	lors
 fist	VERcjg	faire
 a	PRE	a
@@ -7265,7 +8067,7 @@ maistresse	NOMcom	maître
 en	PRE	en
 haste	NOMcom	haste
 demander	VERinf	demander
-Que	CONsub	que
+Que	PROrel	que
 c'	PROdem	ce
 estoit	VERcjg	estre
 que	CONsub	que
@@ -7274,11 +8076,15 @@ fille	NOMcom	fille
 li	PROper	il
 vouloit	VERcjg	vouloir
 demoustrer	VERinf	démontrer
+.	PONfrt	.
+
 Sa	DETpos	son
 maistresse	NOMcom	maître
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 faire	VERinf	faire
 veult	VERcjg	vouloir
 demoustrance	NOMcom	démontrance
@@ -7302,6 +8108,7 @@ escu	NOMcom	escu
 et	CONcoo	et
 a	PRE	a
 lance	NOMcom	lance
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Pour	PRE	pour
@@ -7309,13 +8116,17 @@ tant	ADVgen	tant
 vous	PROper	vous
 envoit	VERcjg	envoyer
 Diex	NOMpro	Dieu
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 le	DETdef	le
 roy	NOMcom	roi
+,	PONfbl	,
 “	PONpga	“
-Grant	ADJqua	grant
+grant	ADJqua	grant
 meschance	NOMcom	meschance
+.	PONfrt	.
+
 Enseignier	VERinf	enseignier
 la	PROper	il
 devez	VERcjg	devoir
@@ -7326,14 +8137,16 @@ afolez	VERcjg	afoler
 toute	PROind	tout
 .	PONfrt	.
 
-Comment	ADVsub	comment
+Comment	ADVint	comment
 tendroit	VERcjg	tenir
-ce	DETdem	ce
+ce	PROdem	ce
 fol	ADJqua	fol
 de	PRE	de
 chevaliers	NOMcom	chevalier
 la	DETdef	le
 route	NOMcom	rompre
+?	PONfrt	?
+
 Ne	CONcoo	ne
 il	PROper	il
 n'	ADVneg	ne
@@ -7341,19 +8154,24 @@ avroit	VERcjg	avoir
 cheval	NOMcom	cheval
 ne	CONcoo	ne
 armes	NOMcom	arme
+,	PONfbl	,
 c'	PROdem	ce
 est	VERcjg	estre
 sanz	PRE	sans
 doute	NOMcom	doute
+.	PONfbl	.
 ”	PONpdr	”
 La	DETdef	le
 pucelle	NOMcom	pucelle
-se	CONsub	se
-tut	ADVgen	tout
+se	PROper	soi
+tut	VERcjg	taire
+,	PONfbl	,
 car	CONcoo	car
 son	DETpos	son
 pere	NOMcom	père
 redoute	VERcjg	redouter
+.	PONfrt	.
+
 La	DETdef	le
 chose	NOMcom	chose
 demoura	VERcjg	demeurer
@@ -7368,15 +8186,19 @@ o	PRE	o
 empire	NOMcom	empire
 moult	ADVgen	moult
 grant	ADJqua	grant
+.	PONfrt	.
+
 Li	DETdef	le
 Rommain	NOMpro	Romain
 s'	PROper	soi
 en	PROadv	en
 issirent	VERcjg	issir
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 mors	VERppe	mourir
 fussent	VERcjg	estre
 errant	VERppa	errer
+,	PONfbl	,
 Quant	CONsub	quand
 le	DETdef	le
 blanc	ADJqua	blanc
@@ -7385,16 +8207,16 @@ y	PROadv	y
 vint	VERcjg	venir
 comme	CONsub	comme
 devant	ADVgen	devant
+.	PONfrt	.
+
 Mais	CONcoo	mais
 onques	ADVgen	onque
 ne	ADVneg	ne
 pot	VERcjg	pöoir
 estre	VERinf	estre
-parceu	VERppe	percevoir
+parceü	VERppe	percevoir
 n'	CONcoo	ne
 avisé	VERppe	aviser
-.	PONfrt	.
-
 Quelle	DETrel	quel
 part	NOMcom	part
 il	PROper	il
@@ -7404,11 +8226,13 @@ le	DETdef	le
 champ	NOMcom	champ
 fu	VERcjg	estre
 finé	VERppe	finer
+,	PONfbl	,
 Fors	ADVgen	fors
 sanz	PRE	sans
 plus	ADVgen	plus
 la	DETdef	le
 pucelle	NOMcom	pucelle
+,	PONfbl	,
 qui	PROrel	que
 ot	VERcjg	avoir
 bien	ADVgen	bien
@@ -7420,6 +8244,8 @@ et	CONcoo	et
 comment	ADVsub	comment
 fu	VERcjg	estre
 armé	VERppe	armer
+.	PONfrt	.
+
 Jusqu'	PRE	jusque
 a	PRE	a
 la	DETdef	le
@@ -7428,13 +8254,15 @@ anee	NOMcom	anee
 la	DETdef	le
 chose	NOMcom	chose
 demoura	VERcjg	demeurer
-Que	PROrel	que
+,	PONfbl	,
+Que	CONsub	que
 l'	DETdef	le
 ost	NOMcom	ost
 des	PRE.DETdef	de.le
 Sarrazins	NOMpro	Sarrasin
 arriere	ADVgen	ariere
 retourna	VERcjg	retourner
+,	PONfbl	,
 L'	DETdef	le
 emperere	NOMcom	empereur
 de	PRE	de
@@ -7442,16 +8270,20 @@ Romme	NOMpro	Rome
 ses	DETpos	son
 chevaliers	NOMcom	chevalier
 manda	VERcjg	mander
+,	PONfbl	,
 Puis	ADVgen	puis
 leur	PROper	leur
 a	VERcjg	avoir
 dit	VERppe	dire
+:	PONfbl	:
 “	PONpga	“
 Seigneur	NOMcom	seigneur
+,	PONfbl	,
 pour	PRE	pour
 Dieu	NOMpro	Dieu
 entendez	VERcjg	entendre
 ca	ADVgen	ça
+:	PONfbl	:
 Il	PROimp	il
 nous	PROper	nous
 faudra	VERcjg	faillir
@@ -7461,9 +8293,12 @@ la	DETdef	le
 gent	NOMcom	gent
 l'	DETdef	le
 aversier	NOMcom	aversier
+.	PONfrt	.
+
 Je	PROper	je
 vous	PROper	vous
 pri	VERcjg	priier
+,	PONfbl	,
 s'	CONsub	se
 au	PRE.DETdef	a
 secours	NOMcom	secours
@@ -7471,7 +8306,8 @@ vient	VERcjg	venir
 le	DETdef	le
 blanc	ADJqua	blanc
 chevalier	NOMcom	chevalier
-Qu'	PROrel	que
+,	PONfbl	,
+Qu'	CONsub	que
 en	PRE	en
 agait	NOMcom	agait
 vous	PROper	vous
@@ -7488,6 +8324,7 @@ il	PROper	il
 ne	ADVneg	ne
 puist	VERcjg	pouvoir
 retourner	VERinf	retourner
+.	PONfbl	.
 ”	PONpdr	”
 A	PRE	a
 ce	DETdem	ce
@@ -7500,16 +8337,14 @@ Romme	NOMpro	Rome
 s'	PROper	soi
 en	PROadv	en
 issirent	VERcjg	issir
-.XV	PROcar	quinze
 .	PONfrt	.
 
+Quinze	PROcar	quinze
 des	PRE.DETdef	de.le
 miex	ADVgen	mieux
 montez	VERppe	monter
 en	PRE	en
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 agait	NOMcom	agait
 se	PROper	soi
 mirent	VERcjg	mettre
@@ -7519,9 +8354,11 @@ autres	PROind	autre
 de	PRE	de
 front	NOMcom	front
 es	PRE.DETdef	en.le
-Paiens	NOMcom	païen
+paiens	NOMcom	païen
 se	PROper	soi
 ferirent	VERcjg	ferir
+.	PONfrt	.
+
 Puis	ADVgen	puis
 ne	ADVneg	ne
 demoura	VERcjg	demeurer
@@ -7540,8 +8377,10 @@ s'	ADVgen	si
 avoit	VERcjg	avoir
 destrier	NOMcom	destrier
 blanc	ADJqua	blanc
+.	PONfrt	.
+
 Es	PRE.DETdef	en
-Paiens	NOMcom	païen
+paiens	NOMcom	païen
 se	PROper	soi
 feri	VERcjg	ferir
 et	CONcoo	et
@@ -7550,10 +8389,12 @@ tout	ADVgen	tout
 nu	ADJqua	nu
 le	DETdef	le
 branc	NOMcom	brant
+.	PONfrt	.
+
 A	PRE	a
 l'	DETdef	le
 un	ADJind	un
-coupe	NOMcom	coupe
+coupe	VERcjg	couper
 la	DETdef	le
 teste	NOMcom	teste
 et	CONcoo	et
@@ -7562,17 +8403,21 @@ l'	DETdef	le
 autre	PROind	autre
 le	DETdef	le
 flanc	NOMcom	flanc
+.	PONfrt	.
+
 De	PRE	de
 quelle	DETrel	quel
 part	NOMcom	part
 qu'	PROrel	que
 il	PROper	il
 tourne	VERcjg	tourner
-fait	VERppe	faire
+fait	VERcjg	faire
 tout	PROind	tout
 couvrir	VERinf	couvrir
 de	PRE	de
 sanc	NOMcom	sanc
+.	PONfrt	.
+
 Tantost	ADVgen	tantost
 fu	VERcjg	estre
 desconfite	VERppe	desconfire
@@ -7580,6 +8425,8 @@ la	DETdef	le
 fausse	ADJqua	faus
 gent	NOMcom	gent
 vilainne	ADJqua	vilain
+.	PONfrt	.
+
 Le	DETdef	le
 blanc	ADJqua	blanc
 chevalier	NOMcom	chevalier
@@ -7588,11 +8435,10 @@ raler	VERinf	raler
 vers	PRE	vers
 la	DETdef	le
 fontaine	NOMcom	fontaine
+,	PONfbl	,
 Quant	CONsub	quand
 les	DETdef	le
-.xv	PROcar	quinze
-.	PONfrt	.
-
+quinze	ADJcar	quinze
 Rommains	NOMpro	Romain
 qui	PROrel	que
 furent	VERcjg	estre
@@ -7601,23 +8447,27 @@ la	DETdef	le
 plaine	NOMcom	plaine
 Li	PROper	il
 escrierent	VERcjg	écrier
+:	PONfbl	:
 “	PONpga	“
 Maistre	NOMcom	maître
+,	PONfbl	,
 tyrez	VERcjg	tirer
 a	PRE	a
 vous	PROper	vous
 vo	DETpos	votre
 rene	NOMcom	rêne
+,	PONfbl	,
 Et	CONcoo	et
 dites	VERcjg	dire
 qui	PROrel	que
 vous	PROper	vous
 estes	VERcjg	estre
-ne	CONcoo	ne
+ne	ADVneg	ne
 de	PRE	de
 con	ADVsub	come
 fait	VERcjg	faire
-pais	NOMcom	paix
+païs	NOMcom	päis
+.	PONfbl	.
 ”	PONpdr	”
 Quant	CONsub	quand
 Robert	NOMpro	Robert
@@ -7627,24 +8477,23 @@ il	PROper	il
 fu	VERcjg	estre
 touz	ADVgen	tout
 esbahis	VERppe	ébahir
+,	PONfbl	,
 Il	PROper	il
 brocha	VERcjg	brocher
 au	PRE.DETdef	a
 travers	NOMcom	travers
 contremont	ADVgen	contremont
-.i	PROind	un
-.	PONfrt	.
-
+un	DETndf	un
 larris	NOMcom	larris
+;	PONfbl	;
 A	PRE	a
 touz	PROind	tous
 leur	PROper	leur
 eschapa	VERcjg	eschaper
 qu'	CONsub	que
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	PROind	un
+,	PONfbl	,
 qui	PROrel	que
 fu	VERcjg	estre
 hastis	VERppe	hâtir
@@ -7658,8 +8507,7 @@ le	PROper	il
 sui	VERcjg	estre
 et	CONcoo	et
 hasta	VERcjg	haster
-.	PONfrt	.
-
+,	PONfbl	,
 Que	CONsub	que
 le	DETdef	le
 fer	NOMcom	fer
@@ -7670,20 +8518,26 @@ en	PRE	en
 sa	DETpos	son
 cuisse	NOMcom	cuisse
 laissa	VERcjg	laisser
-Non	NOMcom	nom
+.	PONfrt	.
+
+Non	ADVneg	non
 pourquant	ADVgen	pourquant
 au	PRE.DETdef	a
 derrier	NOMcom	derrier
 robert	VERppe	robert
 leur	PROper	leur
 eschapa	VERcjg	eschaper
+,	PONfbl	,
 A	PRE	a
 la	DETdef	le
 fontaine	NOMcom	fontaine
-vint	DETcar	vingt
+vint	VERcjg	venir
+,	PONfbl	,
 errant	VERppa	errer
 se	PROper	soi
 desarma	VERcjg	desarmer
+.	PONfrt	.
+
 Les	DETdef	le
 armeures	NOMcom	armure
 blanches	ADJqua	blanc
@@ -7692,6 +8546,8 @@ sus	PRE	sus
 le	DETdef	le
 blanc	ADJqua	blanc
 cheval	NOMcom	cheval
+.	PONfrt	.
+
 Lors	ADVgen	lors
 ne	ADVneg	ne
 sot	VERcjg	savoir
@@ -7701,8 +8557,11 @@ tourna	VERcjg	tourner
 ou	CONcoo	o
 amont	ADVgen	amont
 ou	CONcoo	o
-aval	PRE	aval
+aval	ADVgen	aval
+.	PONfrt	.
+
 Robert	NOMpro	Robert
+,	PONfbl	,
 qui	PROrel	que
 ot	VERcjg	avoir
 vers	PRE	vers
@@ -7712,6 +8571,7 @@ cuer	NOMcom	cuer
 bon	ADJqua	bon
 et	CONcoo	et
 loial	ADJqua	loyal
+,	PONfbl	,
 Trait	VERcjg	traire
 le	DETdef	le
 fer	NOMcom	fer
@@ -7726,41 +8586,46 @@ mal	NOMcom	mal
 .	PONfrt	.
 
 Entre	PRE	entre
-.ii	PROcar	deus
-.	PONfrt	.
-
+deus	DETcar	deux
 pierres	NOMcom	piere
 mist	VERcjg	mettre
 le	DETdef	le
 fer	NOMcom	fer
 sanz	PRE	sans
 demouree	NOMcom	demeurée
+.	PONfrt	.
+
 Herbe	NOMcom	herbe
-cueilli	VERppe	cueillir
+cueilli	VERcjg	cueillir
 et	CONcoo	et
 mousse	VERcjg	mouvoir
-s'	CONsub	se
-a	PRE	a
+s'	PROper	soi
+a	VERcjg	avoir
 sa	DETpos	son
 plaie	NOMcom	plaie
 temptee	VERppe	tenter
+.	PONfrt	.
+
 La	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
 emperere	NOMcom	empereur
-a	PRE	a
+a	VERcjg	avoir
 moult	ADVgen	moult
 bien	ADVgen	bien
 regardee	VERppe	regarder
 Toute	DETind	tout
 sa	DETpos	son
 contenance	NOMcom	contenance
+,	PONfbl	,
 plus	ADVgen	plus
 l'	PROper	il
 amoit	VERcjg	amer
 que	CONsub	que
 riens	PROind	rien
 nee	VERppe	naistre
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 est	VERcjg	estre
 a	PRE	a
@@ -7769,6 +8634,8 @@ cour	NOMcom	cour
 tout	ADVgen	tout
 clochant	VERppa	clochier
 retourné	VERppe	retourner
+.	PONfrt	.
+
 Lors	ADVgen	lors
 vint	VERcjg	venir
 le	DETdef	le
@@ -7782,15 +8649,17 @@ fer	NOMcom	fer
 dedens	PRE	dedans
 sa	DETpos	son
 cuisse	NOMcom	cuisse
+,	PONfbl	,
 le	DETdef	le
 fust	NOMcom	fust
-a	PRE	a
+a	VERcjg	avoir
 raporté	VERppe	rapporter
 En	PRE	en
 quoi	PROrel	quoi
 le	DETdef	le
 fer	NOMcom	fer
 estoit	VERcjg	estre
+;	PONfbl	;
 puis	ADVgen	puis
 a	VERcjg	avoir
 au	PRE.DETdef	a
@@ -7805,6 +8674,7 @@ mist	VERcjg	mettre
 toute	DETind	tout
 sa	DETpos	son
 puissance	NOMcom	poissance
+,	PONfbl	,
 Et	CONcoo	et
 comment	ADVsub	comment
 en	PRE	en
@@ -7816,6 +8686,7 @@ fer	NOMcom	fer
 de	PRE	de
 sa	DETpos	son
 lance	NOMcom	lance
+:	PONfbl	:
 “	PONpga	“
 Je	PROper	je
 me	PROper	je
@@ -7827,14 +8698,17 @@ l'	PROper	il
 ai	VERcjg	avoir
 fait	VERppe	faire
 grevance	NOMcom	grevance
+,	PONfbl	,
 La	DETdef	le
 mere	NOMcom	mere
 Dieu	NOMpro	Dieu
-la	DETdef	le
-veille	ADJqua	vieux
+la	PROper	il
+veille	VERcjg	veillier
 deffendre	VERinf	défendre
 de	PRE	de
 meschance	NOMcom	meschance
+.	PONfrt	.
+
 Ne	ADVneg	ne
 sai	VERcjg	savoir
 se	CONsub	se
@@ -7842,19 +8716,18 @@ pooit	VERcjg	pöoir
 estre	VERinf	estre
 chose	NOMcom	chose
 esperituel	ADJqua	esperituel
-.	PONfrt	.
-
+;	PONfbl	;
 Mais	CONcoo	mais
 sachiez	VERcjg	savoir
 vraiement	ADVgen	vraiment
 que	CONsub	que
 c'	PROdem	ce
 est	VERcjg	estre
-.i	PROind	un
-.	PONfrt	.
-
+uns	DETndf	un
 homs	NOMcom	homme
 mortel	ADJqua	mortel
+.	PONfrt	.
+
 Je	PROper	je
 vous	PROper	vous
 dirai	VERcjg	dire
@@ -7865,6 +8738,7 @@ et	CONcoo	et
 bon	ADJqua	bon
 et	CONcoo	et
 bel	ADJqua	bel
+:	PONfbl	:
 Gardez	VERcjg	garder
 n'	ADVneg	ne
 ait	VERcjg	avoir
@@ -7891,6 +8765,7 @@ et	CONcoo	et
 blanc	ADJqua	blanc
 cheval	NOMcom	cheval
 avra	VERcjg	avoir
+,	PONfbl	,
 Pour	PRE	pour
 tant	ADVgen	tant
 qu'	CONsub	que
@@ -7901,8 +8776,7 @@ de	PRE	de
 celle	DETdem	cil
 lance	NOMcom	lance
 la	ADVgen	là
-.	PONfrt	.
-
+,	PONfbl	,
 Que	CONsub	que
 l'	DETdef	le
 une	PROind	un
@@ -7912,16 +8786,19 @@ de	PRE	de
 l'	DETdef	le
 empire	NOMcom	empire
 tendra	VERcjg	tenir
+,	PONfbl	,
 Et	CONcoo	et
 s'	ADVgen	si
 avra	VERcjg	avoir
 vostre	DETpos	vostre
 fille	NOMcom	fille
+,	PONfbl	,
 qui	PROrel	que
 est	VERcjg	estre
 belle	ADJqua	beau
 et	CONcoo	et
 parfaite	ADJqua	parfait
+,	PONfbl	,
 Mais	CONcoo	mais
 qu'	CONsub	que
 il	PROper	il
@@ -7934,11 +8811,13 @@ fer	NOMcom	fer
 li	PROper	il
 fu	VERcjg	estre
 faite	VERppe	faire
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 emperere	NOMcom	empereur
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Cest	DETdem	cest
 conseil	NOMcom	conseil
@@ -7968,15 +8847,18 @@ par	PRE	par
 tout	DETind	tout
 le	DETdef	le
 pays	NOMcom	pays
+.	PONfrt	.
+
 Le	DETdef	le
 senechal	NOMcom	seneschal
 le	PROper	il
 sot	VERcjg	savoir
-;	PONfbl	;
+,	PONfbl	,
 moult	ADVgen	moult
 en	PROadv	en
 fu	VERcjg	estre
 resjois	VERppe	réjouir
+,	PONfbl	,
 Que	CONsub	que
 il	PROper	il
 n'	ADVneg	ne
@@ -7988,17 +8870,19 @@ pou	ADVgen	peu
 n'	ADVneg	ne
 esragoit	VERcjg	esrager
 vis	ADJqua	vif
+.	PONfrt	.
+
 Bien	ADVgen	bien
 la	PROper	il
 cuida	VERcjg	cuidier
 avoir	VERinf	avoir
+,	PONfbl	,
 il	PROper	il
 fist	VERcjg	faire
 que	CONsub	que
 folz	ADJqua	foud
 nais	NOMcom	nai
-.	PONfrt	.
-
+,	PONfbl	,
 Que	CONsub	que
 Diex	NOMpro	Dieu
 l'	PROper	il
@@ -8010,7 +8894,8 @@ moult	ADVgen	moult
 lonc	ADJqua	lonc
 tans	NOMcom	tens
 lotie	VERppe	lotir
-Qu'	CONsub	que
+,	PONfbl	,
+Qu'	CONcoo	que
 en	PRE	en
 fait	NOMcom	fait
 d'	PRE	de
@@ -8019,27 +8904,28 @@ l'	PROper	il
 avoit	VERcjg	avoir
 loiaument	ADVgen	loyalement
 deservie	VERppe	desservir
+.	PONfrt	.
+
 Avec	PRE	avec
 le	DETdef	le
 chien	NOMcom	chien
 gisoit	VERcjg	jesir
+,	PONfbl	,
 qui	PROrel	que
 sa	DETpos	son
 plaie	NOMcom	plaie
 ot	VERcjg	avoir
 lechie	VERppe	lecher
-.	PONfrt	.
-
+;	PONfbl	;
 A	PRE	a
 avoir	VERinf	avoir
 la	DETdef	le
 pucelle	NOMcom	pucelle
-.	PONfrt	.
-
 certes	ADVgen	certes
 ne	ADVneg	ne
 pensoit	VERcjg	penser
 mie	ADVneg	mie
+,	PONfbl	,
 Ains	ADVgen	ains
 plouroit	VERcjg	pleurer
 tendrement	ADVgen	tendrement
@@ -8047,7 +8933,9 @@ la	DETdef	le
 nuit	NOMcom	nuit
 pour	PRE	pour
 ses	DETpos	son
-pechiez	NOMcom	pechié
+pechiez	VERppe	pechié
+.	PONfrt	.
+
 Le	DETdef	le
 seneschal	NOMcom	seneschal
 de	PRE	de
@@ -8057,6 +8945,7 @@ est	VERcjg	estre
 moult	ADVgen	moult
 tost	ADVgen	tost
 pourchaciez	VERppe	pourchasser
+;	PONfbl	;
 De	PRE	de
 blanc	ADJqua	blanc
 cheval	NOMcom	cheval
@@ -8066,20 +8955,22 @@ armes	NOMcom	arme
 bien	ADVgen	bien
 fu	VERcjg	estre
 appareilliez	VERppe	appareiller
+,	PONfbl	,
 L'	DETdef	le
 emperere	NOMcom	empereur
+,	PONfbl	,
 s'	CONsub	se
 il	PROper	il
 puet	VERcjg	pöoir
+,	PONfbl	,
 sera	VERcjg	estre
 bien	ADVgen	bien
 engingniez	VERppe	engignier
+,	PONfbl	,
 Qu'	CONsub	que
 il	PROper	il
 mist	VERcjg	mettre
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 fer	NOMcom	fer
 de	PRE	de
 glaive	NOMcom	glaive
@@ -8087,6 +8978,8 @@ en	PRE	en
 sa	DETpos	son
 cuisse	NOMcom	cuisse
 dedens	ADVgen	dedans
+.	PONfrt	.
+
 Tant	ADVgen	tant
 endura	VERcjg	endurer
 d'	PRE	de
@@ -8096,6 +8989,8 @@ il	PROper	il
 chay	VERcjg	choir
 aus	PRE.DETdef	à.le
 denz	NOMcom	dent
+.	PONfrt	.
+
 Lors	ADVgen	lors
 fist	VERcjg	faire
 le	DETdef	le
@@ -8104,17 +8999,22 @@ armer	VERinf	armer
 toutes	DETind	tous
 ses	DETpos	son
 gens	NOMcom	gens
+.	PONfrt	.
+
 Errant	ADVgen	errant
 s'	PROper	soi
 en	PROadv	en
 vint	VERcjg	venir
 a	PRE	a
 Romme	NOMpro	Rome
+,	PONfbl	,
 moult	ADVgen	moult
 estoit	VERcjg	estre
 biaus	ADJqua	bel
 et	CONcoo	et
 gens	ADJqua	giens
+.	PONfrt	.
+
 Mais	CONcoo	mais
 il	PROper	il
 avoit	VERcjg	avoir
@@ -8124,8 +9024,7 @@ tout	ADVgen	tout
 plain	ADJqua	plein
 de	PRE	de
 tricherie	NOMcom	tricherie
-.	PONfrt	.
-
+;	PONfbl	;
 Avoir	VERinf	avoir
 vouloit	VERcjg	vouloir
 la	DETdef	le
@@ -8136,6 +9035,8 @@ n'	ADVneg	ne
 ot	VERcjg	avoir
 pas	ADVneg	pas
 deservie	VERppe	desservir
+.	PONfrt	.
+
 Non	ADVneg	non
 pour	PRE	pour
 quant	CONsub	cant
@@ -8158,6 +9059,8 @@ ne	ADVneg	ne
 l'	PROper	il
 a	VERcjg	avoir
 mie	ADVneg	mie
+.	PONfrt	.
+
 Le	DETdef	le
 seneschal	NOMcom	seneschal
 cuida	VERcjg	cuidier
@@ -8168,6 +9071,7 @@ vantement	NOMcom	vantement
 Enginier	VERinf	engignier
 la	DETdef	le
 pucelle	NOMcom	pucelle
+,	PONfbl	,
 mais	CONcoo	mais
 on	PROind	on
 dit	VERcjg	dire
@@ -8181,6 +9085,8 @@ fol	ADJqua	fol
 pense	NOMcom	pense
 demeure	VERcjg	demeurer
 largement	ADVgen	largement
+.	PONfrt	.
+
 Il	PROper	il
 vint	VERcjg	venir
 a	PRE	a
@@ -8190,8 +9096,10 @@ et	CONcoo	et
 li	PROper	il
 dist	VERcjg	dire
 hautement	ADVgen	hautement
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 je	PROper	je
 sui	VERcjg	estre
 celui	PROdem	cel
@@ -8203,12 +9111,11 @@ a	PRE	a
 l'	DETdef	le
 asaut	NOMcom	assaut
 Par	PRE	par
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 foiz	NOMcom	foiz
 sus	PRE	sus
-Paiens	NOMcom	païen
+paiens	NOMcom	païen
+;	PONfbl	;
 moult	ADVgen	moult
 y	PROadv	y
 souffri	VERcjg	souffrir
@@ -8218,60 +9125,75 @@ chaut	ADJqua	chaut
 ”	PONpdr	”
 “	PONpga	“
 Seneschal	NOMcom	seneschal
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 le	DETdef	le
 roy	NOMcom	roi
+,	PONfbl	,
 “	PONpga	“
-Pour	PRE	pour
+pour	PRE	pour
 le	DETdef	le
 cors	NOMcom	corps
 saint	ADJqua	saint
 Thibaut	NOMpro	Thibaut
+,	PONfbl	,
 Fustes	VERcjg	estre
 vous	PROper	vous
 la	ADVgen	là
 pour	PRE	pour
 moi	PROper	je
+?	PONfrt	?
+
 ”	PONpdr	”
 “	PONpga	“
-Ouil	ADVgen	öil
+Ouïl	ADVgen	öil
+,	PONfbl	,
 se	CONsub	se
 Diex	NOMpro	Dieu
 me	PROper	je
 saut	VERcjg	salir
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Seneschal	NOMcom	seneschal
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 le	DETdef	le
 roy	NOMcom	roi
+,	PONfbl	,
 “	PONpga	“
-Preuz	ADJqua	pro
+preuz	ADJqua	pro
 estes	VERcjg	estre
 et	CONcoo	et
 gentis	ADJqua	gentif
+,	PONfbl	,
 Par	PRE	par
 m'	DETpos	mon
 ame	NOMcom	ame
+,	PONfbl	,
 je	PROper	je
 cuidoie	VERcjg	cuidier
 que	CONsub	que
 fussiez	VERcjg	estre
 anemis	NOMcom	ennemi
+.	PONfbl	.
 ”	PONpdr	”
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 le	DETdef	le
 traitre	NOMcom	traître
+,	PONfbl	,
 “	PONpga	“
-N'	ADVneg	ne
+n'	ADVneg	ne
 en	PROadv	en
 soiez	VERcjg	estre
 esbahis	VERppe	ébahir
+;	PONfbl	;
 Loial	ADJqua	loyal
 cuer	NOMcom	cuer
 ne	ADVneg	ne
@@ -8282,19 +9204,19 @@ fort	NOMcom	fort
 a	PRE	a
 ses	DETpos	son
 amis	NOMcom	ami
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 fer	NOMcom	fer
 tendi	VERcjg	tendre
 au	PRE.DETdef	a
 roy	NOMcom	roi
-.	PONfrt	.
-
 et	CONcoo	et
 puis	ADVgen	puis
 se	PROper	soi
 trait	VERcjg	traire
 avant	ADVgen	avant
+,	PONfbl	,
 La	DETdef	le
 plaie	NOMcom	plaie
 li	PROper	il
@@ -8303,37 +9225,43 @@ du	PRE.DETdef	de.le
 fer	NOMcom	fer
 bien	ADVgen	bien
 aparant	VERppa	apparoir
+.	PONfrt	.
+
 Le	DETdef	le
 chevalier	NOMcom	chevalier
 connut	VERcjg	connaître
-son	DETpos	son
-fer	NOMcom	fer
 que	CONsub	que
 c'	PROdem	ce
 est	VERcjg	estre
 son	DETpos	son
 fer	NOMcom	fer
 tranchant	VERppa	trenchier
+,	PONfbl	,
 Mais	CONcoo	mais
 il	PROper	il
 doutoit	VERcjg	douter
 le	DETdef	le
 glout	NOMcom	glout
-;	PONfbl	;
+,	PONfbl	,
 por	PRE	por
 ce	PROdem	ce
 s'	PROper	soi
 ala	VERcjg	aller
 taisant	VERppa	taire
+.	PONfrt	.
+
 Robert	NOMpro	Robert
+,	PONfbl	,
 qui	PROrel	que
 fist	VERcjg	faire
 le	DETdef	le
 fol	NOMcom	fou
+,	PONfbl	,
 touz	DETind	tous
 ces	DETdem	ce
 parlers	VERinf	parler
 ooit	VERcjg	öir
+,	PONfbl	,
 Encore	ADVgen	encore
 pour	PRE	pour
 la	DETdef	le
@@ -8342,6 +9270,7 @@ de	PRE	de
 sa	DETpos	son
 cuisse	NOMcom	cuisse
 clochoit	VERcjg	clochier
+;	PONfbl	;
 Mais	CONcoo	mais
 sachiez	VERcjg	savoir
 que	CONsub	que
@@ -8358,6 +9287,7 @@ une	DETndf	un
 nuit	NOMcom	nuit
 se	PROper	soi
 dormoit	VERcjg	dormir
+,	PONfbl	,
 Lors	ADVgen	lors
 li	PROper	il
 dist	VERcjg	dire
@@ -8379,16 +9309,18 @@ tant	ADVgen	tant
 que	CONsub	que
 Robert	NOMpro	Robert
 trouvast	VERcjg	trouver
+,	PONfbl	,
 On	PROind	on
 l'	PROper	il
 apeloit	VERcjg	apeler
-dëable	NOMcom	diable
+deable	NOMcom	diable
 ainz	ADVgen	ainz
 qu'	CONsub	que
 a	PRE	a
-bien	NOMcom	bien
+bien	ADVgen	bien
 s'	PROper	soi
 atournast	VERcjg	atourner
+,	PONfbl	,
 Et	CONcoo	et
 puis	ADVgen	puis
 el	PRE.DETdef	en
@@ -8396,10 +9328,12 @@ non	NOMcom	nom
 de	PRE	de
 Dieu	NOMpro	Dieu
 li	PROper	il
-deist	VERcjg	dire
+deïst	VERcjg	dire
 qu'	CONsub	que
 il	PROper	il
 parlast	VERcjg	parler
+.	PONfrt	.
+
 L'	DETdef	le
 ermite	NOMcom	ermite
 quant	CONsub	cant
@@ -8408,6 +9342,7 @@ jour	NOMcom	jour
 bonnement	ADVgen	bonnement
 se	PROper	soi
 leva	VERcjg	lever
+,	PONfbl	,
 Em	PRE	en
 priant	VERppa	priier
 Jhesucrist	NOMpro	Jésus-Christ
@@ -8416,6 +9351,8 @@ Romme	NOMpro	Rome
 s'	PROper	soi
 en	PROadv	en
 tourna	VERcjg	tourner
+.	PONfrt	.
+
 Le	DETdef	le
 seneschal	NOMcom	seneschal
 au	PRE.DETdef	a
@@ -8431,6 +9368,8 @@ que	CONsub	que
 volentiers	ADVgen	volentiers
 l'	PROper	il
 ara	VERcjg	avoir
+.	PONfrt	.
+
 On	PROind	on
 fist	VERcjg	faire
 mander	VERinf	mander
@@ -8441,6 +9380,7 @@ puis	ADVgen	puis
 vint	VERcjg	venir
 la	DETdef	le
 pucelle	NOMcom	pucelle
+,	PONfbl	,
 Qui	PROrel	que
 detordoit	VERcjg	detordre
 ses	DETpos	son
@@ -8449,14 +9389,17 @@ et	CONcoo	et
 gratoit	VERcjg	grater
 sa	DETpos	son
 maisselle	NOMcom	maisselle
+,	PONfbl	,
 Que	PROrel	que
 bien	ADVgen	bien
 savoit	VERcjg	savoir
 du	PRE.DETdef	de.le
 fait	NOMcom	fait
 la	DETdef	le
-certaine	ADJind	certain
+certaine	ADJqua	certain
 querelle	NOMcom	querelle
+.	PONfrt	.
+
 Son	DETpos	son
 pere	NOMcom	père
 l'	PROper	il
@@ -8467,6 +9410,8 @@ uis	NOMcom	uis
 de	PRE	de
 la	DETdef	le
 chapele	NOMcom	chapele
+.	PONfrt	.
+
 Cel	DETdem	cil
 jour	NOMcom	jour
 fist	VERcjg	faire
@@ -8477,6 +9422,7 @@ grant	ADJqua	grant
 vertus	NOMcom	vertu
 en	PRE	en
 apert	NOMcom	apert
+,	PONfbl	,
 A	PRE	a
 fin	NOMcom	fin
 c'	PROrel	que
@@ -8485,9 +9431,8 @@ conneüst	VERcjg	connaître
 le	DETdef	le
 preudomme	NOMcom	prudhomme
 Robert	NOMpro	Robert
-.	PONfrt	.
-
-Que	CONsub	que
+,	PONfbl	,
+Que	CONcoo	que
 trestouz	ADVgen	trèstout
 bas	ADJqua	bas
 et	CONcoo	et
@@ -8506,15 +9451,18 @@ ja	ADVgen	ja
 le	DETdef	le
 livre	NOMcom	livre
 ouvert	VERppe	ouvrir
+,	PONfbl	,
 Quant	CONsub	quand
 la	DETdef	le
 jone	ADJqua	jeune
 pucelle	NOMcom	pucelle
+,	PONfbl	,
 qui	PROrel	que
 point	ADVneg	point
 parler	VERinf	parler
 ne	ADVneg	ne
 sot	VERcjg	savoir
+,	PONfbl	,
 Parla	VERcjg	parler
 a	PRE	a
 son	DETpos	son
@@ -8522,6 +9470,7 @@ chier	ADJqua	chier
 pere	NOMcom	père
 et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Bien	ADVgen	bien
 vous	PROper	vous
@@ -8531,23 +9480,25 @@ Qui	PROrel	que
 creez	VERcjg	croire
 ce	DETdem	ce
 traitre	NOMcom	traître
+;	PONfbl	;
 il	PROper	il
 ment	VERcjg	mentir
 a	PRE	a
 chascun	DETind	chascun
 mot	NOMcom	mot
+;	PONfbl	;
 Mais	CONcoo	mais
 caiens	ADVgen	chains
 a	PRE	a
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 homme	NOMcom	homme
 qui	PROrel	que
 est	VERcjg	estre
 dous	ADJqua	doux
 et	CONcoo	et
-devot	VERcjg	devoir
+devot	ADJqua	devot
+.	PONfrt	.
+
 Par	PRE	par
 sa	DETpos	son
 bonté	NOMcom	bonté
@@ -8557,6 +9508,7 @@ Diex	NOMpro	Dieu
 la	DETdef	le
 parole	NOMcom	parole
 rendue	VERppe	rendre
+;	PONfbl	;
 Par	PRE	par
 signes	NOMcom	signe
 ne	ADVneg	ne
@@ -8564,7 +9516,8 @@ povoie	VERcjg	povoir
 de	PRE	de
 riens	PROind	rien
 estre	VERinf	estre
-creue	VERppe	croire
+creüe	VERppe	croistre
+.	PONfbl	.
 ”	PONpdr	”
 Li	DETdef	le
 roys	NOMcom	roi
@@ -8585,6 +9538,8 @@ lonctemps	ADVgen	lonctemps
 ot	VERcjg	avoir
 esté	VERppe	être
 mue	ADJqua	mu
+.	PONfrt	.
+
 Maugré	PRE	gré
 sien	ADJpos	sien
 la	PROper	il
@@ -8592,6 +9547,7 @@ laissa	VERcjg	laisser
 yluec	ADVgen	illuec
 le	DETdef	le
 seneschal	NOMcom	seneschal
+,	PONfbl	,
 Qui	PROrel	que
 vit	VERcjg	vëoir
 que	CONsub	que
@@ -8602,8 +9558,7 @@ du	PRE.DETdef	de.le
 tout	PROind	tout
 a	PRE	a
 mal	NOMcom	mal
-.	PONfrt	.
-
+;	PONfbl	;
 Descendi	VERcjg	descendre
 de	PRE	de
 la	DETdef	le
@@ -8613,16 +9568,19 @@ vint	VERcjg	venir
 a	PRE	a
 son	DETpos	son
 cheval	NOMcom	cheval
+,	PONfbl	,
 Sanz	PRE	sans
 femme	NOMcom	femme
 s'	PROper	soi
 en	PROadv	en
-fuy	VERcjg	fuir
+fuÿ	VERcjg	fuir
 tout	DETind	tout
 le	DETdef	le
 pendant	NOMcom	pendant
 du	PRE.DETdef	de.le
 val	NOMcom	val
+.	PONfrt	.
+
 Li	DETdef	le
 roys	NOMcom	roi
 ot	VERcjg	avoir
@@ -8641,19 +9599,24 @@ donna	VERcjg	donner
 garde	NOMcom	garde
 du	PRE.DETdef	de.le
 chetif	ADJqua	chétif
-mescheant	VERppa	meschëoir
+mescheant	NOMcom	meschëoir
+.	PONfrt	.
+
 Lors	ADVgen	lors
 li	PROper	il
 dist	VERcjg	dire
 l'	DETdef	le
 apostoile	NOMcom	apostole
+:	PONfbl	:
 “	PONpga	“
 Ma	DETpos	mon
 suer	NOMcom	seror
+,	PONfbl	,
 je	PROper	je
 vous	PROper	vous
 demant	VERcjg	demander
-Qui	PROrel	que
+,	PONfbl	,
+Qui	PROint	que
 est	VERcjg	estre
 le	DETdef	le
 saint	ADJqua	saint
@@ -8662,18 +9625,23 @@ dont	PROrel	dont
 vous	PROper	vous
 alez	VERcjg	aler
 parlant	VERppa	parler
+?	PONfrt	?
+
 ”	PONpdr	”
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 ”	PONpdr	”
 dist	VERcjg	dire
 la	DETdef	le
 pucelle	NOMcom	pucelle
+,	PONfbl	,
 qui	PROrel	que
 n'	ADVneg	ne
 estoit	VERcjg	estre
 pas	ADVneg	pas
 vilainne	ADJqua	vilain
+,	PONfbl	,
 “	PONpga	“
 Je	PROper	je
 vous	PROper	vous
@@ -8683,6 +9651,7 @@ fait	NOMcom	fait
 la	DETdef	le
 verité	NOMcom	verité
 certaine	ADJqua	certain
+.	PONfbl	.
 ”	PONpdr	”
 L'	DETdef	le
 emperere	NOMcom	empereur
@@ -8693,19 +9662,20 @@ mena	VERcjg	mener
 a	PRE	a
 la	DETdef	le
 fontaine	NOMcom	fontaine
+;	PONfbl	;
 Le	DETdef	le
 fer	NOMcom	fer
 d'	PRE	de
 entre	PRE	entre
-.ii	PROcar	deus
-.	PONfrt	.
-
+deus	DETcar	deux
 pierres	NOMcom	piere
 sacha	VERcjg	savoir
 a	PRE	a
 moult	ADVgen	moult
 grant	ADJqua	grant
 paine	NOMcom	peine
+.	PONfrt	.
+
 On	PROind	on
 manda	VERcjg	mander
 le	DETdef	le
@@ -8715,11 +9685,13 @@ le	DETdef	le
 fer	NOMcom	fer
 fu	VERcjg	estre
 partis	VERppe	partir
+;	PONfbl	;
 Puis	ADVgen	puis
 furent	VERcjg	estre
 mis	VERppe	metre
 ensamble	ADVgen	ensemble
-mais	ADVgen	mais
+,	PONfbl	,
+mais	CONcoo	mais
 Diex	NOMpro	Dieu
 de	PRE	de
 paradis	NOMcom	paradis
@@ -8738,11 +9710,12 @@ onques	ADVgen	onque
 n'	ADVneg	ne
 eüst	VERcjg	avoir
 esté	VERppe	être
-;	PONfbl	;
 ne	CONcoo	ne
 rompu	VERppe	rompre
 ne	CONcoo	ne
 maumis	VERppe	malmettre
+.	PONfrt	.
+
 Pour	PRE	pour
 les	DETdef	le
 vertus	NOMcom	vertu
@@ -8752,13 +9725,17 @@ de	PRE	de
 Romme	NOMpro	Rome
 moult	ADVgen	moult
 liez	ADJqua	lié
+.	PONfrt	.
+
 La	DETdef	le
 fille	NOMcom	fille
 dist	VERcjg	dire
 au	PRE.DETdef	a
 pappe	NOMcom	pappe
+:	PONfbl	:
 “	PONpga	“
 Sire	NOMcom	seignor
+,	PONfbl	,
 de	PRE	de
 voir	ADJqua	voir
 sachiez	VERcjg	savoir
@@ -8769,9 +9746,7 @@ place	NOMcom	place
 ci	ADVgen	ci
 s'	PROper	soi
 est	VERcjg	estre
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 foiz	NOMcom	foiz
 haubergiez	VERppe	haubergier
 Celui	PROdem	cel
@@ -8782,31 +9757,32 @@ sommes	VERcjg	être
 des	PRE.DETdef	de.le
 Sarrazins	NOMpro	Sarrasin
 vengiés	VERppe	venger
+.	PONfrt	.
+
 Je	PROper	je
 vi	VERcjg	vëoir
 bien	ADVgen	bien
 par	PRE	par
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 fois	NOMcom	fois
 comment	ADVsub	comment
 se	PROper	soi
 desarmoit	VERcjg	desarmer
+,	PONfbl	,
 Mais	CONcoo	mais
-savoit	VERcjg	savoir
+savoir	VERinf	savoir
 ne	ADVneg	ne
 pooie	VERcjg	pöoir
 ou	PROrel	où
 le	DETdef	le
 cheval	NOMcom	cheval
 aloit	VERcjg	aler
+,	PONfbl	,
 Ne	CONcoo	ne
 les	DETdef	le
 armes	NOMcom	arme
 aussi	ADVgen	aussi
-.	PONfrt	.
-
+,	PONfbl	,
 mais	CONcoo	mais
 le	DETdef	le
 saint	ADJqua	saint
@@ -8816,6 +9792,7 @@ Gesir	VERinf	gésir
 avec	PRE	avec
 le	DETdef	le
 chien	NOMcom	chien
+,	PONfbl	,
 je	PROper	je
 croi	VERcjg	croire
 bien	ADVgen	bien
@@ -8836,23 +9813,27 @@ si	ADVgen	si
 est	VERcjg	estre
 chose	NOMcom	chose
 vraie	ADJqua	vrai
+.	PONfrt	.
+
 Pere	NOMcom	père
+,	PONfbl	,
 bien	ADVgen	bien
 vous	PROper	vous
 a	VERcjg	avoir
 fait	VERppe	faire
+,	PONfbl	,
 droiz	NOMcom	droit
 est	VERcjg	estre
 qu'	CONsub	que
 ait	VERcjg	avoir
 bonne	ADJqua	bon
 paie	NOMcom	paie
+;	PONfbl	;
 Alez	VERcjg	aler
 parler	VERinf	parler
 a	PRE	a
 lui	PROper	il
-.	PONfrt	.
-
+;	PONfbl	;
 voir	ADVgen	voir
 de	PRE	de
 riens	PROind	rien
@@ -8869,6 +9850,7 @@ sa	DETpos	son
 cuisse	NOMcom	cuisse
 la	DETdef	le
 plaie	NOMcom	plaie
+.	PONfbl	.
 ”	PONpdr	”
 Li	DETdef	le
 roys	NOMcom	roi
@@ -8885,31 +9867,40 @@ en	PROadv	en
 vindrent	VERcjg	venir
 vers	PRE	vers
 Robert	NOMpro	Robert
+,	PONfbl	,
 qui	PROrel	que
 gisoit	VERcjg	jesir
 lés	PRE	lez
 le	DETdef	le
 chien	NOMcom	chien
+.	PONfrt	.
+
 Moult	ADVgen	moult
-bel	ADJqua	bel
+bel	ADVgen	bel
 le	PROper	il
 saluerent	VERcjg	salüer
+,	PONfbl	,
 mais	CONcoo	mais
 il	PROper	il
 ne	ADVneg	ne
 leur	PROper	leur
 dist	VERcjg	dire
 rien	PROind	rien
+.	PONfrt	.
+
 L'	DETdef	le
 emperere	NOMcom	empereur
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Biax	ADJqua	bel
 douz	ADJqua	doux
 amis	NOMcom	ami
+,	PONfbl	,
 cha	ADVgen	cha
 vien	VERcjg	venir
+,	PONfbl	,
 Et	CONcoo	et
 me	PROper	je
 moustre	VERcjg	montrer
@@ -8920,16 +9911,16 @@ fine	ADJqua	fin
 amour	NOMcom	amour
 te	PROper	tu
 pri	VERcjg	priier
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 prist	VERcjg	prendre
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 festu	NOMcom	festu
 et	CONcoo	et
 joua	ADVgen	jöau
-descremie	VERppe	descremir
+descremie	VERcjg	descremier
+;	PONfbl	;
 Au	PRE.DETdef	a
 pape	NOMcom	pape
 fist	VERcjg	faire
@@ -8941,26 +9932,32 @@ fin	NOMcom	fin
 que	PROrel	que
 il	PROper	il
 rie	VERcjg	rire
+,	PONfbl	,
 Mais	CONcoo	mais
 n'	ADVneg	ne
 en	PROadv	en
 avoit	VERcjg	avoir
 talent	NOMcom	talent
+,	PONfbl	,
 vers	PRE	vers
 Robert	NOMpro	Robert
-s'	DETpos	son
-umelie	NOMcom	humilie
+s'	PROper	soi
+umelie	VERcjg	umelier
 Et	CONcoo	et
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Tres	ADVgen	très
-douz	ADJcar	doux
+douz	ADJqua	doux
 filz	NOMcom	fil
+,	PONfbl	,
 je	PROper	je
 sui	VERcjg	estre
 pappe	NOMcom	pappe
 clamez	VERppe	clamer
+.	PONfrt	.
+
 De	PRE	de
 par	PRE	par
 Dieu	NOMpro	Dieu
@@ -8976,10 +9973,12 @@ vous	PROper	vous
 parlez	VERcjg	parler
 a	PRE	a
 moi	PROper	je
+,	PONfbl	,
 se	CONsub	se
 pooir	VERinf	pöoir
 en	PROadv	en
 avez	VERcjg	avoir
+.	PONfbl	.
 ”	PONpdr	”
 A	PRE	a
 ce	DETdem	ce
@@ -8990,26 +9989,33 @@ Robert	NOMpro	Robert
 a	PRE	a
 reculons	NOMcom	reculon
 levez	VERppe	lever
+.	PONfrt	.
+
 Au	PRE.DETdef	a
 pappe	NOMcom	pappe
 fist	VERcjg	faire
 la	DETdef	le
 figue	NOMcom	figue
 puis	ADVgen	puis
+,	PONfbl	,
 le	PROper	il
 seigna	VERcjg	signer
 d'	PRE	de
 un	DETndf	un
 os	NOMcom	os
+.	PONfrt	.
+
 Aus	PRE.DETdef	a
 signes	NOMcom	signe
 qu'	PROrel	que
-il	PROimp	il
+il	PROper	il
 faisoit	VERcjg	faire
 sambloit	VERcjg	sembler
 bien	ADVgen	bien
 estre	VERinf	estre
 fos	ADJqua	fol
+.	PONfrt	.
+
 Hé	INJ	hai
 vous	PROper	vous
 venir	VERinf	venir
@@ -9020,35 +10026,41 @@ avoit	VERcjg	avoir
 moult	ADVgen	moult
 bon	ADJqua	bon
 los	NOMcom	los
+;	PONfbl	;
 Tantost	ADVgen	tantost
 qu'	CONsub	que
 il	PROper	il
 vit	VERcjg	vëoir
 Robert	NOMpro	Robert
+,	PONfbl	,
 si	ADVgen	si
 li	PROper	il
 a	VERcjg	avoir
 dit	VERppe	dire
 ces	DETdem	ce
 mos	NOMcom	mos
-.	PONfrt	.
-
+:	PONfbl	:
 “	PONpga	“
 Amis	NOMcom	ami
+,	PONfbl	,
 entendez	VERcjg	entendre
 moi	PROper	je
+,	PONfbl	,
 moult	ADVgen	moult
 bien	ADVgen	bien
 vous	PROper	vous
 connoissons	VERcjg	connaître
+.	PONfrt	.
+
 Voir	ADJqua	voir
 Robert	NOMpro	Robert
 le	DETdef	le
-dëable	NOMcom	diable
+deable	NOMcom	diable
 soloit	VERcjg	soloir
 estre	VERinf	estre
 vos	DETpos	votre
 nons	NOMcom	nom
+;	PONfbl	;
 Mais	CONcoo	mais
 Robert	NOMpro	Robert
 l'	DETdef	le
@@ -9059,17 +10071,22 @@ nommer	VERinf	nommer
 vous	PROper	vous
 puet	VERcjg	pöoir
 ons	PROind	on
+.	PONfrt	.
+
 Touz	DETind	tout
 nous	PROper	nous
 avez	VERcjg	avoir
 sauvez	VERppe	sauver
 en	PRE	en
 ceste	DETdem	cest
-regions	NOMcom	région
+regïons	NOMcom	regïon
+.	PONfrt	.
+
 Vous	PROper	vous
 povez	VERcjg	pouvoir
 bien	ADVgen	bien
 parler	VERinf	parler
+,	PONfbl	,
 sachiez	VERcjg	savoir
 en	PRE	en
 bonne	ADJqua	bon
@@ -9083,15 +10100,18 @@ vous	PROper	vous
 mande	VERcjg	mander
 par	PRE	par
 moi	PROper	je
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 s'	PROper	soi
 agenoulla	VERcjg	agenouiller
 et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Glorieus	ADJqua	glorieux
-roy	NOMcom	roi
+Roy	NOMcom	roi
+,	PONfbl	,
 Liez	ADJqua	lié
 sui	VERcjg	estre
 quant	CONsub	cant
@@ -9103,14 +10123,18 @@ acordé	VERppe	acorder
 sui	VERcjg	estre
 a	PRE	a
 toi	PROper	tu
+.	PONfrt	.
+
 Glorieus	ADJqua	glorieux
 sire	NOMcom	seignor
 pere	NOMcom	père
+,	PONfbl	,
 je	PROper	je
 doi	VERcjg	devoir
 bien	ADVgen	bien
 estre	VERinf	estre
 liez	ADJqua	lié
+,	PONfbl	,
 Quant	CONsub	quand
 j'	PROper	je
 ai	VERcjg	avoir
@@ -9123,11 +10147,14 @@ que	PROrel	que
 j'	PROper	je
 ai	VERcjg	avoir
 braciez	VERppe	bracier
+;	PONfbl	;
 Vrai	ADJqua	vrai
 Diex	NOMpro	Dieu
+,	PONfbl	,
 donnez	VERcjg	donner
 moi	PROper	je
 grace	NOMcom	grâce
+,	PONfbl	,
 par	PRE	par
 vos	DETpos	votre
 saintes	ADJqua	saint
@@ -9139,16 +10166,20 @@ diz	NOMcom	dit
 sanz	PRE	sans
 faire	VERinf	faire
 mauvaistiez	NOMcom	mauvaiseté
+.	PONfbl	.
 ”	PONpdr	”
 Le	DETdef	le
 pueple	NOMcom	peuple
 ot	VERcjg	avoir
 moult	ADVgen	moult
 joie	NOMcom	joie
+,	PONfbl	,
 quant	CONsub	cant
 Robert	NOMpro	Robert
 dut	VERcjg	devoir
 parler	VERinf	parler
+.	PONfrt	.
+
 Li	DETdef	le
 roys	NOMcom	roi
 li	PROper	il
@@ -9158,6 +10189,7 @@ fille	NOMcom	fille
 a	PRE	a
 espouse	NOMcom	épouse
 donner	VERinf	donner
+,	PONfbl	,
 Mais	CONcoo	mais
 onques	ADVgen	onque
 li	DETdef	le
@@ -9168,6 +10200,7 @@ s'	PROper	soi
 i	PROadv	i
 voult	VERcjg	vouloir
 acorder	VERinf	accorder
+,	PONfbl	,
 Aincois	ADVgen	ainçois
 avec	PRE	avec
 l'	DETdef	le
@@ -9176,6 +10209,8 @@ s'	PROper	soi
 en	PROadv	en
 ala	VERcjg	aller
 demourer	VERinf	demeurer
+.	PONfrt	.
+
 Mais	CONcoo	mais
 puis	ADVgen	puis
 ne	ADVneg	ne
@@ -9186,16 +10221,14 @@ montance	NOMcom	montance
 d'	PRE	de
 un	DETndf	un
 mois	NOMcom	mois
-Que	PROrel	que
+Que	CONsub	que
 le	DETdef	le
 douz	ADJqua	doux
 Jhesucrist	NOMpro	Jésus-Christ
 li	PROper	il
 fist	VERcjg	faire
 noncier	VERinf	noncier
-.iii	PROcar	trois
-.	PONfrt	.
-
+trois	DETcar	trois
 fois	NOMcom	fois
 Qu'	CONsub	que
 il	PROper	il
@@ -9215,15 +10248,14 @@ le	DETdef	le
 cuer	NOMcom	cuer
 ot	VERcjg	avoir
 courtois	ADJqua	courtois
+,	PONfbl	,
 Et	CONcoo	et
 qu'	CONsub	que
 il	PROper	il
 istroit	VERcjg	issir
 d'	PRE	de
-euz	PROper	eux
-.ii	PROcar	deus
-.	PONfrt	.
-
+euz	NOMcom	œil
+deus	PROcar	deus
 encore	ADVgen	encore
 tel	DETind	tel
 lignie	NOMcom	lignée
@@ -9236,11 +10268,14 @@ Dieu	NOMpro	Dieu
 seroit	VERcjg	estre
 moult	ADVgen	moult
 souhaucie	VERppe	souhaucier
+.	PONfrt	.
+
 Lors	ADVgen	lors
 vint	VERcjg	venir
 Robert	NOMpro	Robert
 a	PRE	a
 Romme	NOMpro	Rome
+,	PONfbl	,
 si	ADVgen	si
 espousa	VERcjg	esposer
 s'	DETpos	son
@@ -9257,6 +10292,8 @@ d'	PRE	de
 aler	VERinf	aler
 en	PRE	en
 Normendie	NOMpro	Normandie
+.	PONfrt	.
+
 Par	PRE	par
 le	DETdef	le
 gré	NOMcom	gré
@@ -9268,6 +10305,7 @@ o	PRE	o
 tout	ADVgen	tout
 grant	ADJqua	grant
 gent	NOMcom	gent
+;	PONfbl	;
 Plenté	NOMcom	plenté
 mena	VERcjg	mener
 sommiers	NOMcom	sommier
@@ -9277,13 +10315,16 @@ or	NOMcom	or
 et	CONcoo	et
 d'	PRE	de
 argent	NOMcom	argent
+.	PONfrt	.
+
 Tant	ADVgen	tant
 fist	VERcjg	faire
 qu'	CONsub	que
 a	PRE	a
 Rouen	NOMpro	Rouen
-vint	DETcar	vingt
-mais	ADVgen	mais
+vint	VERcjg	venir
+,	PONfbl	,
+mais	CONcoo	mais
 en	PRE	en
 trop	ADVgen	trop
 grief	ADJqua	grief
@@ -9292,12 +10333,13 @@ Trouva	VERcjg	trouver
 ceulz	PROdem	celui
 de	PRE	de
 Rouen	NOMpro	Rouen
-je	PROper	je
+.	PONfrt	.
+
+Je	PROper	je
 vous	PROper	vous
 dirai	VERcjg	dire
 comment	ADVgen	comment
-.	PONfrt	.
-
+:	PONfbl	:
 Le	DETdef	le
 duc	NOMcom	duc
 si	ADVgen	si
@@ -9308,29 +10350,33 @@ moult	ADVgen	moult
 ot	VERcjg	avoir
 bon	ADJqua	bon
 renon	NOMcom	renom
+.	PONfrt	.
+
 Prez	ADVgen	prest
 de	PRE	de
 Rouen	NOMpro	Rouen
 manoit	VERcjg	manoir
-.I	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 traitre	NOMcom	traître
 felon	ADJqua	felon
+,	PONfbl	,
 Qui	PROrel	que
 fist	VERcjg	faire
 a	PRE	a
 la	DETdef	le
 duchesse	NOMcom	douche
 grief	ADJqua	grief
-persecution	NOMcom	persécution
+persecutïon	NOMcom	persécution
+;	PONfbl	;
 Faire	VERinf	faire
 la	PROper	il
 vout	VERcjg	voloir
 ardoir	VERinf	ardre
 par	PRE	par
 mortel	ADJqua	mortel
-traison	NOMcom	traison
+traïson	NOMcom	träison
+.	PONfrt	.
+
 Il	PROimp	il
 n'	ADVneg	ne
 avoit	VERcjg	avoir
@@ -9347,14 +10393,16 @@ osast	VERcjg	oser
 offrir	VERinf	offrir
 son	DETpos	son
 gant	NOMcom	gant
+,	PONfbl	,
 Ne	CONcoo	ne
 qui	PROrel	que
 a	PRE	a
 la	DETdef	le
 duchesse	NOMcom	douche
-poist	VERcjg	peser
+poïst	VERcjg	pöoir
 estre	VERinf	estre
 garant	ADJqua	garant
+,	PONfbl	,
 Quant	CONsub	quand
 Robert	NOMpro	Robert
 y	PROadv	y
@@ -9363,6 +10411,8 @@ qui	PROrel	que
 estoit	VERcjg	estre
 son	DETpos	son
 enfant	NOMcom	enfant
+.	PONfrt	.
+
 Touz	DETind	tout
 ceulz	PROdem	celui
 de	PRE	de
@@ -9373,6 +10423,8 @@ qu'	CONsub	que
 il	PROper	il
 fust	VERcjg	estre
 mors	VERppe	mourir
+.	PONfrt	.
+
 Moult	ADVgen	moult
 bien	ADVgen	bien
 le	PROper	il
@@ -9382,6 +10434,7 @@ virent	VERcjg	voir
 son	DETpos	son
 grant	ADJqua	grant
 cors	NOMcom	corps
+;	PONfbl	;
 Forment	ADVgen	fortement
 le	PROper	il
 redoutoient	VERcjg	redouter
@@ -9390,6 +10443,8 @@ fiebles	ADJqua	faible
 et	CONcoo	et
 les	DETdef	le
 fors	ADVgen	fors
+.	PONfrt	.
+
 Ne	CONcoo	ne
 por	PRE	por
 quant	CONsub	cant
@@ -9412,6 +10467,8 @@ tort	NOMcom	tort
 a	PRE	a
 sa	DETpos	son
 mere	NOMcom	mere
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 jura	VERcjg	jurer
 en	PRE	en
@@ -9436,10 +10493,14 @@ fist	VERcjg	faire
 il	PROper	il
 bien	ADVgen	bien
 briement	ADVgen	briément
-oez	NOMcom	œil
+.	PONfrt	.
+
+Oez	VERcjg	öir
 par	PRE	par
 quel	DETrel	quel
 matere	NOMcom	matiere
+!	PONfrt	!
+
 Robert	NOMpro	Robert
 ne	ADVneg	ne
 cessa	VERcjg	cesser
@@ -9449,6 +10510,7 @@ qu'	CONsub	que
 il	PROper	il
 fu	VERcjg	estre
 tenus	VERppe	tenir
+,	PONfbl	,
 Et	CONcoo	et
 puis	ADVgen	puis
 en	PRE	en
@@ -9459,15 +10521,15 @@ grant	ADJqua	grant
 et	CONcoo	et
 des	PRE.DETdef	de.le
 menus	ADJqua	menu
-.	PONfrt	.
-
 Jehit	VERcjg	jesir
 la	DETdef	le
 traison	NOMcom	traison
-loier	VERinf	loiier
+,	PONfbl	,
+loier	NOMcom	loyer
 l'en	PROind	loin
 fu	VERcjg	estre
 rendus	VERppe	rendre
+;	PONfbl	;
 Il	PROper	il
 esploita	VERcjg	exploiter
 si	ADVgen	si
@@ -9477,6 +10539,8 @@ au	PRE.DETdef	a
 gibet	NOMcom	gibé
 fu	VERcjg	estre
 pendus	VERppe	pendre
+.	PONfrt	.
+
 La	DETdef	le
 duchesse	NOMcom	douche
 ot	VERcjg	avoir
@@ -9491,11 +10555,14 @@ De	PRE	de
 Robert	NOMpro	Robert
 son	DETpos	son
 enfant	NOMcom	enfant
+,	PONfbl	,
 qui	PROrel	que
 bien	ADVgen	bien
 l'	PROper	il
 ot	VERcjg	avoir
 secourue	VERppe	secourir
+.	PONfrt	.
+
 Adont	ADVgen	adonc
 fu	VERcjg	estre
 Normendie	NOMpro	Normandie
@@ -9503,7 +10570,9 @@ de	PRE	de
 lui	PROper	il
 quite	ADJqua	quite
 tenue	VERppe	tenir
-Dont	PROrel	dont
+.	PONfrt	.
+
+Dont	ADVgen	donc
 conta	VERcjg	conter
 a	PRE	a
 la	DETdef	le
@@ -9511,6 +10580,8 @@ dame	NOMcom	dame
 toute	DETind	tout
 sa	DETpos	son
 convenue	NOMcom	convenue
+.	PONfrt	.
+
 Oiant	VERppa	öir
 maint	DETind	maint
 haut	ADJqua	haut
@@ -9518,8 +10589,6 @@ baron	NOMcom	baron
 et	CONcoo	et
 dames	NOMcom	dame
 recorda	VERcjg	recorder
-.	PONfrt	.
-
 Les	DETdef	le
 granz	ADJqua	grant
 paines	NOMcom	peine
@@ -9529,6 +10598,7 @@ Romme	NOMpro	Rome
 souffri	VERcjg	souffrir
 et	CONcoo	et
 endura	VERcjg	endurer
+,	PONfbl	,
 Et	CONcoo	et
 comment	ADVsub	comment
 l'	DETdef	le
@@ -9541,9 +10611,7 @@ donna	VERcjg	donner
 
 Estes	VERcjg	estre
 vous	PROper	vous
-.v	PROcar	cinq
-.	PONfrt	.
-
+cinq	DETcar	cinq
 messages	NOMcom	message
 dont	PROrel	dont
 li	DETdef	le
@@ -9555,16 +10623,14 @@ parla	VERcjg	parler
 Bien	ADVgen	bien
 salua	VERcjg	salüer
 Robert	NOMpro	Robert
-.	PONfrt	.
-
 et	CONcoo	et
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Vous	PROper	vous
 ne	ADVneg	ne
 savez	VERcjg	savoir
-.	PONfrt	.
-
+,	PONfbl	,
 L'	DETdef	le
 emperere	NOMcom	empereur
 de	PRE	de
@@ -9583,6 +10649,7 @@ que	CONsub	que
 vous	PROper	vous
 le	PROper	il
 secourez	VERcjg	secourir
+,	PONfbl	,
 Car	CONcoo	car
 le	DETdef	le
 seneschal	NOMcom	seneschal
@@ -9591,10 +10658,13 @@ est	VERcjg	estre
 contre	PRE	contre
 lui	PROper	il
 revelez	VERppe	reveler
+.	PONfrt	.
+
 Avoir	VERinf	avoir
 veult	VERcjg	vouloir
 vostre	DETpos	vostre
 femme	NOMcom	femme
+;	PONfbl	;
 de	PRE	de
 riens	PROind	rien
 n'	ADVneg	ne
@@ -9606,11 +10676,14 @@ envie	NOMcom	envie
 Robert	NOMpro	Robert
 li	PROper	il
 respondi	VERcjg	répondre
+:	PONfbl	:
 “	PONpga	“
 Voir	ADVgen	voir
+,	PONfbl	,
 il	PROper	il
 pense	VERcjg	penser
 folie	NOMcom	folie
+.	PONfbl	.
 ”	PONpdr	”
 Lors	ADVgen	lors
 manda	VERcjg	mander
@@ -9619,6 +10692,7 @@ effors	NOMcom	effort
 par	PRE	par
 toute	DETind	tout
 Normendie	NOMpro	Normandie
+,	PONfbl	,
 Vers	PRE	vers
 Romme	NOMpro	Rome
 s'	PROper	soi
@@ -9628,6 +10702,8 @@ a	PRE	a
 moult	ADVgen	moult
 noble	ADJqua	noble
 maisnie	NOMcom	maisnie
+.	PONfrt	.
+
 Mais	CONcoo	mais
 onques	ADVgen	onque
 ne	ADVneg	ne
@@ -9646,6 +10722,8 @@ eüst	VERcjg	avoir
 l'	DETdef	le
 emperere	NOMcom	empereur
 mort	VERppe	mourir
+.	PONfrt	.
+
 La	DETdef	le
 fille	NOMcom	fille
 pour	PRE	pour
@@ -9653,33 +10731,37 @@ son	DETpos	son
 pere	NOMcom	père
 fist	VERcjg	faire
 duel	NOMcom	duel
+,	PONfbl	,
 si	ADVgen	si
 n'	ADVneg	ne
 ot	VERcjg	avoir
 pas	ADVneg	pas
 tort	NOMcom	tort
-.	PONfrt	.
-
+,	PONfbl	,
 Et	CONcoo	et
 Robert	NOMpro	Robert
 fist	VERcjg	faire
 ses	DETpos	son
 hommes	NOMcom	homme
-touz	ADVgen	tout
+touz	PROind	tous
 armer	VERinf	armer
 d'	PRE	de
 un	DETndf	un
 acort	NOMcom	accord
+.	PONfrt	.
+
 Puis	ADVgen	puis
 s'	PROper	soi
 en	PROadv	en
 vint	VERcjg	venir
 devant	PRE	devant
 Romme	NOMpro	Rome
+,	PONfbl	,
 ou	PROrel	où
 le	DETdef	le
 seneschal	NOMcom	seneschal
 sist	VERcjg	sëoir
+,	PONfbl	,
 Dedenz	PRE	dedans
 l'	DETdef	le
 ost	NOMcom	ost
@@ -9690,27 +10772,26 @@ sa	DETpos	son
 gent	NOMcom	gent
 sanz	PRE	sans
 respit	NOMcom	respit
+.	PONfrt	.
+
 Tantost	ADVgen	tantost
 comme	CONsub	comme
 Robert	NOMpro	Robert
-;	PONfbl	;
 le	DETdef	le
 faus	ADJqua	faus
 traitre	NOMcom	traître
 vit	VERcjg	vëoir
-.	PONfrt	.
-
+,	PONfbl	,
 Il	PROper	il
 s'	PROper	soi
 aprocha	VERcjg	approcher
 de	PRE	de
 li	PROper	il
-.	PONfrt	.
-
 et	CONcoo	et
 fierement	ADVgen	fièrement
 li	PROper	il
 dist	VERcjg	dire
+:	PONfbl	:
 “	PONpga	“
 Pas	ADVneg	pas
 ne	ADVneg	ne
@@ -9722,29 +10803,32 @@ coup	NOMcom	coup
 que	PROrel	que
 je	PROper	je
 puisse	VERcjg	pöoir
+!	PONfrt	!
+
 Ne	ADVneg	ne
 boutas	VERcjg	bouter
 tu	PROper	tu
 le	DETdef	le
 fer	NOMcom	fer
-;	PONfbl	;
 d'	PRE	de
 une	DETndf	un
 lance	NOMcom	lance
 en	PRE	en
 ta	DETpos	ton
 cuisse	NOMcom	cuisse
+?	PONfrt	?
+
 Je	PROper	je
 ne	ADVneg	ne
-coi	VERcjg	coire
-que	PROrel	que
+croi	VERcjg	croire
+que	CONsub	que
 jamais	ADVgen	jamais
-;	PONfbl	;
 puis	ADVgen	puis
 mauvais	ADJqua	mauvais
 de	PRE	de
 toi	PROper	tu
 truisse	VERcjg	trover
+,	PONfbl	,
 Mais	CONcoo	mais
 ton	DETpos	ton
 loier	NOMcom	loyer
@@ -9754,12 +10838,12 @@ que	CONsub	que
 le	DETdef	le
 jour	NOMcom	jour
 ysse	VERcjg	issir
+.	PONfbl	.
 ”	PONpdr	”
 Robert	NOMpro	Robert
 moult	ADVgen	moult
 courouciez	VERppe	courroucer
-;	PONfbl	;
-s'	ADVgen	si
+s'	PROper	soi
 en	PROadv	en
 vint	VERcjg	venir
 au	PRE.DETdef	a
@@ -9775,6 +10859,7 @@ cercle	NOMcom	cercle
 et	CONcoo	et
 le	DETdef	le
 nazal	NOMcom	nazal
+,	PONfbl	,
 Le	DETdef	le
 nez	NOMcom	nef
 et	CONcoo	et
@@ -9784,15 +10869,18 @@ li	PROper	il
 a	VERcjg	avoir
 bati	VERppe	battre
 aval	ADVgen	aval
+,	PONfbl	,
 Tout	ADVgen	tout
-envers	PRE	envers
+envers	ADVgen	envers
 pour	PRE	pour
 l'	DETdef	le
 angoisse	NOMcom	angoisse
-chay	NOMcom	chai
+chay	VERcjg	choir
 de	PRE	de
 son	DETpos	son
 cheval	NOMcom	cheval
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 en	PRE	en
 la	DETdef	le
@@ -9801,6 +10889,8 @@ de	PRE	de
 Romme	NOMpro	Rome
 le	PROper	il
 mena	VERcjg	mener
+.	PONfrt	.
+
 On	PROind	on
 le	PROper	il
 fist	VERcjg	faire
@@ -9810,14 +10900,17 @@ puis	ADVgen	puis
 on	PROind	on
 le	PROper	il
 sala	VERcjg	saler
+.	PONfrt	.
+
 La	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
 emperere	NOMcom	empereur
-mal	ADVgen	mal
+mal	NOMcom	mal
 pour	PRE	pour
 li	PROper	il
 convoita	VERcjg	convoiter
+,	PONfbl	,
 Mais	CONcoo	mais
 le	DETdef	le
 sage	ADJqua	sage
@@ -9827,25 +10920,29 @@ on	PROind	on
 le	PROper	il
 dit	VERcjg	dire
 pieca	ADVgen	piéça
+,	PONfbl	,
 C'	CONsub	que
 on	PROind	on
 convoite	VERcjg	convoitier
 tel	DETind	tel
 chose	NOMcom	chose
 dont	PROrel	dont
-il	PROimp	il
+il	PROper	il
 sourt	VERcjg	sordre
 grant	ADJqua	grant
 hontage	NOMcom	hontage
+.	PONfrt	.
+
 Robert	NOMpro	Robert
 qui	PROrel	que
 on	PROind	on
 s'	PROper	soi
-enfance	NOMcom	enfance
+enfance	VERcjg	enfancier
 ot	VERcjg	avoir
 esté	VERppe	être
 moult	ADVgen	moult
 sauvage	ADJqua	sauvage
+,	PONfbl	,
 Vers	PRE	vers
 Dieu	NOMpro	Dieu
 et	CONcoo	et
@@ -9868,6 +10965,8 @@ sainz	ADJqua	saint
 ciex	NOMcom	ciel
 l'	DETdef	le
 eritage	NOMcom	héritage
+.	PONfrt	.
+
 Le	DETdef	le
 fille	NOMcom	fille
 l'	DETdef	le
@@ -9875,9 +10974,7 @@ emperere	NOMcom	empereur
 ot	VERcjg	avoir
 de	PRE	de
 li	PROper	il
-.i	PROcar	un
-.	PONfrt	.
-
+un	DETndf	un
 enfant	NOMcom	enfant
 C'	PROrel	que
 on	PROind	on
@@ -9888,6 +10985,7 @@ dant	NOMcom	dent
 Richart	NOMpro	Richard
 le	DETdef	le
 Normant	NOMpro	normand
+,	PONfbl	,
 Qui	PROrel	que
 fist	VERcjg	faire
 moult	ADVgen	moult
@@ -9898,29 +10996,34 @@ comme	CONsub	comme
 il	PROper	il
 fu	VERcjg	estre
 vivant	VERppa	vivre
+;	PONfbl	;
 De	PRE	de
 Fesquan	NOMpro	Fécam
 l'	DETdef	le
 abaie	NOMcom	abaie
 fonda	VERcjg	fonder
+,	PONfbl	,
 je	PROper	je
 vous	PROper	vous
-crëant	VERppa	croire
+creant	VERcjg	crëanter
+.	PONfrt	.
+
 Avecques	PRE	avec
 Karlemaigne	NOMpro	Charlemagne
-;	PONfbl	;
 passa	VERcjg	passer
 outre	PRE	outre
 la	DETdef	le
 mer	NOMcom	mer
+.	PONfrt	.
+
 Les	DETdef	le
 parens	NOMcom	parent
-GuenelonNe	NOMpro	Ganelone
+Guenelon	NOMpro	Ganelon
+ne	ADVneg	ne
 le	PROper	il
 porrent	VERcjg	pouvoir
 amer	VERinf	amer
-.	PONfrt	.
-
+,	PONfbl	,
 Car	CONcoo	car
 il	PROper	il
 ne	ADVneg	ne
@@ -9929,6 +11032,8 @@ onques	ADVgen	onque
 a	PRE	a
 mauvaistie	NOMcom	mauvaiseté
 penser	VERinf	penser
+.	PONfrt	.
+
 Diex	NOMpro	Dieu
 nous	PROper	nous
 veille	VERcjg	veillier
@@ -9938,5 +11043,5 @@ et	CONcoo	et
 sa	DETpos	son
 grace	NOMcom	grâce
 donner	VERinf	donner
-.	PONfrt	.
+!	PONfrt	!
 
