@@ -1,26 +1,27 @@
 "","text","obs_freq","exp_freq","p_value"
-"1","A01 vie saint alexis",3,24.4518319928508,1e-05
-"2","A02 vie saint barbre",11,13.9724754244861,0.40825
-"3","A03 vie saint basille",4,10.9783735478105,0.02912
-"4","A04 vie saint christofle",47,25.6369973190349,3e-05
-"5","A05 vie sainte dieudonnee",43,22.2062555853441,4e-05
-"6","A06 saint jean evangeliste",26,28.7870420017873,0.58257
-"7","A07 vie saint jean paulus",13,11.5397676496872,0.65985
-"8","A08 vie glorieux confesseur",5,11.6645218945487,0.04293
-"9","A09 vie saint leu",4,7.85951742627346,0.15646
-"10","A10 poines enfer",4,17.7774798927614,0.00088
-"11","A11 vie saint sebastien",7,7.98427167113494,0.72482
-"12","A12 miracle saint servais",8,15.9373547810545,0.03694
-"13","A13 vie seint thibault",2,32.9974977658624,0
-"14","A14 miracle seint thomas",4,2.37033065236819,0.2436
-"15","A15 vie saint yves",1,0.873279714030384,0.8183
-"16","A16 guillaume angleterre",45,29.5667560321716,0.00282
-"17","A17 robert deable",51,31.6875781948168,4e-04
-"18","A18 richart sans peour",54,25.5122430741734,0
-"19","A19 elegy troyes",NA,2.12082216264522,0.11565
-"20","A20 vieillards tués",4,4.61590705987489,0.75572
-"21","A21 mauvais riche homme",1,3.24361036639857,0.2002
-"22","A22 jeu des dez",3,3.99213583556747,0.62074
-"23","A23 roy avoit amie",6,6.23771224307417,0.92246
-"24","A24 dieu damours",NA,0.623771224307417,0.39025
-"25","A25 quatre sereurs",3,6.36246648793566,0.17246
+"1","A01 vie saint alexis",3,24.7270254186857,2e-05
+"2","A02 vie saint barbre",11,14.1297288106775,0.38905
+"3","A03 vie saint basille",4,11.1019297798181,0.02757
+"4","A04 vie saint christofle",47,25.9255292017342,3e-05
+"5","A05 vie sainte dieudonnee",43,22.4561761455411,1e-05
+"6","A06 vie saint gregoire",21,18.0721754654425,0.47552
+"7","A07 saint jean evangeliste",26,29.1110260987843,0.53985
+"8","A08 vie saint jean paulus",13,11.6696420981042,0.69094
+"9","A09 vie glorieux confesseur",5,11.7958003910567,0.03994
+"10","A10 vie saint leu",4,7.94797245600612,0.14765
+"11","A11 poines enfer",4,17.9775567457281,0.00089
+"12","A12 vie saint sebastien",7,8.0741307489586,0.70301
+"13","A13 miracle saint servais",8,16.1167219246791,0.03496
+"14","A14 vie seint thibault",2,33.3688684859305,1e-05
+"15","A15 miracle seint thomas",4,2.39700756609708,0.24807
+"16","A16 vie saint yves",1,0.883108050667347,0.82036
+"17","A17 guillaume angleterre",46,29.8995154297373,0.00197
+"18","A18 robert deable",51,32.0442064099294,0.00048
+"19","A19 richart sans peour",54,25.7993709087818,0
+"20","A20 elegy troyes",NA,2.14469098019213,0.11636
+"21","A21 vieillards tués",4,4.66785683924169,0.74076
+"22","A22 mauvais riche homme",1,3.28011561676443,0.20284
+"23","A23 jeu des dez",3,4.0370653744793,0.59775
+"24","A24 roy avoit amie",6,6.3079146476239,0.90575
+"25","A25 dieu damours",NA,0.63079146476239,0.38979
+"26","A26 quatre sereurs",3,6.43407294057638,0.16367

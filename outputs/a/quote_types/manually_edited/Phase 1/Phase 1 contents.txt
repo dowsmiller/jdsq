@@ -1,1 +1,1 @@
-Excluding 05, 10, 16, 17
+Excluding 05, 06, 11, 17, 18

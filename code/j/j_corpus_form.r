@@ -42,8 +42,8 @@ for (i in seq_along(j_corpus_c)) {
 }
 
 #get manual text lengths
-text_lengths_j <- read.csv("rdat/j/text_lengths_jdsq_manual.csv", stringsAsFactors = FALSE)[, 1:2]
-colnames(text_lengths_j) <- c("text_name", "length")
+text_lengths_j <- read.csv("rdat/j/text_lengths_jdsq_manual.csv", stringsAsFactors = FALSE)
+colnames(text_lengths_j) <- c("text_name", "length", "prologue", "epilogue")
 
 #plots
 library(tidyr)
@@ -80,3 +80,14 @@ ggsave(
     width = 5,
     height = 5
 )
+
+#save as csv
+write.csv(
+    text_lengths_j,
+    file = file.path(odir, "text_lengths_j_corpus.csv"),
+    row.names = TRUE
+)
+
+
+# some stats
+cor.test(text_lengths_j$length, text_lengths_j$prologue)

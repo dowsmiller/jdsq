@@ -76,3 +76,10 @@ ggsave(
     width = 5,
     height = 5
 )
+
+#save as csv
+write.csv(
+    text_lengths,
+    file = file.path(odir, "text_lengths_f_corpus.csv"),
+    row.names = TRUE
+)

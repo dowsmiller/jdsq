@@ -5,10 +5,11 @@ rm(list = ls())
 library(stringr)
 
 #directories
-rdir <- "my_data/r_corpus"
+rdir <- "wdat/r"
 script_name <- "form"
-wdir <- file.path("my_data/r_corpus/outputs", script_name)
-dir.create(wdir, showWarnings = FALSE)
+dir.create("outputs/r", showWarnings = FALSE)
+odir <- file.path("outputs/r", script_name)
+dir.create(odir, showWarnings = FALSE)
 
 #load data
 r_corpus_c <- readRDS(file.path(rdir, "r_corpus_c.rds"))
@@ -77,9 +78,16 @@ theme(
 )
 
 ggsave(
-    filename = file.path(wdir, "text_length_boxplot.png"),
+    filename = file.path(odir, "text_length_boxplot.png"),
     device = "png",
     dpi = 700,
     width = 5,
     height = 5
+)
+
+#save as csv
+write.csv(
+    text_lengths_r,
+    file = file.path(odir, "text_lengths_r_corpus.csv"),
+    row.names = TRUE
 )

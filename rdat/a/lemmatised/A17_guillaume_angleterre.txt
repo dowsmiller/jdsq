@@ -1967,10 +1967,12 @@ Hé	INJ	hai
 
 roy	NOMcom	roi
 ,	PONfbl	,
+”	PONpdr	”
 dist	VERcjg	dire
 la	DETdef	le
 roïne	NOMcom	reine
 ,	PONfbl	,
+“	PONpga	“
 vos	DETpos	votre
 amours	NOMcom	amour
 fausses	ADJqua	faux
